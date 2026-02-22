@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602220918
+! Version: 202602220927
 ! Title: EasyList
-! Last modified: 22 Feb 2026 09:18 UTC
+! Last modified: 22 Feb 2026 09:27 UTC
 ! Expires: 4 days (update frequency)
-! Commit: f637d80215c83d37311a57c7b333eb179d6dd63b
+! Commit: 267cf6440fbddcb71c972188bc2f47d97ae33b3c
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -47657,6 +47657,7 @@ browsershots.org#@#.advert_area
 ||osspalkiaom.com^
 ||osspinsira.com^
 ||ossuarycushite.help^
+||ostensiblechambers.com^
 ||ostentatiousimplement.com^
 ||ostgcawizznse.online^
 ||osticsabin.qpon^
@@ -48772,6 +48773,7 @@ browsershots.org#@#.advert_area
 ||peggyboho.qpon^
 ||pegjepbgupywk.com^
 ||pegmencranky.help^
+||pehnepkvigtki.online^
 ||pehwiexpakvqhxm.xyz^
 ||peinmanto.qpon^
 ||peisergondola.cfd^
@@ -50222,6 +50224,7 @@ browsershots.org#@#.advert_area
 ||precmd.com^
 ||precursortrimrequest.com^
 ||precursorwhiskeyleak.com^
+||predatorvernonforefather.com^
 ||predestinationicebergpredicament.com^
 ||predictioncustom.com^
 ||predictiondexchange.com^
@@ -63886,6 +63889,7 @@ browsershots.org#@#.advert_area
 ||welcomeneat.pro^
 ||welcomingaccompanyeffort.com^
 ||welcomingwaterfall.com^
+||welfarewore.com^
 ||weligillysies.com^
 ||welldocumented-president.pro^
 ||welldocumentedwrap.com^
