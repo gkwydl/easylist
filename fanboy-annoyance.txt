@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602230732
+! Version: 202602230743
 ! Title: Fanboy's Annoyance List
-! Last modified: 23 Feb 2026 07:32 UTC
+! Last modified: 23 Feb 2026 07:43 UTC
 ! Expires: 4 days (update frequency)
-! Commit: e953f331c71fec4125d397b2eaaae8ef17bdbf3b
+! Commit: 23352f5a50cfd02540f4e59537d4513736b860e6
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -39342,6 +39342,7 @@ flatspot.pictures##.cookieShit
 oklink.com##.cookieTips
 aanstellingspas.nl##.cookieWallContainer
 elegantflyer.com##.cookie__form
+justdancenow.com##.cookie__wrapper
 deepseek.com##.cookie_banner-wrap
 micro1.ai##.cookie_bar-wrapper
 blacksmith.sh##.cookie_component
