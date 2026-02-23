@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602230908
+! Version: 202602230911
 ! Title: EasyList
-! Last modified: 23 Feb 2026 09:08 UTC
+! Last modified: 23 Feb 2026 09:11 UTC
 ! Expires: 4 days (update frequency)
-! Commit: ec0018dc2e5e4cecf0c1dcd4c4ed09a82dfd0092
+! Commit: 371def0f29d22d22539b0f9e93ffdf065b0bce97
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -36270,6 +36270,7 @@ browsershots.org#@#.advert_area
 ||hxnxxmhyfpanj.online^
 ||hxoewq.com^
 ||hxoybxtpbvmbl.space^
+||hxrl11novx45x4.cfd^
 ||hxrmmbjarzorn.online^
 ||hxstsojznzem.com^
 ||hxtbpzkeroxrv.space^
@@ -49658,6 +49659,7 @@ browsershots.org#@#.advert_area
 ||planseffectstrim.com^
 ||plansforourcompan.org^
 ||plantalrasceta.com^
+||plantalstupas.cyou^
 ||plantationexhaust.com^
 ||plantationhick.com^
 ||planthereatlaced.cfd^
@@ -51402,6 +51404,7 @@ browsershots.org#@#.advert_area
 ||pxyggrntfvmqh.site^
 ||py7qbuyqxi69yruh.cfd^
 ||pyabgyoqeflgd.online^
+||pyaemicclept.shop^
 ||pyainqxuvtcsb.space^
 ||pyaivqkqgnfem.online^
 ||pyaslvsbmasjm.website^
