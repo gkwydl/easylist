@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602240331
+! Version: 202602240333
 ! Title: Fanboy's Annoyance List
-! Last modified: 24 Feb 2026 03:31 UTC
+! Last modified: 24 Feb 2026 03:33 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 6c84f053b3dcb5c2729253594510238e46844295
+! Commit: abbe857886ddfc4a6ecc052b2587c8f714d5784e
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -41502,7 +41502,7 @@ app.gnosispay.com,cinobo.com,jdslabs.com,lukso.network,lumoar.com,mymarket.ge,pl
 ! ! .bottom-8
 ai-coustics.com,betterstack.com,dr-anns.com,lightyear.one,parallel.life,platoboost.app,vecer.com##.bottom-8
 ! ! .bottom-4
-airlineratings.com,blog.smithsecurity.biz,boo.world,convex.dev,depot.dev,desenio.se,docs.earthly.dev,foodhubforbusiness.com,getmerlin.in,gitverse.ru,herzindagi.com,justo.ca,media.halvacard.ru,moises.ai,my.openbb.co,promobit.com.br,pump.fun,remnote.com,shuttle.rs,snead.app,urlcast.io##.bottom-4
+airlineratings.com,blog.smithsecurity.biz,boo.world,convex.dev,depot.dev,desenio.se,docs.earthly.dev,foodhubforbusiness.com,getmerlin.in,gitverse.ru,herzindagi.com,justo.ca,media.halvacard.ru,moises.ai,my.openbb.co,promobit.com.br,pump.fun,remnote.com,shuttle.rs,snead.app,thinglink.com,urlcast.io##.bottom-4
 ! ! .bottom-40
 netnoticias.mx##.bottom-40
 ! ! .bottom-3
