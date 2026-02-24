@@ -3,7 +3,7 @@
 ! Title: Fanboy's Annoyance List
 ! Last modified: 24 Feb 2026 03:47 UTC
 ! Expires: 4 days (update frequency)
-! Commit: d2047414b02d62eb0365d4ccbc158e21b4036ace
+! Commit: ed4df3c99c430eca2d20e7b8aa2975fd18f654f7
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -38104,6 +38104,7 @@ idp.vodafone.com,shopto.net###cookie-consent-wrapper
 amnesty.org###cookie-consent__modal
 autism-unlimited.org###cookie-cover
 asianlemansseries.com###cookie-dialog
+uofmhealth.org###cookie-law
 cpac.ca###cookie-law-bar-holder
 ecigarettedirect.co.uk###cookie-message-slide-in
 dirsyncpro.org###cookie-notice-modal
