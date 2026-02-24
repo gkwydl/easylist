@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602240003
+! Version: 202602240004
 ! Title: Fanboy's Annoyance List
-! Last modified: 24 Feb 2026 00:03 UTC
+! Last modified: 24 Feb 2026 00:04 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 15bcc200b46f2f609594085934399638beecbf01
+! Commit: 444d51439917ddd8411630bea031c916b0e987d3
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -47135,7 +47135,7 @@ fastvps.ru##app-cookies-accept
 authedu.mosreg.ru,myschool.mos.ru,school.mos.ru,uchebnik.mos.ru##body > div[style^="position: fixed; overflow: visible; top: 0px; left: 0px; transform: translate("]
 vmeste.mosreg.ru##dd-cookie-accept-banner
 rabota.sber.ru##div[class*="styled__CookieWrapper-"]
-sberbank.ru##div[class^="CookieWarning-"]
+sberbank.com,sberbank.ru##div[class^="CookieWarning-"]
 life.by##div[class^="Cookie_modalRoot_"]
 novayagazeta.eu##div[class^="CookiesInformer_"]
 dom.ria.com##div[class^="GdprComponent"]
