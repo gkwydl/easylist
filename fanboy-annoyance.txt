@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602240322
+! Version: 202602240325
 ! Title: Fanboy's Annoyance List
-! Last modified: 24 Feb 2026 03:22 UTC
+! Last modified: 24 Feb 2026 03:25 UTC
 ! Expires: 4 days (update frequency)
-! Commit: b931538a78bcfc643c2f484d8dc468e55b6caa27
+! Commit: bd838d4d40c19729c5fd6dc68a89e0a5d30d251d
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -47353,7 +47353,7 @@ portafolio.co##.c-popup
 lasestrellas.tv##.cTWBhP
 infiniti.com.do,infiniti.com.pa,infiniti.mx,infinitipr.com##.c_128
 escac.com##.ccookiepopupwrapbanner
-chedraui.com.mx##.chedrauimx-frontend-applications-4-x-cookiesContainer
+chedraui.com.mx##.chedrauimx-frontend-applications-5-x-cookiesContainer
 banamex.com##.citi-navbar-message
 amigo24.com,firadecocentaina.org##.cm-popup
 puntaldecoracion.com##.cm-wp-container
