@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602240349
+! Version: 202602240350
 ! Title: Fanboy's Annoyance List
-! Last modified: 24 Feb 2026 03:49 UTC
+! Last modified: 24 Feb 2026 03:50 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 35c3a5df572c9420460351ad599a4ec41b9860e9
+! Commit: 0f56a6c5cc96b93a5664e088e990034f3ff69289
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -41363,7 +41363,7 @@ msm.co,xmasgiftsonline.nl###cookies-block
 ! ! .cookie-wall
 confused.com,lanzaloe.com,threadstone.eu,wembleypark.com##.cookie-wall
 ! ! .cookie-warning
-chromehearts.com,nespresso.com,temp-mail.io##.cookie-warning
+chromehearts.com,nahb.org,nespresso.com,temp-mail.io##.cookie-warning
 ! ! .gdpr-body
 boromir.ro##.gdpr-body
 ! ! gdpr_
