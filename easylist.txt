@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602241703
+! Version: 202602241706
 ! Title: EasyList
-! Last modified: 24 Feb 2026 17:03 UTC
+! Last modified: 24 Feb 2026 17:06 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 4182a09a3eda6824e595599f402bd2f9692a199a
+! Commit: 76bff2a79c2175501aad87741239dc2c777ae557
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -29385,6 +29385,7 @@ browsershots.org#@#.advert_area
 ||enlightencareerschronicle.com^
 ||enlightened-entry.pro^
 ||enlightened-quit.com^
+||enlightened-team.pro^
 ||enlightenedmountain.com^
 ||enlightenelevatorboycott.com^
 ||enlivenindex.com^
@@ -42825,6 +42826,7 @@ browsershots.org#@#.advert_area
 ||magicianboundary.com^
 ||magicianmost.com^
 ||magnalesingly.cfd^
+||magnetchidden.qpon^
 ||magnificent-editor.pro^
 ||magnificent-listen.com^
 ||magnificentdates.com^
@@ -51364,6 +51366,7 @@ browsershots.org#@#.advert_area
 ||pundumringatu.cfd^
 ||pungent-shift.pro^
 ||pungentobservationwhispering.com^
+||pungentsecretary.pro^
 ||punicbices.cfd^
 ||punishencoder.cfd^
 ||punishgreater.com^
@@ -57676,6 +57679,7 @@ browsershots.org#@#.advert_area
 ||stagloatsaird.net^
 ||staid-shirt.pro^
 ||staiderkidhood.help^
+||staidlyunhitch.shop^
 ||staiglaugritcho.com^
 ||stailtoomt.net^
 ||staindessadness.com^
