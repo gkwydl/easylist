@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602240350
+! Version: 202602240355
 ! Title: Fanboy's Annoyance List
-! Last modified: 24 Feb 2026 03:50 UTC
+! Last modified: 24 Feb 2026 03:55 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 0f56a6c5cc96b93a5664e088e990034f3ff69289
+! Commit: c574d5a72ce31c67bbfe4918b1c8305a38d1cfa0
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -39103,6 +39103,7 @@ corporate.comcast.com##.c-top-banner
 ustgear.com,wheelertools.com##.c-tracking-consent
 ii.co.uk##.c01194
 queengarnet.com##.c0211
+cycling74.com##.c74consent_wrapper
 eyetvforum.com##.cAnnouncementPageTop
 ada.com##.cDLTkj
 infiniti-abudhabi.com,infiniti-azerbaijan.com,infiniti-bahrain.com,infiniti-dubai.com,infiniti-jordan.com,infiniti-kuwait.com,infiniti-lebanon.com,infiniti-oman.com,infiniti-qatar.com,infiniti.com,infiniti.com.my##.c_128
