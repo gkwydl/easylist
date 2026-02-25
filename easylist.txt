@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602251120
+! Version: 202602251121
 ! Title: EasyList
-! Last modified: 25 Feb 2026 11:20 UTC
+! Last modified: 25 Feb 2026 11:21 UTC
 ! Expires: 4 days (update frequency)
-! Commit: eeb35d47ba2767e79078c1b8cb92b43308a8fcc2
+! Commit: f2e5dd9580d9c4d6763813f03e00e90aca205e98
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -62674,6 +62674,7 @@ browsershots.org#@#.advert_area
 ||vague-key.com^
 ||vaguefact.pro^
 ||vaguehide.pro^
+||vaguelyspecialty.com^
 ||vaguestpricker.cfd^
 ||vahanatwilled.cyou^
 ||vahcvdeffqkek.space^
