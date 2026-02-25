@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602250939
+! Version: 202602250940
 ! Title: EasyList
-! Last modified: 25 Feb 2026 09:39 UTC
+! Last modified: 25 Feb 2026 09:40 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 2eac60523978351baa2867667187333b49f46ff8
+! Commit: e574b1c2321f180dfc4cd05b86bc249e9db4632d
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -80169,7 +80169,6 @@ thetimes.com##.Sticky-AdContainer
 coincarp.com,coincheckup.com,coincodex.com##.StickyBottom
 apartmenttherapy.com##.StickyFooter
 slideshare.net##.StickyVerticalInterstitialAd_root__f7Qki
-app.carta.com##.StyledTile-sc-1doyn4i.clcUHf
 slant.co##.SummaryPage-LustreEmbed
 westword.com##.SurveyLinkSlideModal
 smh.com.au##.TPT1c
