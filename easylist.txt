@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602251111
+! Version: 202602251112
 ! Title: EasyList
-! Last modified: 25 Feb 2026 11:11 UTC
+! Last modified: 25 Feb 2026 11:12 UTC
 ! Expires: 4 days (update frequency)
-! Commit: b45fea1f4b20b24d58c0d41a14d7ce4c26c17fc4
+! Commit: c5add4a963e588f82e6f349d012ae787666b489a
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -82293,7 +82293,7 @@ bleepingcomputer.com##.ia_ad
 animenewsnetwork.com##.iab
 atptour.com##.iab-wrapper
 iai.tv##.iai-article--footer-image
-atlpresscollective.com,luzmedia.co,therover.ca##.iam-ad
+atlpresscollective.com,luzmedia.co,therover.ca,thestraight.com.au##.iam-ad
 infobetting.com##.ibBanner
 ice.hockey##.ice_ner
 ice.hockey##.ice_werbung
