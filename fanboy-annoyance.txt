@@ -3,7 +3,7 @@
 ! Title: Fanboy's Annoyance List
 ! Last modified: 25 Feb 2026 11:21 UTC
 ! Expires: 4 days (update frequency)
-! Commit: f2e5dd9580d9c4d6763813f03e00e90aca205e98
+! Commit: 7f2fde434a21a04162f85ee942cf5fc54cdaa1eb
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -46850,6 +46850,7 @@ yvid.ru###cbb
 mamba.ru###closeCookieBanner
 solgarvitamin.ru###consent-modal
 gorodperm.ru###cookb
+gazprombank.ru###cookie-accept
 cardiovascular.elpub.ru###cookie-banner-wrapper
 finam.ru###cookie-consent-popup
 ria-m.tv###cookie-msg
