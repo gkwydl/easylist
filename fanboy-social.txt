@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602262131
+! Version: 202602262132
 ! Title: Fanboy's Social Blocking List
-! Last modified: 26 Feb 2026 21:31 UTC
+! Last modified: 26 Feb 2026 21:32 UTC
 ! Expires: 4 days (update frequency)
-! Commit: fd362adf2bf7460fad5be623ab3e626e7a471c29
+! Commit: b929f4f9f98bf8a4556133d9315b8ce8b076f8ad
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -11492,7 +11492,7 @@ fintech.tv,war.ukraine.ua##.share-news
 thehackernews.com##.share-open-modal
 bdnews24.com##.share-option
 ig.com.br,med.stanford.edu##.share-page
-advocate.com,bestlifeonline.com,comicsands.com,commondreams.org,gbnews.com,glennbeck.com,pride.com,rawstory.com,spectrum.ieee.org,theblaze.com,thefulcrum.us,upworthy.com##.share-panel
+advocate.com,alternet.org,bestlifeonline.com,comicsands.com,commondreams.org,gbnews.com,glennbeck.com,pride.com,rawstory.com,spectrum.ieee.org,theblaze.com,thefulcrum.us,upworthy.com##.share-panel
 forward.com##.share-post
 thenationalpulse.com##.share-post-button
 aajtak.in,gnttv.com,indiatoday.in,indiatodayne.in##.share-social-icons
