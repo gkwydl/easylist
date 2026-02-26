@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602261710
+! Version: 202602261713
 ! Title: EasyList
-! Last modified: 26 Feb 2026 17:10 UTC
+! Last modified: 26 Feb 2026 17:13 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 816dd7dd178b7b75cc9e50c15b2df9e45c993cb6
+! Commit: 698b6943d0a2cf5d85fa9caee5ca048ff9d29833
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -49786,6 +49786,7 @@ browsershots.org#@#.advert_area
 ||physiciancowardly.com^
 ||physicsimpatient.com^
 ||physicspresume.com^
+||phytonsfurner.com^
 ||piabalitersuncle.cfd^
 ||piacirques.cfd^
 ||piaculaagrote.com^
