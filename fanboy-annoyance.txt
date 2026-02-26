@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602260201
+! Version: 202602260203
 ! Title: Fanboy's Annoyance List
-! Last modified: 26 Feb 2026 02:01 UTC
+! Last modified: 26 Feb 2026 02:03 UTC
 ! Expires: 4 days (update frequency)
-! Commit: a1eaee21ec6b4cad800318aeb3429c99158c389e
+! Commit: 925bff2e57d2b18deb5750794e985151b962d96b
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -42526,6 +42526,7 @@ kress.de##.susc-social-media
 t3n.de##.tg-pockethinweis
 t3n.de##.tg-social-bottom
 kleinezeitung.at##.tik4-sharing
+barax.de##.twt-sharing-links
 goldinvest.de##.uael-marketing-button
 dioezesanmuseum-rottenburg.de##.uncode-vc-social
 watson.ch##.watson-sharebuttons
