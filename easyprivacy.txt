@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202602260122
+! Version: 202602260148
 ! Title: EasyPrivacy
-! Last modified: 26 Feb 2026 01:22 UTC
+! Last modified: 26 Feb 2026 01:48 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 3a4326421806f25dcada961340ec38fdc04ccb39
+! Commit: dcca732621493c94abf2fb3947c6df5a19c841f9
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -12051,6 +12051,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sfstatic.net/build/js/basicMetricsTracking.
 ||sftrack.searchforce.net^
 ||sgali-mcs.byteoversea.com^
+||sgm-w.jd.com^
 ||share-online.biz/affiliate/$third-party
 ||shareaholic.com/analytics_
 ||shareaholic.com/partners.js
@@ -14667,6 +14668,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||c.wort-suche.com^
 ||c.xbox.com^
 ||c.ypcdn.com^$domain=yellowpages.com
+||cactus.joybuy.com^
 ||camgirls.casa/p.php
 ||cammodels.com/api/metrics
 ||campsaver.com/nelmio-js-logger/
@@ -14719,6 +14721,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||client-errors.rebble.io/log-client-error
 ||client-log.box.com^
 ||client-metrics.chess.com^
+||clk-m.joybuy.com^
 ||cloudflare.com/_cf/analytics.js
 ||cloudfront.net/tracker-latest.min.js
 ||cloudfront.net/vis_opt.js
@@ -15166,6 +15169,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||gurgle.pcmag.com^
 ||gurgle.spiceworks.com^
 ||h031.familydollar.com^
+||h5log.joybuy.com^
 ||hacksplaining.com/track
 ||hankookilbo.com/service/kt/trk.js$script,domain=koreatimes.co.kr
 ||harryrosen.com/analytics/
