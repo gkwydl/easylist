@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602262132
+! Version: 202602262134
 ! Title: Fanboy's Social Blocking List
-! Last modified: 26 Feb 2026 21:32 UTC
+! Last modified: 26 Feb 2026 21:34 UTC
 ! Expires: 4 days (update frequency)
-! Commit: b929f4f9f98bf8a4556133d9315b8ce8b076f8ad
+! Commit: 119f13fbaf812dab65e734aeb54caa00bce300e6
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -11943,6 +11943,7 @@ publichealthpolicyjournal.com,theonion.com##.wp-block-outermost-social-sharing
 newsreleases.sandia.gov##.wp-block-snl-blocks-snl-social-share-btns
 techcrunch.com##.wp-block-techcrunch-social-share
 securityweek.com##.wp-social-link
+washingtonpost.com##.wpds-c-SnBxc
 ecoticias.com##.wpjankari-social-wrapper
 ecoticias.com##.wplitetheme-float-social-wrapper
 aspicyperspective.com,budgetbytes.com,butterwithasideofbread.com,downshiftology.com,handletheheat.com,therecipecritic.com##.wprm-call-to-action
