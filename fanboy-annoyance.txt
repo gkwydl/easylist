@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602260153
+! Version: 202602260154
 ! Title: Fanboy's Annoyance List
-! Last modified: 26 Feb 2026 01:53 UTC
+! Last modified: 26 Feb 2026 01:54 UTC
 ! Expires: 4 days (update frequency)
-! Commit: b0faf5441ee239e44335f15c5d119d99c4cea0a2
+! Commit: df5e134fac0e3a1b12ce27e1190ebe51b0f8c8ff
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -40797,6 +40797,7 @@ chapelle.co.uk,mtis.by,museum.nl,pyszne.pl##.cookie-overlay
 ! wildcard
 cam4.*##.EEoPD
 evertiq.*##.cc-container
+alza.*##.cookies-info
 track.amazon.*##.wfbHK2
 wayfair.*##div[data-hb-id="Modal"] > div > [data-test-id="CookiePreferenceNotification"]
 ! ! #cookiePopup
@@ -45287,7 +45288,6 @@ jihostroj.com##.cookiePolicy
 mikov.cz##.cookieconsent-com---nb
 bidli.cz,diadny.cz,domibags.cz,ibdkurz.cz,shop-wedrink.com##.cookies-canvas
 vzdelanibudoucnosti.cz##.cookies-dialog-wrapper
-alza.cz##.cookies-info
 phnaverandach.cz,realbonus.cz##.cookies-popup-short
 menicka.cz##.cookies_panel_wrp
 aquapalace.cz,obchod.crew.cz##.cs
