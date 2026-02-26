@@ -3,7 +3,7 @@
 ! Title: EasyPrivacy
 ! Last modified: 26 Feb 2026 01:51 UTC
 ! Expires: 4 days (update frequency)
-! Commit: c7466c3d49ecac2ceb57ed9438e99726cec58477
+! Commit: f043db41cb295762519c061956fce40b32d3bd3f
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -52869,6 +52869,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||fotocommunity.de/track/
 ||fpoe.at/tracker/
 ||froglytics.eventfrog.ch^
+||galaxus.com/_next/static/chunks/rum.$script
 ||gegenstimme.tv/tracker/
 ||geoip.finanzen.net^
 ||glomex.com^$ping
@@ -53030,6 +53031,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||tracking.zierlicheladies.de^
 ||tracksrv.zdf.de^
 ||tutti.ch/api/v10/clientmetrics/report-metric
+||ud.galaxus.de^
 ||ui-portal.de/pos-cdn/tracklib/
 ||united.web.de/confirm?
 ||united.web.de/event?
