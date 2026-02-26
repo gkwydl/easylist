@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602260155
+! Version: 202602260156
 ! Title: Fanboy's Annoyance List
-! Last modified: 26 Feb 2026 01:55 UTC
+! Last modified: 26 Feb 2026 01:56 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 5d3962db5d0d195bcb8f5cb04c8b600a9a03021c
+! Commit: 514b6ea6b990c019ef96a896d275bf9bf2a24052
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -40901,7 +40901,7 @@ arionbanki.is,betfair.com.au###cookie-holder
 ! ! .cookie-permission-container
 11teamsports.com,agrar-fachversand.com,alorelia.de,altabadialat.it,ausserhofer.bz,ballaro.eu,barax.de,biere-aus-franken.de,bieronlineshop.ch,bonsai-auer.com,bzheartbeat.it,coding4kids.it,doriskaradar.com,e-biker.de,ecomove.cc,europa-shop-apotheke.de,fleurop.nl,folioverlag.com,global-messer.shop,glutenfrei-bier.com,hanako-koi.de,interaquaristik.de,kdshop.it,koi-company.de,koifuttershop.de,korodrogerie.de,leguano.eu,max-hamster.de,miavitas.com,mountainshop.online,muehldorfer.com,pharmasana.de,pircher24.it,prantner.it,rudi-delago.com,schildkroet.de,svsound.de,swords-and-more.com,thermal-grizzly.com,tieroase-lorsch.de,trauttmansdorff.it,tropical-deutschland.de,vinumpetri.com,viologic.com,wbv.de,webshop.asus.com,xn--schildkrt-sport-gtb.com##.cookie-permission-container
 ! ! .page-wrap--cookie-permission
-artx.at,battlemerchant.com,bienen-voigt.de,blitzhandel24.it,boschettileo.com,gartenteiche-fockenberg.de,hardwarebro.de,heilkraft.online,hupfer.com,kdvisual.it,kellereikaltern.com,messerworld.de,mm-aquaristik.de,office-partner.de,originalteilemarkt.de,reifen-felgen.de,sixpack-racing.com,tangaland24.de,tiefenbach-it.com,tomodachi-koifutter.de,woodpower.company##.page-wrap--cookie-permission
+artx.at,battlemerchant.com,bienen-voigt.de,blitzhandel24.it,boschettileo.com,furnster.de,gartenteiche-fockenberg.de,hardwarebro.de,heilkraft.online,hiq24.de,hupfer.com,kdvisual.it,kellereikaltern.com,messerworld.de,mm-aquaristik.de,office-partner.de,originalteilemarkt.de,reifen-felgen.de,sixpack-racing.com,tangaland24.de,tiefenbach-it.com,tomodachi-koifutter.de,woodpower.company##.page-wrap--cookie-permission
 ! ! #ensNotifyBanner
 beerwulf.com,bhphotovideo.com,binekarac.vw.com.tr,cheq.ai,distrelec.de,experianidentityservice.co.uk,fidelity.de,jal.co.jp,jrhotelgroup.com,kornferry.com,latimes.com,nisshin-seifun-welna.com,norton.com,rac.co.uk,rs-online.com,scotsman.com,surfeasy.com,volkswagen.ch,vueling.com,vw.com,vw.com.br###ensNotifyBanner
 ! ! #ensBannerBG
@@ -44733,7 +44733,6 @@ koenig.de##.overlay__wrapper
 mibaby.de##.overlay_buddy
 querstarter.de##.page-lock
 avl-ludwigsburg.de,packster.de##.page-overlay
-furnster.de,hiq24.de##.page-wrap--cookie-permission
 sport2000rent.com##.pageOverlay
 tchibo.de##.pageloading-mask
 hollaus-it.at,krankengym-zentrum.de,s3nnet.de##.pcb
