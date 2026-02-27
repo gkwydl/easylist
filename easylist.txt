@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602271419
+! Version: 202602271420
 ! Title: EasyList
-! Last modified: 27 Feb 2026 14:19 UTC
+! Last modified: 27 Feb 2026 14:20 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 3a5665d024d3a78f2273ec8105c076e2e4844804
+! Commit: bc33471983d27a474ef47251e15257894058bb85
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -86152,10 +86152,12 @@ kaufland.*##.product--spa
 kaufland.*##.product--sponsored
 douglas.*##.product-grid-column:has(.criteo-spotlight)
 douglas.*##.product-grid-column:has([data-testid="sponsored-button"])
+leroymerlin.*##.product-thumbnail:has(.o-thumbnail__sponsored)
 kaufland.*##.product:has(div.product__sponsored-ad-label)
 tripadvisor.*##.rSJod
 kaufland.*##.rd-recommender__tile:has(div.rd-product-tile__badge--ad)
 kaufland.*##.rd-recommender__tile:has(span.advertiser-info__button-icon)
+leroymerlin.*##.recommendation--sponso
 yandex.*##.search-advert-badge
 yandex.*##.search-business-snippet-view__direct
 yandex.*##.search-list-view__advert-offer-banner
@@ -86198,6 +86200,7 @@ wayfair.*##div[data-hb-id="Grid.Item"]:has(a[href*="&sponsoredid="])
 wayfair.*##div[data-name="DisplayAd"]
 wayfair.*##div[data-node-id^="SponsoredListingCollectionItem"]
 checkfelix.com,kayak.*,momondo.*,swoodoo.*##div[data-resultid$="-sponsored"]
+leroymerlin.*##div[data-st-name="sponsored"]
 costco.*##div[data-testid="AdSet-all-sponsored_products"]
 walmart.*##div[data-testid="sp-item"]
 walmart.*##div[data-testid="sp-search-middle"]
