@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602271420
+! Version: 202602271421
 ! Title: EasyList
-! Last modified: 27 Feb 2026 14:20 UTC
+! Last modified: 27 Feb 2026 14:21 UTC
 ! Expires: 4 days (update frequency)
-! Commit: bc33471983d27a474ef47251e15257894058bb85
+! Commit: fedf1e3d6ee06c1ea96b1e97bcb026ecb422629f
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -86137,6 +86137,7 @@ momondo.*##.WTQR-ad-card
 momondo.*##.YnaR:has([class$="ProviderAdBanner"])
 yandex.*##._view_advertisement
 bier-universum.*##.abc-wrapper
+leroymerlin.*##.arm-dss-content-sponsored
 flashscore.*,flashscoreusa.com,livescore.*,soccer24.com##.banner
 yts.*##.bbj:has-text(Warning)
 yandex.*##.business-card-title-view__advert
@@ -86185,6 +86186,7 @@ walmart.*##a[href*=".criteo.com/"]
 manomano.*##a[href^="/"][href*="?product_id="][title]:has(span > .svg_tamagoshi)
 yandex.*##a[href^="https://yabs.yandex.ru/count/"]
 yandex.*##a[href^="https://yandex.ru/an/count/"]
+leroymerlin.*##aside[data-st-name="sponsored"]
 hookerhillstudios.com##div.items-center:has(> #articlead)
 douglas.*##div.product-grid-column:has(button[data-testid="sponsored-button"])
 checkfelix.com,kayak.*,momondo.*,swoodoo.*##div[class$="-result-item-container"]:has(a[href*="/s/clickthrough.jsp?"])
