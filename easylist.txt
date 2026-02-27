@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602270144
+! Version: 202602270145
 ! Title: EasyList
-! Last modified: 27 Feb 2026 01:44 UTC
+! Last modified: 27 Feb 2026 01:45 UTC
 ! Expires: 4 days (update frequency)
-! Commit: c08dc75bb08dcbd307dedc948bfdd7e2655f9be4
+! Commit: c2c64ccde53a0dd63a5a4b7a56dfc41b1e865b94
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
