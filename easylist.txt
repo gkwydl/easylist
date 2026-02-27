@@ -3,7 +3,7 @@
 ! Title: EasyList
 ! Last modified: 27 Feb 2026 15:52 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 2bc8f14f8e8013982eff73d8e9e1f1927f4287c4
+! Commit: 739528ddd1f63041548d75ebe32d5677023ec3c1
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -78976,6 +78976,7 @@ $popup,domain=07c225f3.online|content-loader.com|css-load.com|html-load.cc|html-
 ||upornia.com/yxpffpuqtjc/
 ||urgayporn.com/bn/
 ||uviu.com/_xd/
+||veo-hentai.com/wp-content/plugins/veohentai/popunder-unificado.js
 ||vi1.prettytube.net^
 ||videosection.com/adv-agent.php
 ||vietpub.com/banner/
