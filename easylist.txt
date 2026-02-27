@@ -3,7 +3,7 @@
 ! Title: EasyList
 ! Last modified: 27 Feb 2026 16:15 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 97209227a57f6e47b3dedf872a74fbb06dc757f6
+! Commit: c83f5bdb66658afa7f6049392225f2c1bb47cde3
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -25022,6 +25022,7 @@ browsershots.org#@#.advert_area
 ||contriveddisparage.com^
 ||controlaffliction.com^
 ||controlclickflow.com^
+||controllerix.com^
 ||controversykeenworkshop.com^
 ||contus.sbs^
 ||convectpicory.cyou^
@@ -29992,6 +29993,7 @@ browsershots.org#@#.advert_area
 ||eswfsinghtywb.website^
 ||eswnxpmlpj.xyz^
 ||eswpfkuwyovtm.space^
+||esxctarbruknb.online^
 ||esybyuyfgawwt.space^
 ||esyeqegjjxuwr.website^
 ||esznfqrpeivdr.website^
