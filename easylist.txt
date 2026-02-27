@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602271550
+! Version: 202602271552
 ! Title: EasyList
-! Last modified: 27 Feb 2026 15:50 UTC
+! Last modified: 27 Feb 2026 15:52 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 2874fd20aca49eb609a79a6cc36183fb789a7222
+! Commit: 2bc8f14f8e8013982eff73d8e9e1f1927f4287c4
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -88073,7 +88073,7 @@ sexseeimage.com,thisav.me,thisav.video##.happy-player-beside
 sexseeimage.com,thisav.me,thisav.video##.happy-player-under
 ofansleaks.com##.happy-related-videos-mobile
 sexseeimage.com,thisav.me,thisav.video##.happy-section
-deepfake-porn.com,deepfucks.com,hdpornflix.com,hentaisexclub.com,sexkbj.com,vpornhd.com,x-picture.com##.happy-sidebar
+deepfake-porn.com,deepfucks.com,faply.cc,hdpornflix.com,hentaisexclub.com,sexkbj.com,vpornhd.com,x-picture.com##.happy-sidebar
 amateur-vids.eu,camgirl-video.com,mature.community,milf.community,milf.plus##.happy-under-player
 hentaiasmr.moe##.happy-under-player-mobile
 redtube.com##.hd
