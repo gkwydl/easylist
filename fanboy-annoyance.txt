@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602270149
+! Version: 202602270150
 ! Title: Fanboy's Annoyance List
-! Last modified: 27 Feb 2026 01:49 UTC
+! Last modified: 27 Feb 2026 01:50 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 63a6274f0cc3e1d1c9af6ab07b65938282926c33
+! Commit: f6b24a683cf8940b4ab227bec9f679bb523ef80a
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -40796,7 +40796,7 @@ abcsinsights.com,antena1.com.br,author.today,bertioga.sp.gov.br,cellc.co.za,fins
 ! .cookies-consent
 actie.degoedezaak.org,campax.org,controller.com,mrfdev.com,pandoor.co.il,pelephone.co.il,voicemod.net##.cookies-consent
 ! #cookie-disclaimer
-arukereso.hu,biblio.com.au,docusign.net,mainchain.net,mediotiempo.com,mos-gorsud.ru,mos-sud.ru###cookie-disclaimer
+arukereso.hu,biblio.com.au,docusign.net,mainchain.net,mediotiempo.com,mos-gorsud.ru,mos-sud.ru,pointbreak.coremanager.info###cookie-disclaimer
 ! #cookie-message
 antimoon.com,apotheke-gleichen.de,bavaria-apotheke-berlin.de,cdooperesociali.org,charmanthotel.com,irisapo.de,lilabaer.de,nordbahnhof-apotheke-stuttgart.de,preins-apotheken.de,pzn24.de,sparapo.de,surf-in-apotheke.de,szynalski.com,ukehut-nyc.com###cookie-message
 ! #cookie-wrapper
