@@ -3,7 +3,7 @@
 ! Title: EasyList
 ! Last modified: 27 Feb 2026 14:26 UTC
 ! Expires: 4 days (update frequency)
-! Commit: de5af98b2a6b8dd606ba1147919c24f3d1b0b767
+! Commit: d9b5ab0b2679a87cfb0ff189cdf05d54b785da6e
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -86549,6 +86549,7 @@ abcnews.go.com##div[data-container="band"]:has(> div > div[data-box-type="fitt-a
 flipkart.com##div[data-id][style]:has([width][height][fill])
 bjs.com##div[data-index]:has(.sponsored-badge)
 etherscan.io##div[data-nosnippet]:has(> ins[id])
+rakuten.com##div[data-productid]:has(a[href*="&fbbaid="])
 rakuten.com##div[data-productid]:has(div.productList_sponsoredAds_RUS)
 mail.aol.com##div[data-test-id="virtual-list"] > ul[role="list"][aria-label] > li[style]:has(a[href^="https://api.taboola.com/"][href*="/yahoo-aol-mail/"])
 priceline.com##div[data-testid="HTL_NEW_LISTING_CARD_RESP"]:has(a[aria-label*=" Promoted"])
