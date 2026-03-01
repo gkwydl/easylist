@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603010825
+! Version: 202603010831
 ! Title: EasyList
-! Last modified: 01 Mar 2026 08:25 UTC
+! Last modified: 01 Mar 2026 08:31 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 6aac1a19d612d8a3e8a4eaa224ed3cdeae4afb1b
+! Commit: 5cf4480bace810c24f64cf9f400100d9d054d977
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -85506,6 +85506,7 @@ cumbriacrack.com,euromaidanpress.com##[data-hbwrap]
 tvzoneuk.com##[data-hook="HtmlComponent"]
 blackbeltmag.com##[data-hook="bgLayers"]
 hackster.io##[data-hypernova-key="ModularAd"]
+forbes.com##[data-id="ad-container"]
 health.clevelandclinic.org##[data-identity*="billboard-ad"]
 health.clevelandclinic.org##[data-identity="leaderboard-ad"]
 igraal.com##[data-ig-ga-cat="Ad"]
@@ -87238,6 +87239,7 @@ onlyinyourstate.com###video1-1
 autoevolution.com###vidiv
 newseveryday.com###vplayer_large
 newsweek.com##.FeaturedMedia_articleFeaturedMedia__LEpVY
+forbes.com##.MWrh7
 cubbyathome.com##.Post__inPostVideoAdDesktop
 apartmenttherapy.com##.Post__inPostVideoAdMobile
 ratemyprofessors.com##.VideoPlayer__StyledPlayer-sc-2xyxn3-0
