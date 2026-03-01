@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603010154
+! Version: 202603010202
 ! Title: EasyList
-! Last modified: 01 Mar 2026 01:54 UTC
+! Last modified: 01 Mar 2026 02:02 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 44f927fc2791605f659edc59014e4b704b1015cb
+! Commit: 80efcadd822186f9cfa027c8e34ca6f722e13a1e
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -35308,6 +35308,7 @@ browsershots.org#@#.advert_area
 ||hbxpjlbmhffda.space^
 ||hbygyhcgjvclv.online^
 ||hbyopxzrrtetp.store^
+||hbypnbox.com^
 ||hcatwjkchbjpv.website^
 ||hcbhojcwifydg.store^
 ||hccjl3r5v9hev6.cfd^
@@ -45292,6 +45293,7 @@ browsershots.org#@#.advert_area
 ||munchedhexed.cfd^
 ||mundane-gear.pro^
 ||mundanesilly.com^
+||mungoprowess.com^
 ||munificmararie.help^
 ||munilf.com^
 ||munitesoudan.help^
@@ -54247,6 +54249,7 @@ browsershots.org#@#.advert_area
 ||resavecoterie.cyou^
 ||resawstawtie.cyou^
 ||rescousmatzah.cfd^
+||rescrubdecenyl.com^
 ||rescueaccredited.com^
 ||rescuermargie.com^
 ||researchhappenedequipment.com^
@@ -67348,6 +67351,7 @@ browsershots.org#@#.advert_area
 ||xw4xtknm94ov1yy.cfd^
 ||xwaairiivkxzo.online^
 ||xwbq28luw9n9y86.cfd^
+||xweaczbjyftvd.site^
 ||xwfafjiihnpmy.space^
 ||xwgdcamizuhhp.online^
 ||xwgkbcbvjjvxr.website^
