@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603011214
+! Version: 202603011217
 ! Title: EasyList
-! Last modified: 01 Mar 2026 12:14 UTC
+! Last modified: 01 Mar 2026 12:17 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 645fc9a61f3ac7a20c8ce0d3d28ac4d50cd9ef67
+! Commit: e46f8a246fefab9cba3cb9b371960340208a92cf
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -68202,6 +68202,7 @@ browsershots.org#@#.advert_area
 ||youngstermansionphrase.com^
 ||youngstreet.pro^
 ||youngstripsisnuba.cfd^
+||younkertames.cyou^
 ||your-local-dream.com^
 ||your-notice.com^
 ||youraccordanceparquet.com^
