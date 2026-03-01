@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603010108
+! Version: 202603010110
 ! Title: EasyList
-! Last modified: 01 Mar 2026 01:08 UTC
+! Last modified: 01 Mar 2026 01:10 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 1e38ab5bb451904c0a07bfe533e62863636f7ffa
+! Commit: f097ac5087ecd002855f51f8cdff48527e89830d
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -86437,7 +86437,6 @@ everythingrf.com,natureworldnews.com##label
 tellows-au.com,tellows-tr.com,tellows.*##li > .comment-body[style*="min-height: 250px;"]
 cgpress.org##li > div[id^="cgpre-"]
 bestbuy.com##li.embedded-sponsored-listing
-engadget.com##li.lg\:min-h-\[234px\]
 cultbeauty.co.uk,dermstore.com##li.sponsoredProductsList
 laredoute.*##li[class*="sponsored-"]
 linkedin.com##li[data-is-sponsored="true"]
