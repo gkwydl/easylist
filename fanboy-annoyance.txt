@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603011539
+! Version: 202603011541
 ! Title: Fanboy's Annoyance List
-! Last modified: 01 Mar 2026 15:39 UTC
+! Last modified: 01 Mar 2026 15:41 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 01559b8949034d079d88a5c647ba6b7fa4bf2e79
+! Commit: 81ce33c9f37c8f9ac5127a6e04d449efca2456ed
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -42233,6 +42233,7 @@ ec-store.net###rt\.popup-overlay_rt_popup_sws
 ec-store.net###rt_popup_sws
 iwate-np.co.jp###sa-banner
 roudou-pro.com###scroll_popup_overlay
+manzoku.or.jp###scrollbox-non
 japanpost.jp###topBtn
 sofmap.com###voc_ec_button
 oita-press.co.jp##.FloatingBanner
@@ -42265,6 +42266,8 @@ mastory.jp##.l-fixed
 yutorize.2-d.jp##.main-yakiniku-area
 media.moneyforward.com##.mp-popin-analytics
 media.moneyforward.com##.mp-recommends
+manzoku.or.jp##.mz-scroll
+manzoku.or.jp##.mzh-banner
 e-mansion.co.jp##.new-building-label
 video.fc2.com,video.laxd.com##.noLoginSticker
 ntv.co.jp##.ntv-pageTop
