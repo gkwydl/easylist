@@ -3,7 +3,7 @@
 ! Title: EasyList
 ! Last modified: 01 Mar 2026 09:38 UTC
 ! Expires: 4 days (update frequency)
-! Commit: b5e8da5eaedf601d86edcbec0a10e0c32471616c
+! Commit: a2e43d5f6cffc63ac5c6564ee2265a3c74f236fc
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -59182,6 +59182,7 @@ browsershots.org#@#.advert_area
 ||supplanttoffee.com^
 ||suppledunsweat.cyou^
 ||supplementary2.fun^
+||supplementforget.com^
 ||supplerbeaufin.cyou^
 ||supplersuberin.qpon^
 ||suppliesabolish.com^
