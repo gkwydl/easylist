@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603021705
+! Version: 202603021707
 ! Title: EasyList
-! Last modified: 02 Mar 2026 17:05 UTC
+! Last modified: 02 Mar 2026 17:07 UTC
 ! Expires: 4 days (update frequency)
-! Commit: f0fe90170f32bf4ba806da707297ff8357564b24
+! Commit: 1623e0028d29176b9e55879a74caf35e05601482
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -408,6 +408,7 @@
 /exoclick.$~script,~xmlhttprequest,domain=~exoclick.bamboohr.co.uk|~exoclick.kayako.com
 /exonb/*$script
 /exonob/*$script
+/exowb/froload.js$script
 /exports/tour/*$third-party
 /exports/tour_20/*$subdocument
 /external/ad.$script
@@ -78201,8 +78202,6 @@ browsershots.org#@#.advert_area
 ||spearmint4334.gb.net^
 ||st.asiaxbit.com^
 ||st.ipornia.com^$third-party
-||static.twincdn.com/special/license.packed
-||static.twincdn.com/special/script.packed
 ||streamen.com/exports/$third-party
 ||stripchat.com/api/external/
 ||stripchat.com^*/widget/$third-party
@@ -78224,6 +78223,9 @@ browsershots.org#@#.advert_area
 ||tools.bongacams.com^$third-party
 ||track.cam4tracking.com^
 ||track.xtrasize.nl^$third-party
+||twincdn.com/channels/
+||twincdn.com/special/
+||twincdn.com/video/
 ||undress.app/ad_banners/
 ||unpin.hothomefuck.com^
 ||unpkg.com/videojs-vast-vpaid@
