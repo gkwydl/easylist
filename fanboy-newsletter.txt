@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603021702
+! Version: 202603021704
 ! Title: Fanboy's Anti-Newsletter List
-! Last modified: 02 Mar 2026 17:02 UTC
+! Last modified: 02 Mar 2026 17:04 UTC
 ! Expires: 4 days (update frequency)
-! Commit: fa544f8b402eb8160ccdf7e0cb14d0ee86871c9a
+! Commit: 1a936552170a95c9b1565c69ec588b1e66c3c58c
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
