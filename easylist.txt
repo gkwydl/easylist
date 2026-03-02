@@ -3,7 +3,7 @@
 ! Title: EasyList
 ! Last modified: 02 Mar 2026 04:48 UTC
 ! Expires: 4 days (update frequency)
-! Commit: e3ae6dd6e26c9f735ad396953e2ec1f02aefd5d5
+! Commit: 0c9e3cb34bcd4f3e97415ee9468f62c066b977fb
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -57437,6 +57437,7 @@ browsershots.org#@#.advert_area
 ||sittenreefer.qpon^
 ||situateddivine.com^
 ||situationsparkler.com^
+||situduiacvaek.site^
 ||situratite.com^
 ||siwashfetcher.top^
 ||sixdespise.com^
