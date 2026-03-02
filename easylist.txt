@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603021656
+! Version: 202603021701
 ! Title: EasyList
-! Last modified: 02 Mar 2026 16:56 UTC
+! Last modified: 02 Mar 2026 17:01 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 5b8c7ccc910f8ce8acf71147f34c42ada46c3fb3
+! Commit: f7ed70f99205967f1b545de9967447109234b8d8
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -76112,6 +76112,7 @@ browsershots.org#@#.advert_area
 ||bluehost.com/track/
 ||bluehost.com/web-hosting/domaincheckapi/?affiliate=
 ||bluepromocode.com/images/widgets/
+||blufm.de/pr/$third-party
 ||bookingdragon.com^$subdocument,third-party
 ||bs-adserver.b-cdn.net^
 ||btguard.com/images/
@@ -76613,6 +76614,7 @@ browsershots.org#@#.advert_area
 ||widget.searchschoolsnetwork.com^
 ||widget.sellwild.com^
 ||widget.shopstyle.com^
+||widget.spoods.io^
 ||widgets.business.com^
 ||widgets.lendingtree.com^
 ||widgets.monito.com^$third-party
@@ -80645,6 +80647,7 @@ friv.com###lba
 friv.com###lbaTop
 irishnews.com###lbtop
 piraproxy.info,unblockedstreaming.net###lbxUR99472
+ebab.com###lcg-banner
 dailydooh.com###leaddiv
 sansabanews.com###leader
 techrepublic.com###leader-bottom
