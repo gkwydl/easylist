@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603031300
+! Version: 202603031301
 ! Title: EasyList
-! Last modified: 03 Mar 2026 13:00 UTC
+! Last modified: 03 Mar 2026 13:01 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 96775f151f097584ba45b4e8fde5508e4cb84c5d
+! Commit: 871848f605cfa4f9f7a9c630e10a1e0b96f548ab
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -83545,7 +83545,6 @@ mg.co.za##article:has(.sponsored-single)
 tympanus.net##article:has(header:has(.ct-sponsored))
 foxnews.com##article[class|="article story"]:has(.sponsored-by)
 bedbathandbeyond.com##article[data-e2e="productTile"]:has(a[rel*="sponsored"])
-twitter.com,x.com##article[data-testid="tweet"]:has(path[d$="10H8.996V8h7v7z"])
 thetimes.com##article[id="article-main"] > div:has(#ad-header)
 costco.com##article[id][class]:has(img[alt*="Sponsored"])
 psychcentral.com##aside:has([data-empty])
