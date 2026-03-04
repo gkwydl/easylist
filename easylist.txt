@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603041752
+! Version: 202603041801
 ! Title: EasyList
-! Last modified: 04 Mar 2026 17:52 UTC
+! Last modified: 04 Mar 2026 18:01 UTC
 ! Expires: 4 days (update frequency)
-! Commit: e6c96fc0db2dfd224885383d4198a15af2817f4d
+! Commit: 96a7e8540b67c6af7de80dcbebefe24e9d77f4d0
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -39441,6 +39441,7 @@ browsershots.org#@#.advert_area
 ||krofqawozfnma.website^
 ||kromeiciness.com^
 ||kromerefinds.cyou^
+||kronenbuilder.cyou^
 ||kronendaylong.help^
 ||kroonsejam.com^
 ||kroonsforches.qpon^
@@ -46403,6 +46404,7 @@ browsershots.org#@#.advert_area
 ||operativebreeder.com^
 ||operatorhighsnake.com^
 ||opfeqtiqpgxco.website^
+||opfgspuuq.com^
 ||opfourpro.org^
 ||opgolan.com^
 ||opheliamarkmen.cyou^
@@ -57150,6 +57152,7 @@ browsershots.org#@#.advert_area
 ||tarsiaupsolve.cfd^
 ||tarsingularsubmerge.com^
 ||tartestastound.cfd^
+||tarticofkc.in^
 ||tartinedonjons.cyou^
 ||tartlay.com^
 ||tarweednasionwacs.cyou^
@@ -65590,6 +65593,7 @@ browsershots.org#@#.advert_area
 ||zendikfideist.cyou^
 ||zendplace.pro^
 ||zendsphagia.qpon^
+||zenickphytic.cyou^
 ||zenkreka.com^
 ||zenoviagroup.com^
 ||zeoideimorbus.cyou^
