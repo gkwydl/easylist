@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603041207
+! Version: 202603041208
 ! Title: EasyList
-! Last modified: 04 Mar 2026 12:07 UTC
+! Last modified: 04 Mar 2026 12:08 UTC
 ! Expires: 4 days (update frequency)
-! Commit: f320f34e34e3c769cb491b22e4cca8758951307c
+! Commit: 82449024866fa71d52540d156642f668dec87314
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19629,6 +19629,7 @@ browsershots.org#@#.advert_area
 ||aveepsaukseeta.net^
 ||avelpwnzhdoyx.site^
 ||aveneryalumium.cyou^
+||avenuenineteenthendorsement.com^
 ||avepilrorgemtou.net^
 ||averiadoura.help^
 ||averredbiotaxy.cyou^
@@ -29375,6 +29376,7 @@ browsershots.org#@#.advert_area
 ||eviafiegoxsru.space^
 ||evidencenulls.com^
 ||evidentlystraighteneddecimal.com^
+||evidvixve.com^
 ||evil-candle.pro^
 ||evilexchanged.com^
 ||evilstrike.pro^
@@ -36181,6 +36183,7 @@ browsershots.org#@#.advert_area
 ||imminentadvisedlylucius.com^
 ||imminentcawplod.com^
 ||immoderatebreathtaking.com^
+||immoderatescarsheer.com^
 ||immoralhands.com^
 ||immoralmisspell.com^
 ||immortalheliumoverturn.com^
@@ -39435,6 +39438,7 @@ browsershots.org#@#.advert_area
 ||ksfndodbfbgof.space^
 ||ksglacggaiqfo.online^
 ||ksiabdgtqzbsq.top^
+||ksirqbdzcfeiw.space^
 ||ksjustlikeanan.com^
 ||ksknhvggsizbu.store^
 ||kslfqcxumewry.store^
@@ -59629,6 +59633,7 @@ browsershots.org#@#.advert_area
 ||unaware-pick.pro^
 ||unawaredasheen.com^
 ||unawareirreparable.com^
+||unawarelimited.com^
 ||unawarepozzy.cfd^
 ||unawayartou.cfd^
 ||unbakedlists.cyou^
