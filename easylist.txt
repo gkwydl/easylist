@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603041839
+! Version: 202603041859
 ! Title: EasyList
-! Last modified: 04 Mar 2026 18:39 UTC
+! Last modified: 04 Mar 2026 18:59 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 1e6f1e5526252b9c8c29b82a2f4eab94375d0ea7
+! Commit: aa1fe52cb44a4685ac0633a74ef3d2ca50ae1596
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -48542,6 +48542,7 @@ browsershots.org#@#.advert_area
 ||plitchkhalifs.cfd^
 ||pljayblicfbcw.website^
 ||pljohkmh.click^
+||pljrgkkuxlced.website^
 ||pljvwkyilkzjp.space^
 ||pllah.com^
 ||pllsadrp.net^
@@ -57561,6 +57562,7 @@ browsershots.org#@#.advert_area
 ||thamtairgauwauk.net^
 ||thamtooftie.net^
 ||thananrafik.cfd^
+||thankdilapidation.com^
 ||thankfultale.pro^
 ||thanksgivingcarpetspark.com^
 ||thanksgivingdelights.com^
