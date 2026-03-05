@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603050431
+! Version: 202603050438
 ! Title: Fanboy's Annoyance List
-! Last modified: 05 Mar 2026 04:31 UTC
+! Last modified: 05 Mar 2026 04:38 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 4b643265355f1f1407847f2c57a87c357dc8f479
+! Commit: 2c70b7fbd705471e9e84c30ff106748953468f98
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -34995,6 +34995,7 @@ olivemagazine.com##.piano-inline-template__content
 mathrubhumi.com##.piano-newsletter-article
 massispost.com##.pk-subscribe-container
 foreigndesknews.com,hackread.com##.pk-subscribe-form-wrap
+atlasobscura.com##.places-newsletter-standalone
 ny1.com##.playerBlocker
 crikey.com.au##.pm-todays-newsletter-block
 dot.la##.pop-up-content

@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603050431
+! Version: 202603050438
 ! Title: EasyList
-! Last modified: 05 Mar 2026 04:31 UTC
+! Last modified: 05 Mar 2026 04:38 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 4b643265355f1f1407847f2c57a87c357dc8f479
+! Commit: 2c70b7fbd705471e9e84c30ff106748953468f98
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -81077,6 +81077,7 @@ bintv.net##.pinned-ad
 pricespy.co.nz,pricespy.co.uk##.pjra-w-\[970px\]
 carsized.com##.pl_header_ad
 redgifs.com##.placard-wrapper
+atlasobscura.com##.place-body-ad
 meteofor.com,nofilmschool.com,protothema.gr##.placeholder
 advocate.com,bestlifeonline.com,good.is,pride.com##.placeholder-a-block
 bucksco.today##.placeholder-block
