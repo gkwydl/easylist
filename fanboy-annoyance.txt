@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603050420
+! Version: 202603050425
 ! Title: Fanboy's Annoyance List
-! Last modified: 05 Mar 2026 04:20 UTC
+! Last modified: 05 Mar 2026 04:25 UTC
 ! Expires: 4 days (update frequency)
-! Commit: f8b0f0adbe691956da40c4e04dd2de348bb18e2a
+! Commit: 46618c00a765f7e670b93ec3bacc7b128edfc07f
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -38443,7 +38443,7 @@ pollylingu.al###opt-form
 atlantic.money###opt-in
 accenture.com###optanon-minimize-wrapper
 harvester.co.uk###optin-optout
-gouvernement.lu,merics.org###orejime
+gouvernement.lu,merics.org,service-public.gouv.fr###orejime
 baltimoresun.com,chicagotribune.com,nydailynews.com###osanoCustomDialogDiv
 omegatheme.com###ot-cookie__banner
 b1tv.ro,harveynorman.ie,zdnet.com###ot-sdk-btn
