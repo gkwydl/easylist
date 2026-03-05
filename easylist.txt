@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603050523
+! Version: 202603050538
 ! Title: EasyList
-! Last modified: 05 Mar 2026 05:23 UTC
+! Last modified: 05 Mar 2026 05:38 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 4142dbbee2ef76ba7d578954c68ea7293fbd106c
+! Commit: cb30e0ae22ff17f304ddd622430bc3ed0426c723
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -51653,6 +51653,7 @@ browsershots.org#@#.advert_area
 ||reasonable-track.pro^
 ||reasonableabroad.pro^
 ||reasoningcarry.com^
+||reasoningcoefficient.com^
 ||reasoningdreary.com^
 ||reasoningfashionbrood.com^
 ||reasoningiconcealment.com^
@@ -53638,6 +53639,7 @@ browsershots.org#@#.advert_area
 ||sangahfrazingkelpy.cfd^
 ||sangarrigbane.qpon^
 ||sanghissed.com^
+||sangopportunity.com^
 ||sanguinecocky.com^
 ||sanguineslang.com^
 ||saningblazy.cfd^
@@ -55041,6 +55043,7 @@ browsershots.org#@#.advert_area
 ||slabgypsiesredaub.cfd^
 ||slabjav12.fun^
 ||slabshookwasted.com^
+||slackenkebars.cfd^
 ||slackensuddeneat.com^
 ||slackentheatres.com^
 ||slacklykeying.qpon^
@@ -59828,6 +59831,7 @@ browsershots.org#@#.advert_area
 ||unconscious-long.com^
 ||unconsciousfluent.com^
 ||unconsciousliteracynameless.com^
+||uncotorture.com^
 ||uncouchsawyers.qpon^
 ||uncqrapguooya.space^
 ||uncterilitasory.com^
@@ -68525,6 +68529,7 @@ browsershots.org#@#.advert_area
 ||hmphmehfailing.com^
 ||housebutsoon.com^
 ||html-load.cc^
+||hurtfulonly.com^
 ||huzzahwhatintently.com^
 ||ickfinallyonly.com^
 ||impanelsnarling.com^
