@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603051033
+! Version: 202603051040
 ! Title: EasyList
-! Last modified: 05 Mar 2026 10:33 UTC
+! Last modified: 05 Mar 2026 10:40 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 3bae55102dc684e49f966b5ac6b574c49fd721bb
+! Commit: be6cca98eec1b2094aa32f16c2d75ec88bdf78f5
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -24732,6 +24732,7 @@ browsershots.org#@#.advert_area
 ||coviddecil.help^
 ||covivado.club^
 ||cowanbespate.cyou^
+||cowardlyapex.com^
 ||cowardlydefinite.com^
 ||cowardlyvitaljoggle.com^
 ||cowersgemini.shop^
@@ -26208,6 +26209,7 @@ browsershots.org#@#.advert_area
 ||demolishlagoonopt.com^
 ||demolishwaffleslegend.com^
 ||demolitionculpritrape.com^
+||demolitionnutsgrease.com^
 ||demolitionzerostomach.com^
 ||demonincreasevacancy.com^
 ||demotedovedismiss.com^
@@ -27964,6 +27966,7 @@ browsershots.org#@#.advert_area
 ||eavakddcdofik.site^
 ||eavcrphmbwtte.website^
 ||eavefrom.net^
+||eavesdropbogusye.com^
 ||eavesdroppingfurniture.com^
 ||eaxmvpgmvsazo.site^
 ||eazqiicorbzpm.site^
@@ -55369,6 +55372,7 @@ browsershots.org#@#.advert_area
 ||snathesinswing.qpon^
 ||snawsfarcing.qpon^
 ||snbets.com^
+||snbhwnixi.com^
 ||sncyt.com^
 ||sndzrfmkqawfk.online^
 ||sneakintriguecasting.com^
