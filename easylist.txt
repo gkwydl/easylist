@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603052052
+! Version: 202603052053
 ! Title: EasyList
-! Last modified: 05 Mar 2026 20:52 UTC
+! Last modified: 05 Mar 2026 20:53 UTC
 ! Expires: 4 days (update frequency)
-! Commit: e43b49551064ce31ded54c526ed2c595db15f02a
+! Commit: bfd811840a9a71121f44c6c346f0ffba8cfce44e
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -85019,6 +85019,7 @@ nordstrom.com#?#ul[style^="padding: 0px; position: relative;"] > li[class]:-abp-
 nzherald.co.nz#?#section.section-chain--triple-image:has-text(Property news from OneRoof)
 nzherald.co.nz#?#section:has-text(Partner content)
 perplexity.ai#?#.py-sm.group:-abp-contains(Sponsored)
+pexels.com#?#[data-testid="column"] [data-testid="item"]:-abp-contains(Sponsored)
 producthunt.com#?#.text-12:-abp-contains(Promoted)
 property24.com#?#.p24_tileContainer:-abp-contains(Sponsored)
 psprices.com#?#.creative:has-text(remove advertising)
