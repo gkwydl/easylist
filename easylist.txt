@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603061409
+! Version: 202603061414
 ! Title: EasyList
-! Last modified: 06 Mar 2026 14:09 UTC
+! Last modified: 06 Mar 2026 14:14 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 3e0b4029533543e83cd6bcfd3fb92af46974f9be
+! Commit: 0d083fb1edf20fd69aa13bbc25d1ada2525c4172
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -24977,6 +24977,7 @@ browsershots.org#@#.advert_area
 ||creativeideasandc.org^
 ||creativerestaurant.pro^
 ||creativesumo.com^
+||creativewinner.pro^
 ||creaunbroke.qpon^
 ||crechearmoryinvolved.com^
 ||creedalbioral.cfd^
@@ -54255,6 +54256,7 @@ browsershots.org#@#.advert_area
 ||scubomyvrhifv.website^
 ||scuddedbanglednannies.cyou^
 ||scuddedjimjam.cfd^
+||scuddlenudnik.com^
 ||scukeknekbomd.website^
 ||sculkedhogwort.help^
 ||scullerbiker.cfd^
@@ -58698,6 +58700,7 @@ browsershots.org#@#.advert_area
 ||totalresponsibilityeconomics.com^
 ||totedasouth.qpon^
 ||totemcash.com^
+||totemseraphsfurans.cfd^
 ||totemslakesky.cfd^
 ||totlnkbn.com^
 ||totlnkcl.com^
@@ -62874,6 +62877,7 @@ browsershots.org#@#.advert_area
 ||welcomingaccompanyeffort.com^
 ||welcomingwaterfall.com^
 ||welfarewore.com^
+||welibowless.com^
 ||weligillysies.com^
 ||welldocumented-president.pro^
 ||welldocumentedwrap.com^
