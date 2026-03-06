@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202603062046
+! Version: 202603062051
 ! Title: Fanboy's Anti-Sounds List
-! Last modified: 06 Mar 2026 20:46 UTC
+! Last modified: 06 Mar 2026 20:51 UTC
 ! Expires: 4 days (update frequency)
 ! Commit: 387fea6a45b3d3b4bb09ed85e0a69374e92a06b3
 ! *** easylist:template_header.txt ***
