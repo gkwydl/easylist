@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603060545
+! Version: 202603060550
 ! Title: Fanboy's Annoyance List
-! Last modified: 06 Mar 2026 05:45 UTC
+! Last modified: 06 Mar 2026 05:50 UTC
 ! Expires: 4 days (update frequency)
-! Commit: c16a3e318f67bd3535f789242d58c810880b286e
+! Commit: cc5767933146a5d0b8e4f3fed25638ca73a20c78
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -33123,6 +33123,7 @@ thescore.com##div[class^="GetTheApp__fullScreenContainerScrolldown--"]
 corcoran.com##div[class^="PWAInstallBanner"]
 m.aliexpress.ru##div[class^="PseudoSmartBanner_"]
 kraken.com##div[class^="fc-94f32b27"]
+quince.com##div[class^="header_appPushBanner_"]
 temu.com##div[style="height: 0.66rem;"]
 temu.com##div[style="height:0.66rem"]
 facebook.com##div[style="pointer-events: none; flex-grow: 1; justify-content: inherit; flex-direction: column;"]:has-text(Get Facebook)
