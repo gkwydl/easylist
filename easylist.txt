@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603060813
+! Version: 202603060814
 ! Title: EasyList
-! Last modified: 06 Mar 2026 08:13 UTC
+! Last modified: 06 Mar 2026 08:14 UTC
 ! Expires: 4 days (update frequency)
-! Commit: f3b5f6de5dbcaf2e2070a4196c591384c547aa09
+! Commit: ca4d7253b78137b710bc3a15c322b17d8f9cf748
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -78362,8 +78362,8 @@ kentonline.co.uk##.PSDRGC
 newatlas.com##.Page-above-content
 newatlas.com##.Page-aside
 govtech.com##.Page-billboard
-newson6.com##.Page-footer-Ad-overlay
-newson6.com##.Page-header-Ad-Slot
+news9.com,newson6.com##.Page-footer-Ad-overlay
+news9.com,newson6.com##.Page-header-Ad-Slot
 afar.com##.Page-header-hat
 apnews.com##.Page-header-leaderboardAd
 chronicle.com##.PageHeaderMegaHat
