@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603062312
+! Version: 202603062313
 ! Title: Fanboy's Annoyance List
-! Last modified: 06 Mar 2026 23:12 UTC
+! Last modified: 06 Mar 2026 23:13 UTC
 ! Expires: 4 days (update frequency)
-! Commit: a4cc07df4bbdec53327462e57d03c4e4ebb6f013
+! Commit: 626ae08a7dbe981251b22a8351db8e022daaa926
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -48412,6 +48412,7 @@ onet.pl#@#.cmp-app_gdpr
 verivox.de#@#.consent-holder
 bol.com#@#.consent-modal
 bewere.net#@#.consent-pop-up
+hitdiscount.by#@#.content-cookie
 bitburger-braugruppe.de#@#.cookie-age
 portal.payment.eltax.lta.go.jp#@#.cookie-agree
 praca.by#@#.cookie-agreement
