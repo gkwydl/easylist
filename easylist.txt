@@ -3,7 +3,7 @@
 ! Title: EasyList
 ! Last modified: 07 Mar 2026 00:07 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 41759bd6ae1429504074a1b028c7f1ae5582e6f0
+! Commit: 1aa8e2583d49df1cb572faf76ad3d2f79e970c1d
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -85615,10 +85615,11 @@ pornstargold.com###popup
 jav321.com###popup-container
 sextvx.com###porntube_hor_bottom_ads
 javgg.*###post-999999
+missav.to###poster
 katestube.com###pre-block
 sleazyneasy.com###pre-spots
 mopoga.com###preGamescontainer
-tojav.net###preroll
+missav.to,tojav.net###preroll
 alotav.com,javbraze.com,javdoe.fun,javdoe.sh,javfindx.com,javhat.tv,javhd.*,javhdz.today,javseen.tv,javseenz.tv,javtape.site,xjav.online###previewBox
 xvideos.name###publicidad-video
 celebjihad.com###pud
