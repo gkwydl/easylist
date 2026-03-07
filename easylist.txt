@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603071011
+! Version: 202603071013
 ! Title: EasyList
-! Last modified: 07 Mar 2026 10:11 UTC
+! Last modified: 07 Mar 2026 10:13 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 1132c82208fbccb008a65c25a997d01b1208d38f
+! Commit: 25d43ed4d1ce9416e3d1b8c080c5fecf107a1ad0
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -16952,6 +16952,7 @@ browsershots.org#@#.advert_area
 ||abouttill.com^
 ||aboveaverageguidancecarter.com^
 ||abovebaklawa.cfd^
+||abovemyselfsadness.com^
 ||aboveredirect.top^
 ||abpicsrc.com^
 ||abpjs23.com^
@@ -25875,6 +25876,7 @@ browsershots.org#@#.advert_area
 ||datthjlkkktqx.space^
 ||dauchoufaush.net^
 ||daugegeezeeboot.net^
+||daughtersvariedfalse.com^
 ||daugroroomauha.net^
 ||daunoopsap.net^
 ||dauphinmattery.shop^
@@ -53987,6 +53989,7 @@ browsershots.org#@#.advert_area
 ||safestcaterer.com^
 ||safestcontentgate.com^
 ||safestgatetocontent.com^
+||safestprioritybelief.com^
 ||safestsniffingconfessed.com^
 ||safesync.com^
 ||safetygrieced.shop^
@@ -56757,6 +56760,7 @@ browsershots.org#@#.advert_area
 ||stimulateartificial.com^
 ||stingerfound.com^
 ||stingyfacile.com^
+||stingyhandy.com^
 ||stinkconstituent.com^
 ||stinklistedtobacco.com^
 ||stinkyassignment.com^
@@ -60750,6 +60754,7 @@ browsershots.org#@#.advert_area
 ||uowevkmiujuvk.website^
 ||uoxocwxakddyq.space^
 ||uoxzmt72opv66oz7foxprv.cfd^
+||uozysvpxxkefm.online^
 ||up7xj35i2ourcgt36kf12cvqfnmmxkqyxp.cfd^
 ||upacrlrjucyx.net^
 ||upajstaevojkf.website^
