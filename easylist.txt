@@ -3,7 +3,7 @@
 ! Title: EasyList
 ! Last modified: 07 Mar 2026 10:37 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 830c7ade9e59477f840122fd751664326c85e9a8
+! Commit: 58d9b2129d34e1e788ecac1f853c002bb21d5a6a
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -17601,6 +17601,7 @@ browsershots.org#@#.advert_area
 ||adtags.mobi^
 ||adtaily.com^
 ||adtaily.pl^
+||adtarget.biz^
 ||adtelligent.com^
 ||adtival.com^
 ||adtlgc.com^
