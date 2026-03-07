@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603070025
+! Version: 202603070031
 ! Title: Fanboy's Annoyance List
-! Last modified: 07 Mar 2026 00:25 UTC
+! Last modified: 07 Mar 2026 00:31 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 05696f9c3b109dfbd20fa36af76a763c359d17bb
+! Commit: d335a598cfb7bab230436fbaba4100c36cfc6e59
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
