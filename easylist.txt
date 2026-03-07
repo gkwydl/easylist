@@ -3,7 +3,7 @@
 ! Title: EasyList
 ! Last modified: 07 Mar 2026 15:26 UTC
 ! Expires: 4 days (update frequency)
-! Commit: e98ffce8efa964d9dfc467bb2058d8dd782d8ef3
+! Commit: d503063331ca26c7a0ab9f409d2be15b86e4cccb
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -25789,6 +25789,7 @@ browsershots.org#@#.advert_area
 ||dangerinsignificantinvent.com^
 ||dangerous-leader.pro^
 ||dangerous-officer.pro^
+||dangerousease.pro^
 ||dangledcaffiso.com^
 ||danglertemantrolley.cyou^
 ||danglesnoctuid.cfd^
@@ -43385,6 +43386,7 @@ browsershots.org#@#.advert_area
 ||mn230126pb.com^
 ||mnanrpzdpbphb.site^
 ||mnaspm.com^
+||mnbgbnrdqihyq.site^
 ||mnbvjhg.com^
 ||mncuofccmvklc.space^
 ||mncvjhg.com^
