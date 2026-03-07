@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603070819
+! Version: 202603070821
 ! Title: EasyList
-! Last modified: 07 Mar 2026 08:19 UTC
+! Last modified: 07 Mar 2026 08:21 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 4401171bd0151d4f68da5f9d2da2371a7de4658b
+! Commit: 8d9f1d48b85988d673fa093bd82932007b17eaca
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -49594,6 +49594,7 @@ browsershots.org#@#.advert_area
 ||prateyclin.qpon^
 ||prayakonigashu.cfd^
 ||prayercertificatecompletion.com^
+||prayersoriginate.com^
 ||prayfulproker.qpon^
 ||prayratesantibiotic.com^
 ||praystakeinstinct.com^
