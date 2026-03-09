@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603090202
+! Version: 202603090204
 ! Title: EasyList
-! Last modified: 09 Mar 2026 02:02 UTC
+! Last modified: 09 Mar 2026 02:04 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 6a09411614a2967f7d52bca0f27cbd0b1c479cdf
+! Commit: 9ed347841e2891e2358a6c15f1cf3596c623fa42
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -25732,6 +25732,7 @@ browsershots.org#@#.advert_area
 ||d1f6bb22dc.com^
 ||d1mahjlm.xyz^
 ||d24ak3f2b.top^
+||d2f5h9m0jmnhjh.cloudfront.net^
 ||d2ship.com^
 ||d333f13060.com^
 ||d334591460.com^
@@ -39597,6 +39598,7 @@ browsershots.org#@#.advert_area
 ||kjamzqljbwpgk.space^
 ||kjbulizcoofpf.site^
 ||kjdhwverhmbem.space^
+||kjfmvnuri.click^
 ||kjgejeteyjbrz.site^
 ||kjgmieedgzswz.website^
 ||kjgnidnhlxugm.icu^
@@ -63222,6 +63224,7 @@ browsershots.org#@#.advert_area
 ||wailingslow.com^
 ||waimooweepi.net^
 ||wainfulcaspian.com^
+||wairingcheney.com^
 ||waishauglid.net^
 ||waistburnsvisiting.com^
 ||waistcoataskeddone.com^
