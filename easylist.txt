@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603091742
+! Version: 202603091800
 ! Title: EasyList
-! Last modified: 09 Mar 2026 17:42 UTC
+! Last modified: 09 Mar 2026 18:00 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 6ca049264a895ef5b5aa30e7b8b5e81c4e1157b1
+! Commit: ac002063a4a44e53acdd6f322686a298cc4a8f3b
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -49272,6 +49272,7 @@ browsershots.org#@#.advert_area
 ||pirnietam.qpon^
 ||pirnjesuate.shop^
 ||pirnxbdjowuoi.online^
+||pirnymocmain.cfd^
 ||pirojkisertive.shop^
 ||pirtecho.net^
 ||pisaysundownrhexia.cfd^
@@ -53456,6 +53457,7 @@ browsershots.org#@#.advert_area
 ||ridxvydxlhiej.online^
 ||riehurqwgtdey.online^
 ||rielsgetfd.help^
+||riflersfstore.cfd^
 ||riflesurfing.xyz^
 ||riftharp.com^
 ||rigahums.cfd^
