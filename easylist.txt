@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603090148
+! Version: 202603090150
 ! Title: EasyList
-! Last modified: 09 Mar 2026 01:48 UTC
+! Last modified: 09 Mar 2026 01:50 UTC
 ! Expires: 4 days (update frequency)
-! Commit: dc3818caa4334343502d8895ae76a9beb402d504
+! Commit: 7c7b70748ef2aaf0cf6eff0a6ecac7f80a64ed7c
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -41945,6 +41945,7 @@ browsershots.org#@#.advert_area
 ||lubywhabi.com^
 ||lucajlsq.xyz^
 ||lucarneepoxy.qpon^
+||lucentanxiouslyfleeting.com^
 ||luciankybele.com^
 ||lucidaesignman.cyou^
 ||luciditycuddle.com^
@@ -57525,6 +57526,7 @@ browsershots.org#@#.advert_area
 ||sufemtpbkrdoe.website^
 ||sufferlatitude.com^
 ||sufferpounceo.com^
+||sufferwalkersilliness.com^
 ||suffocatefried.com^
 ||suffocateinnhandling.com^
 ||sugarruse.com^
@@ -57829,6 +57831,7 @@ browsershots.org#@#.advert_area
 ||swfawjgobqftf.site^
 ||swhaukkkcokrv.space^
 ||swhqcerqyqejk.website^
+||swhzkxsvixmod.space^
 ||swidgeromper.help^
 ||swidprxaafwha.store^
 ||swiftenhuffing.cfd^
