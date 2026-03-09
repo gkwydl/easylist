@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603092250
+! Version: 202603092300
 ! Title: Fanboy's Annoyance List
-! Last modified: 09 Mar 2026 22:50 UTC
+! Last modified: 09 Mar 2026 23:00 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 1183389f6ecc13758944a9f8e2118db47e4fcdd2
+! Commit: 26246c84ab3d83bcf275feddbffdf1c2b205d343
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -32056,7 +32056,7 @@ journal.burningman.org##.navigation
 racquetmag.com##.navigation_between_posts
 feross.org##.next
 fixya.com,thetruthaboutcars.com##.next-arrow
-adexchanger.com,manilatimes.net,netwerk24.com,news24.com##.next-article
+adexchanger.com,manilatimes.net,netwerk24.com,news24.com,rs-online.com##.next-article
 foxsports.com##.next-article-toast
 techloy.com##.next-block
 bizcommunity.com##.next-navigation-container
