@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603090150
+! Version: 202603090155
 ! Title: EasyList
-! Last modified: 09 Mar 2026 01:50 UTC
+! Last modified: 09 Mar 2026 01:55 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 7c7b70748ef2aaf0cf6eff0a6ecac7f80a64ed7c
+! Commit: 5dd27349ae33ef64c8326492b3d35b1c94b64985
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -32715,6 +32715,7 @@ browsershots.org#@#.advert_area
 ||gfuhjxhpkwger.space^
 ||gfuyyhsppslfg.site^
 ||gfvildtxwbgzi.online^
+||gfvruowhwyeylw.com^
 ||gfxdn.pics^
 ||gfxlkemrkltqz.online^
 ||gfxnpdxkycedm.website^
@@ -37504,6 +37505,7 @@ browsershots.org#@#.advert_area
 ||itehappymuttered.org^
 ||itemednol.cyou^
 ||itemperrycreek.com^
+||itemyhexane.qpon^
 ||iterumquickly.cyou^
 ||iteslawow.com^
 ||itfzjvpvyclgu.space^
@@ -64395,6 +64397,7 @@ browsershots.org#@#.advert_area
 ||wooguwhede.net^
 ||woolensgrand.shop^
 ||woolledtzaam.shop^
+||wooshedwidgets.cyou^
 ||woosspoom.cyou^
 ||wootmedia.net^
 ||woovoree.net^
@@ -67087,6 +67090,7 @@ browsershots.org#@#.advert_area
 ||ziyhd.fun^
 ||ziyttncdqfkav.online^
 ||zizaniaattaerse.qpon^
+||zizanyinstant.cfd^
 ||zizulw.org^
 ||zizzbedellszimocca.cyou^
 ||zjaawdreetkcd.space^
