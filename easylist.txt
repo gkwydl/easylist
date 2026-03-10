@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603101957
+! Version: 202603102004
 ! Title: EasyList
-! Last modified: 10 Mar 2026 19:57 UTC
+! Last modified: 10 Mar 2026 20:04 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 5042aaa67f821cda08a4079deb75a10ce3aa1b5a
+! Commit: c527ec8ef6815dbc2004469e3e60e9e5d3ec6ef7
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -42814,6 +42814,7 @@ browsershots.org#@#.advert_area
 ||marrvelousgirl.com^
 ||mars1st.baby^
 ||marshalcurve.com^
+||marshalunmoveddroguet.qpon^
 ||marshcooperative.com^
 ||marshdromoi.cfd^
 ||martelstoved.help^
@@ -60962,6 +60963,7 @@ browsershots.org#@#.advert_area
 ||uhppnuqatxbaw.online^
 ||uhpygksqshnfo.site^
 ||uhqngrhkysdfl.website^
+||uhregkricbcqli.com^
 ||uhrvjjkbnucvb.today^
 ||uhsfoists.help^
 ||uhsmmaq4l2n5.com^
@@ -65530,6 +65532,7 @@ browsershots.org#@#.advert_area
 ||xgbetzbmmdqbv.space^
 ||xgbzhyoeitomd.website^
 ||xgefwokzxvuzx.space^
+||xggklbohnbwej.space^
 ||xghklnjmyljlc.site^
 ||xgiiioziwwayu.store^
 ||xgjhpuyigenen.website^
