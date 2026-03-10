@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603100819
+! Version: 202603100821
 ! Title: EasyList
-! Last modified: 10 Mar 2026 08:19 UTC
+! Last modified: 10 Mar 2026 08:21 UTC
 ! Expires: 4 days (update frequency)
-! Commit: a59921fe54a1ede12038dfb75e0edc94fb0fa1d7
+! Commit: b0f9c3e60ee98211c1d4bb7b46a7cd1bca61c2bb
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -58058,6 +58058,7 @@ browsershots.org#@#.advert_area
 ||swidgeromper.help^
 ||swidprxaafwha.store^
 ||swift-vacation.pro^
+||swift-weird.com^
 ||swiftenhuffing.cfd^
 ||swiftladle.com^
 ||swiftlymonumentcheating.com^
@@ -61060,6 +61061,7 @@ browsershots.org#@#.advert_area
 ||umyyjgqyajxzu.online^
 ||umzkjponcxpvn.online^
 ||umzwmufdxrcrf.site^
+||unablewhollyold.com^
 ||unactkiosk.com^
 ||unagedsarcous.com^
 ||unaisscreams.qpon^
