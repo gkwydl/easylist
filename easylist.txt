@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603110836
+! Version: 202603110841
 ! Title: EasyList
-! Last modified: 11 Mar 2026 08:36 UTC
+! Last modified: 11 Mar 2026 08:41 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 5dd70ccd4580da6f563d368df986f28703061a9e
+! Commit: 5df56b45ad54fcd2554c53fb02e699fdf5e19d7d
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -30058,6 +30058,7 @@ browsershots.org#@#.advert_area
 ||expressjustifierlent.com^
 ||exptlgooney.com^
 ||exptrncaaidhs.site^
+||expulsionelinorcorruption.com^
 ||exqbxfzcrslqg.store^
 ||exqbxkfncmcli.website^
 ||exrcfdbcqiddp.space^
@@ -41505,6 +41506,7 @@ browsershots.org#@#.advert_area
 ||lintolstelopea.qpon^
 ||lintsbunker.qpon^
 ||lintyahimsas.com^
+||linwezjgwscfk.online^
 ||lionbasote.cyou^
 ||liondolularhenewre.com^
 ||lioneldorical.cfd^
@@ -57709,6 +57711,7 @@ browsershots.org#@#.advert_area
 ||stoomawy.net^
 ||stoondgastly.shop^
 ||stoopedbedaub.cfd^
+||stoopeddigestaggregation.com^
 ||stoopeddiscourse.com^
 ||stoopsellers.com^
 ||stoorturtun.net^
