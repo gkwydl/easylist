@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603110841
+! Version: 202603110843
 ! Title: EasyList
-! Last modified: 11 Mar 2026 08:41 UTC
+! Last modified: 11 Mar 2026 08:43 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 5df56b45ad54fcd2554c53fb02e699fdf5e19d7d
+! Commit: 24f7e5862e39a7a4f96b4be373ecd807d7b3190a
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -24630,6 +24630,7 @@ browsershots.org#@#.advert_area
 ||conceivesaucerfalcon.com^
 ||concentratetogethersubmarine.com^
 ||concentrationminefield.com^
+||concerned-plate.pro^
 ||concernedvoice.pro^
 ||concernrest.com^
 ||conciergeeccentricstrained.com^
@@ -28914,6 +28915,7 @@ browsershots.org#@#.advert_area
 ||elejwqalsqjbb.rocks^
 ||elelasticalsdebat.org^
 ||elementarysinger.com^
+||elementaryvideo.com^
 ||elementsacorncolossal.com^
 ||elemoltwigful.com^
 ||elevationhypnotize.com^
@@ -54489,6 +54491,7 @@ browsershots.org#@#.advert_area
 ||ruddy-bite.pro^
 ||ruddy-pass.com^
 ||ruddyheat.com^
+||rude-cat.com^
 ||rudechangingmetropolitan.com^
 ||rudenature.pro^
 ||ruderavidian.cyou^
