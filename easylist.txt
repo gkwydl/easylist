@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603110440
+! Version: 202603110441
 ! Title: EasyList
-! Last modified: 11 Mar 2026 04:40 UTC
+! Last modified: 11 Mar 2026 04:41 UTC
 ! Expires: 4 days (update frequency)
-! Commit: ca8b5ec475b0d74658999a6a79f752d475466bd3
+! Commit: f1b7bd781dd2bae82e912c64127f764663426d38
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -85354,6 +85354,7 @@ bedbathandbeyond.com##section[class^="showcaseAds_container"]
 bestbuy.ca##section[data-automation="dynamic-content-featured-sku-list-home_fsl_sponsored"]
 bbc.com##section[data-e2e="advertisement"]
 foodandwine.com##section[id*="mntl-four-post--sponsored"]
+reddit.com##shreddit-ad-post
 reddit.com,reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion##shreddit-comments-page-ad
 tempostorm.com##side-banners
 smartprix.com##sm-dap
