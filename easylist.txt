@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603112345
+! Version: 202603112347
 ! Title: EasyList
-! Last modified: 11 Mar 2026 23:45 UTC
+! Last modified: 11 Mar 2026 23:47 UTC
 ! Expires: 4 days (update frequency)
-! Commit: dcd1f7e6e5745b2be992be8a692487ea39e05145
+! Commit: e58bcbcfef8761b1682adeb45d5751bdb76ad831
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -83897,6 +83897,7 @@ cifraclub.com##.styles_advertising__nZwCO
 egamersworld.com##.styles_bb__hb10X
 autoblog.com##.styles_container__C9F6R
 politico.com##.styles_container__zuzL0
+parade.com##.styles_headerAdSlot__f4Z0n
 producthunt.com##.styles_item__hNPI1
 egamersworld.com##.styles_sidebar__m6yLy
 troypoint.com##.su-box
