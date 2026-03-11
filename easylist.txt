@@ -3,7 +3,7 @@
 ! Title: EasyList
 ! Last modified: 11 Mar 2026 08:36 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 2d841769be35966c6612764a3ed2508a0a942aac
+! Commit: 5dd70ccd4580da6f563d368df986f28703061a9e
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -37720,6 +37720,7 @@ browsershots.org#@#.advert_area
 ||italianbeepimpediment.com^
 ||italianceramal.cyou^
 ||italianforesee.com^
+||italiangooseberry.com^
 ||italyrogueinhabit.com^
 ||itaupsophie.net^
 ||itawaxywmjarm.space^
