@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603121933
+! Version: 202603121934
 ! Title: EasyList
-! Last modified: 12 Mar 2026 19:33 UTC
+! Last modified: 12 Mar 2026 19:34 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 60206f2c87720ab2ca5a00f4b4fd0a2108b884b0
+! Commit: 11dbc81f4ca4b4ce91e14911895791106a9ab42f
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -20281,6 +20281,7 @@ browsershots.org#@#.advert_area
 ||bananascasketuntrue.com^
 ||bancaleafe.xyz^
 ||bancemrode.cyou^
+||banchibipack.com^
 ||banclip.com^
 ||banddisordergraceless.com^
 ||bandelcot.com^
@@ -23000,6 +23001,7 @@ browsershots.org#@#.advert_area
 ||carefreefootball.pro^
 ||carefulbleatdish.com^
 ||carelessnurse.com^
+||caremecoshes.com^
 ||caresseashoreunrest.com^
 ||caressfinancialdodge.com^
 ||carfaremissit.cfd^
@@ -50558,6 +50560,7 @@ browsershots.org#@#.advert_area
 ||ppcnt.pro^
 ||ppctraffic.co^
 ||ppduaejaozsch.website^
+||ppecimxkyhax.in^
 ||ppeiutpbqegcj.online^
 ||pperkqewlwdgc.space^
 ||pperkvadtvtxk.online^
