@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603120956
+! Version: 202603120957
 ! Title: EasyList
-! Last modified: 12 Mar 2026 09:56 UTC
+! Last modified: 12 Mar 2026 09:57 UTC
 ! Expires: 4 days (update frequency)
-! Commit: a2c8dc9907a631ed4477569d3391b90abf35aacb
+! Commit: c977c721aab9230bc3133ce37c8a6495f842c3c9
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19637,6 +19637,7 @@ browsershots.org#@#.advert_area
 ||aubhgnoealbnx.space^
 ||aubincheetcloque.cfd^
 ||aubqoxvcygpgk.space^
+||aubritecrab.shop^
 ||aubsauwhault.net^
 ||auburn9819.com^
 ||aucanagitvittle.cfd^
@@ -22804,6 +22805,7 @@ browsershots.org#@#.advert_area
 ||cakerjuncous.cyou^
 ||cakesinventory.com^
 ||cakespoison.xyz^
+||cakiestbovld.shop^
 ||cakikigoultaiga.net^
 ||cakilepectora.cyou^
 ||caklhavidybcgh.com^
@@ -59307,6 +59309,7 @@ browsershots.org#@#.advert_area
 ||textbookextremelycivic.com^
 ||textbookfilamentguidance.com^
 ||textileintersectionroam.com^
+||textilejambo.cyou^
 ||textilerugger.qpon^
 ||textureblaze.co^
 ||texzjbsfcynqr.site^
