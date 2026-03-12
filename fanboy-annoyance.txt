@@ -3,7 +3,7 @@
 ! Title: Fanboy's Annoyance List
 ! Last modified: 12 Mar 2026 09:57 UTC
 ! Expires: 4 days (update frequency)
-! Commit: c977c721aab9230bc3133ce37c8a6495f842c3c9
+! Commit: dcb34e2d1764521de3ac09be2e68571794cbab26
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
