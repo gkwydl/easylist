@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603120511
+! Version: 202603120518
 ! Title: EasyList
-! Last modified: 12 Mar 2026 05:11 UTC
+! Last modified: 12 Mar 2026 05:18 UTC
 ! Expires: 4 days (update frequency)
-! Commit: c2d4afabdc0af6adf5055db444e8ceba30697a85
+! Commit: 49441e734a7c7a769c8bf5457ffbcfcd10f8603f
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18075,6 +18075,7 @@ browsershots.org#@#.advert_area
 ||aheapgolfergimlet.cyou^
 ||aheebacoadseech.xyz^
 ||ahejadicyivel.site^
+||ahewrowizgtux.online^
 ||ahfxdqlnlwpyz.site^
 ||ahgjbiqqwcmfo.website^
 ||ahgpiumykrvtj.site^
@@ -27097,6 +27098,7 @@ browsershots.org#@#.advert_area
 ||dishesha.net^
 ||dishevelledsuccession.com^
 ||dishflcymuesx.site^
+||dishfulstichosinstals.cfd^
 ||dishminefieldexhibit.com^
 ||dishomeduress.cyou^
 ||dishonestthee.com^
@@ -46450,6 +46452,7 @@ browsershots.org#@#.advert_area
 ||nutateshazanim.com^
 ||nutchaungong.com^
 ||nutentertainintermediate.com^
+||nutrifycarves.cfd^
 ||nutrifymazic.cfd^
 ||nutritionpenguinbiopsy.com^
 ||nutritiousrush.com^
