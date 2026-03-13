@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603131703
+! Version: 202603131704
 ! Title: EasyList
-! Last modified: 13 Mar 2026 17:03 UTC
+! Last modified: 13 Mar 2026 17:04 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 7f234d6d212cd4c6916d283c35d1d9661010044c
+! Commit: 38b7d4ebc3f30c957a4505ec6ed51fae033be205
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -86180,6 +86180,11 @@ pv-magazine-australia.com,pv-magazine-usa.com,pv-magazine.*###home-top-rectangle
 pv-magazine-australia.com,pv-magazine-usa.com,pv-magazine.*###home-top-rectangle-wrap-2
 pv-magazine-australia.com,pv-magazine-usa.com,pv-magazine.*###home-top-rectangle-wrap-3
 laredoute.*###hp-sponsored-banner
+nextpit.*###nex-footer
+nextpit.*###nex-incontent-1
+nextpit.*###nex-incontent-2
+nextpit.*###nex-incontent-3
+nextpit.*###nex-top
 checkfelix.com,kayak.*,momondo.*,swoodoo.*##.CGMG:has(.c_3eP-badge-content)
 wayfair.*##.CompareSimilarItemsCarousel-item:has(a[href*="&sponsoredid="])
 wayfair.*##.MediaNativePlacement-wrapper-link
