@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603131302
+! Version: 202603131309
 ! Title: EasyList
-! Last modified: 13 Mar 2026 13:02 UTC
+! Last modified: 13 Mar 2026 13:09 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 0bf4ac3c3ba2266e0961d69646a55c3884b65266
+! Commit: 1e84a8abf5489e3bdd0a6ed6f814a5082e22b00a
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -21695,6 +21695,7 @@ browsershots.org#@#.advert_area
 ||boggleride.cfd^
 ||boghigrestarge.net^
 ||bogmunchbeneath.com^
+||bogomilyald.qpon^
 ||bogrodius.com^
 ||bogtrotlibbardhypate.cyou^
 ||bogus-disk.com^
@@ -23017,6 +23018,7 @@ browsershots.org#@#.advert_area
 ||carcflma.de^
 ||cardiganpalmreconcile.com^
 ||cardolcamenes.cfd^
+||careensbodies.cyou^
 ||careeravenage.cyou^
 ||careerunderstatement.com^
 ||careewituhi.org^
@@ -47661,6 +47663,7 @@ browsershots.org#@#.advert_area
 ||omitsterid.cfd^
 ||omjtwaaxtdc.com^
 ||omlahpewing.com^
+||omlfdbfsdkcrz.online^
 ||omlkfwhnqdiekxy.net^
 ||omlpwfwbozwmf.site^
 ||ommcrywbemojn.space^
@@ -60282,6 +60285,7 @@ browsershots.org#@#.advert_area
 ||tocswcbbwbnjn.space^
 ||todayapplied.com^
 ||todayswigcontagious.com^
+||todditepierrot.cyou^
 ||toddlecausebeeper.com^
 ||todhzjecnvnpj.website^
 ||todopick.com^
