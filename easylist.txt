@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603130544
+! Version: 202603130602
 ! Title: EasyList
-! Last modified: 13 Mar 2026 05:44 UTC
+! Last modified: 13 Mar 2026 06:02 UTC
 ! Expires: 4 days (update frequency)
-! Commit: d557212d4b3b1f52d696ce6067c6d12b8d8ee358
+! Commit: afd835e04088179ae23f96186b677ce65b99e7a6
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -31366,6 +31366,7 @@ browsershots.org#@#.advert_area
 ||flgacawxvxozr.space^
 ||flgch4eegy54z5czrzy.cfd^
 ||flgdaoepeuiqs.store^
+||flgrfdfermv.com^
 ||flhqfdjmltoue.site^
 ||flhtfxbakyelu.space^
 ||flickerbridge.com^
@@ -36749,6 +36750,7 @@ browsershots.org#@#.advert_area
 ||idreamed.com^
 ||idrzznkemjgcx.online^
 ||idsdalasi.cfd^
+||idsplvbecwzfa.online^
 ||idsqxdtwseasl.online^
 ||idsrscpzgpgzw.rocks^
 ||idtftadck.xyz^
@@ -66481,6 +66483,7 @@ browsershots.org#@#.advert_area
 ||xnwkuvxleogyn.online^
 ||xnwncknejempg.website^
 ||xnwoyfoqfwvck.site^
+||xnwpcwaasywktz.com^
 ||xnwtugzfknrtr.store^
 ||xnwyqmaqwladi.com^
 ||xnyuivuekmxqm.online^
