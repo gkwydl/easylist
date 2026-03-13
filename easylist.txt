@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603130602
+! Version: 202603130607
 ! Title: EasyList
-! Last modified: 13 Mar 2026 06:02 UTC
+! Last modified: 13 Mar 2026 06:07 UTC
 ! Expires: 4 days (update frequency)
-! Commit: afd835e04088179ae23f96186b677ce65b99e7a6
+! Commit: 38675ba813a6e775967347eaf8e5b905465ac79b
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -20643,6 +20643,7 @@ browsershots.org#@#.advert_area
 ||becreepkelchin.cfd^
 ||becrushcinemas.help^
 ||bedaffyamen.cfd^
+||bedaregein.cfd^
 ||bedaslonejul.cc^
 ||bedaweeexp.cyou^
 ||bedazecussing.cyou^
@@ -30365,6 +30366,7 @@ browsershots.org#@#.advert_area
 ||f19062be44.com^
 ||f1dzpr7j.xyz^
 ||f1vp3m3exxhjq9vy.cfd^
+||f24xu8blr9m2znr9eieghg7c8rgvqqviwv.cfd^
 ||f29c4af968.com^
 ||f308e80f54.com^
 ||f31ymhnvg47fk7wf59gf3nw.cfd^
@@ -34479,6 +34481,7 @@ browsershots.org#@#.advert_area
 ||gwfwopvvtqmfh.space^
 ||gwgbgdfponcyb.site^
 ||gwgmqmpiciooa.website^
+||gwhmbuloo85cjtkzpojlvq3pup.rest^
 ||gwihirqnvof.xyz^
 ||gwiryqwgylcdq.online^
 ||gwithearama.org^
@@ -47750,6 +47753,7 @@ browsershots.org#@#.advert_area
 ||ontalpainted.cyou^
 ||ontj.com^
 ||ontnkqwlnimav.online^
+||ontrimpuctp.in^
 ||ontrklnk.com^
 ||onvdpulwu.com^
 ||onvlygijezbvg.online^
@@ -57684,6 +57688,7 @@ browsershots.org#@#.advert_area
 ||spoorpresses.cfd^
 ||spoqcyx.digital^
 ||sporedbrazed.cfd^
+||sporeentropypomey.cyou^
 ||sportingamazingconsequence.com^
 ||sportpardon.com^
 ||sportradarserving.com^
