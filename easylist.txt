@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603140859
+! Version: 202603140907
 ! Title: EasyList
-! Last modified: 14 Mar 2026 08:59 UTC
+! Last modified: 14 Mar 2026 09:07 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 1ade5e308157b5e52ce14b53336f1367d105557b
+! Commit: 417cccac0930d668a2d887f94c3c0fe85a64ad90
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -27543,6 +27543,7 @@ browsershots.org#@#.advert_area
 ||dnkpxpnpxgxoy.website^
 ||dnllyhkrumiui.website^
 ||dnlvnwoel.net^
+||dnmlvaeiwlmc.com^
 ||dnmqfaxluvaou.world^
 ||dnolpangbhme.net^
 ||dnonznoautndl.online^
@@ -32045,6 +32046,7 @@ browsershots.org#@#.advert_area
 ||freightrepentance.com^
 ||freithreavery.cfd^
 ||freityotaria.com^
+||frenchystarves.cfd^
 ||frenzyjerids.help^
 ||freqginidbyek.online^
 ||frequentday.com^
@@ -33878,6 +33880,7 @@ browsershots.org#@#.advert_area
 ||gophykopta.com^
 ||gopsachuwilr.net^
 ||gopypteti.com^
+||gopzlgr52r347l5.cfd^
 ||goqpicjzxmksm.space^
 ||goransloth.cfd^
 ||goranwater.cyou^
@@ -59532,6 +59535,7 @@ browsershots.org#@#.advert_area
 ||tcmcpbjvotuaa.space^
 ||tcmuw99jf99j3uw82yyhphn2u54.cfd^
 ||tcnaecgsqurme.online^
+||tcneqnkonxydt.space^
 ||tcolfwuhtwqln.space^
 ||tcpcharms.com^
 ||tcpedpdcfkcgo.rocks^
@@ -61322,6 +61326,7 @@ browsershots.org#@#.advert_area
 ||turbulentobject.com^
 ||turbulentoriginally.com^
 ||turfamusing.com^
+||turfedmarah.qpon^
 ||turflivestockdetector.com^
 ||turfquelltablets.com^
 ||turkeernohow.com^
