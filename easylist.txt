@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603142001
+! Version: 202603142005
 ! Title: EasyList
-! Last modified: 14 Mar 2026 20:01 UTC
+! Last modified: 14 Mar 2026 20:05 UTC
 ! Expires: 4 days (update frequency)
-! Commit: cf0f0762da9b55362745acda18c62d6a9e6f8e33
+! Commit: ab5a8561ef60903061b388ac448da187fccb3c77
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -50052,6 +50052,7 @@ browsershots.org#@#.advert_area
 ||picturesqueundercover.com^
 ||piddockbarkary.cyou^
 ||pidginshotmelt.help^
+||pidifudzt.com^
 ||pidsnbtigntdi.vip^
 ||pidxlikilswdy.website^
 ||piemandiscasebeslab.cyou^
@@ -56120,6 +56121,7 @@ browsershots.org#@#.advert_area
 ||sdkl.info^
 ||sdksaxnhxdzos.site^
 ||sdmfyqkghzedvx.com^
+||sdpdslielmttkra.com^
 ||sdpoonaaftldk.online^
 ||sdqlpzvfxpmns.space^
 ||sdqwierorvdkt.space^
@@ -61045,6 +61047,7 @@ browsershots.org#@#.advert_area
 ||trhefhiqsxizm.website^
 ||tri.media^
 ||trialshoewager.com^
+||triamiddishorndyeing.cfd^
 ||trianglereadiness.com^
 ||trianglesickdemocrat.com^
 ||triangularmouse.com^
