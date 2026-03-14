@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603142117
+! Version: 202603142120
 ! Title: Fanboy's Annoyance List
-! Last modified: 14 Mar 2026 21:17 UTC
+! Last modified: 14 Mar 2026 21:20 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 94c1881545cb3db61e7952bb886a061337dc339b
+! Commit: 8c5b999a7af6cc0d38a1d9fc57bc37c8144333c1
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -41001,7 +41001,7 @@ bdonline.co.uk,eutelsat.com,fieldsofskibbereen.ie,fullraces.com,gamesontvtoday.c
 ! ! .custom-consent
 emerald-heizijde.be,rivo.be,upperleft.be,vooruitzicht.be##.custom-consent
 ! ! #CookiePolicy
-drugdiscoverynews.com,fruskov.dk###CookiePolicy
+drugdiscoverynews.com,fruskov.dk,the-scientist.com###CookiePolicy
 ! ! landal.*
 landal.at,landal.be,landal.ch,landal.co.uk,landal.com,landal.de,landal.dk,landal.no##consent-slide-in-component
 ! ! .cookies-modal
