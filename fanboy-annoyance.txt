@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603141919
+! Version: 202603141920
 ! Title: Fanboy's Annoyance List
-! Last modified: 14 Mar 2026 19:19 UTC
+! Last modified: 14 Mar 2026 19:20 UTC
 ! Expires: 4 days (update frequency)
-! Commit: b26a034c47a4f33d28077dcb96dd89ec0c4aafec
+! Commit: 50e912a439a24f9de0f59e30b45487189378ffe6
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -38295,7 +38295,7 @@ play.google.com###gb > div[style*="background-color"]
 careers.lilly.com,dell.com,itnews.com.au,jibtv.com,vandyke.com###gdpr-alert
 aza.org###gdpr-bar
 sharefaith.com###gdpr-bot
-cfu-airport.gr,cobau.com.br,croatiaexcursions.com,estrelladecastilla.es,gofoexpress.com,jsi-airport.gr,kgs-airport.gr,leube.cz,map.purpleair.com,portal.amity.copiri.com,rho-airport.gr,skg-airport.gr,tapas.io,teamspeak.com,zth-airport.gr###gdpr-cookie-message
+cfu-airport.gr,clustrmaps.com,cobau.com.br,croatiaexcursions.com,estrelladecastilla.es,gofoexpress.com,jsi-airport.gr,kgs-airport.gr,leube.cz,map.purpleair.com,portal.amity.copiri.com,rho-airport.gr,skg-airport.gr,tapas.io,teamspeak.com,zth-airport.gr###gdpr-cookie-message
 quizwiz.pro###gdpr-cookie-msg
 usg.edu###gdpr-cookie-notification
 terro.com,woodstreambrands.ca###gdpr-dialog
