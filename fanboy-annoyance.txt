@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603141909
+! Version: 202603141911
 ! Title: Fanboy's Annoyance List
-! Last modified: 14 Mar 2026 19:09 UTC
+! Last modified: 14 Mar 2026 19:11 UTC
 ! Expires: 4 days (update frequency)
-! Commit: ed0b64403a1a2276e51d6947a71a6c0f31152257
+! Commit: 9e6eeccfd0ee1b788ef2bc6986e095178e27187a
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -40634,6 +40634,7 @@ iol.co.za##[data-dialog="true"]
 wizards.com##[data-fetch-key="TheCookiePrompt:0"]
 indeed.com##[data-gnav-region="GlobalPrivacyControlBanner"]
 katv.com,kfdm.com,komonews.com,ktul.com,wjla.com##[data-ketch-backdrop="true"]
+idealist.org##[data-qa-id="accept-cookies-alert"]
 scmp.com##[data-qa="GDPRBanner-Container"]
 app.greenhouse.io##[data-react-class="InformCookiesPopup"]
 etsy.com##[data-selector="privacy-cookie-banner-container"]
