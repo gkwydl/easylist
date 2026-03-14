@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603142129
+! Version: 202603142131
 ! Title: Fanboy's Annoyance List
-! Last modified: 14 Mar 2026 21:29 UTC
+! Last modified: 14 Mar 2026 21:31 UTC
 ! Expires: 4 days (update frequency)
-! Commit: d978b56a1de926ceb10678e9d0d0088f0b9c8ce2
+! Commit: 413cdbbdb4ff8c7c0f3956e3cc262ba4de7bd7ad
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -40690,7 +40690,7 @@ czds.icann.org##czds-cookie-notification
 c.realme.com##div > .cookie-privacy
 corrupt.wiki,developer.rocket.chat,docs.coreframework.com,docs.fluentbit.io,docs.flutterflow.io,docs.ibracorp.io,docs.jabref.org,electronforge.io,filebrowser.org,guides.cryptowat.ch,meshnet.nordvpn.com,support.saleae.com,wiki.valhelsia.net##div.r-1xcajam.css-175oi2r
 utrechtart.com##div[aria-label="cookie consent banner"]
-countryliving.com,delish.com,harpersbazaar.com,prevention.com,townandcountrymag.com##div[aria-label^="Privacy Disclosure"]
+biography.com,countryliving.com,delish.com,harpersbazaar.com,prevention.com,townandcountrymag.com##div[aria-label^="Privacy Disclosure"]
 audiomack.com##div[class*="ConfirmMessage-module__cookie-"]
 easyoffices.com##div[class*="CookiesBar_"]
 phot.ai##div[class*="styles_consentCard__"]
