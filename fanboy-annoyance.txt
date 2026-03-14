@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603142113
+! Version: 202603142114
 ! Title: Fanboy's Annoyance List
-! Last modified: 14 Mar 2026 21:13 UTC
+! Last modified: 14 Mar 2026 21:14 UTC
 ! Expires: 4 days (update frequency)
-! Commit: d1206844b0953c00747beb9c12fcf7407c068358
+! Commit: b21c8b04565d95842d7e5ebb13b61f9cf2f38cdd
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -39269,7 +39269,7 @@ chucklingcheese.co.uk##.cookie-accept-bar-v2
 syrf.org.uk##.cookie-alert-banner
 investkorea.org##.cookie-area
 pinpointproperties.com##.cookie-authority
-crumb.pet,privacy.com##.cookie-banner
+crumb.pet,niche.com,privacy.com##.cookie-banner
 whitepages.com##.cookie-banner-container
 team.repair##.cookie-banner-inner
 businesscomparison.com##.cookie-banner-mask
