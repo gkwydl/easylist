@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603141925
+! Version: 202603141927
 ! Title: Fanboy's Annoyance List
-! Last modified: 14 Mar 2026 19:25 UTC
+! Last modified: 14 Mar 2026 19:27 UTC
 ! Expires: 4 days (update frequency)
-! Commit: cf77064bc19d2f4f2540b1beadc98ef814b4c426
+! Commit: 23d752299975dcd742674b84147e1d2d20b14c98
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -38166,7 +38166,7 @@ bulgarianproperties.com###cookie_bar_new
 1fichier.com###cookie_box
 semiconductor.samsung.com###cookie_component
 semiconductor.samsung.com###cookie_component_emea
-domainname.shop,givengain.com,mkchulin.cz,mzanzisolutions.co.za,uscareerinstitute.edu###cookie_consent
+comscore.com,domainname.shop,givengain.com,mkchulin.cz,mzanzisolutions.co.za,uscareerinstitute.edu###cookie_consent
 khronos.org###cookie_decline
 sendgb.com###cookie_disabled
 halcyon.net,santionduty.com###cookie_info
