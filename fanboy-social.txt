@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603142351
+! Version: 202603142352
 ! Title: Fanboy's Social Blocking List
-! Last modified: 14 Mar 2026 23:51 UTC
+! Last modified: 14 Mar 2026 23:52 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 3f784742503c4d0799b5e4975caef03d679c6103
+! Commit: 61a6bf5d31d60cf7f3a7fc99b6bcabc9d61447d6
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -10666,6 +10666,7 @@ overdrive.in##.art-social-block
 khaleejtimes.com##.art-top-share-pan-nf
 wxyz.com##.article-action
 worldsoccertalk.com##.article-body__social-links
+jpost.com##.article-buttons-wrap
 chosun.com##.article-control-bar
 japan.go.jp##.article-fix-sns
 gfinityesports.com,stealthoptional.com##.article-float-buttons
