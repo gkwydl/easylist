@@ -3,7 +3,7 @@
 ! Title: EasyPrivacy
 ! Last modified: 14 Mar 2026 23:57 UTC
 ! Expires: 4 days (update frequency)
-! Commit: ac9cdcfea204690b7b5ab5b88192e0513279ac1c
+! Commit: f27421eced055f6fb4377f5ccdf0af661ec4282c
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -11943,6 +11943,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||quora.com/qevents.js
 ||qzzr.com/_uid.gif
 ||r.mail.ru^$script
+||r.sdiapi.net^
 ||r.skimresources.com^
 ||r.stripe.com^$ping,script,xmlhttprequest
 ||r.wdfl.co/rw.js
