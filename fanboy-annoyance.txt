@@ -3,7 +3,7 @@
 ! Title: Fanboy's Annoyance List
 ! Last modified: 14 Mar 2026 23:12 UTC
 ! Expires: 4 days (update frequency)
-! Commit: d63ed2e7e368e6e1e473e7d3086ceccfaef11127
+! Commit: dacea167c103f5af285ead313a046ca5e54acd18
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -41780,6 +41780,7 @@ boomlify.com##div > div:has-text(We use cookies to improve your experience.)
 yogainternational.com##div[class^="elements__Banner-"]:has(> div > a[href$="-privacy-policy"])
 help.semmelweis.hu#?#.modal:has(h3:has-text(Sütik használata)):has(button:has-text(Elfogadás))
 kick.com#?#.z-modal:-abp-contains(You are in control of cookies used)
+ura.news#?#.gR.t:has-text(Сайт использует cookie.)
 ! Intranet blocks
 ! Domains that won't show up publicly. (like airplane wifi domains)
 flyfi.com##.HASH_COOKIE_ALERT_GRID_ITEM_FIXED
