@@ -3,7 +3,7 @@
 ! Title: EasyList
 ! Last modified: 14 Mar 2026 21:49 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 5da110ed143cf044e952c1cdd0559f837ae2875e
+! Commit: b51d627f5962c8db74aa72c33cf93f5dda4e5ecc
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -78480,6 +78480,7 @@ browsershots.org#@#.advert_area
 ||surfmusic.de/anz
 ||survivalblog.com/marketplace/
 ||survivalservers.com^$subdocument,domain=adfoc.us
+||sweetalert2.github.io/images/sponsors/
 ||swncdn.com/ads/$domain=christianity.com
 ||sync.amperwave.net/api/get/magnite/auid=$xmlhttprequest
 ||szm.com/reklama
@@ -86450,7 +86451,7 @@ boxthislap.org,unknowncheats.me##img[width="300px"]
 independent.co.ug##img[width="320"]
 gamblingnewsmagazine.com##img[width="365"]
 grail.moe,trans.info##img[width="500"]
-americasvoice.news,arcadepunks.com##img[width="728"]
+americasvoice.news,arcadepunks.com,sweetalert2.github.io##img[width="728"]
 boxthislap.org##img[width="728px"]
 trans.info##img[width="756"][height="310"]
 justthenews.com##img[width="798"][height="450"]
