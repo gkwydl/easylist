@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603141901
+! Version: 202603141905
 ! Title: Fanboy's Annoyance List
-! Last modified: 14 Mar 2026 19:01 UTC
+! Last modified: 14 Mar 2026 19:05 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 21ee69d5e9190a3944cb6cd68c589eed2cb4d686
+! Commit: 392b519ced7698868165e7b160a54235cb8c43ef
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -41200,7 +41200,7 @@ flexiti.com##.z-999
 ! ! .z-100
 cote.co.uk,ennismore.com,gemini.pl,sallys-shop.de##.z-100
 ! ! .cookie-bar
-ansell.com.cn,bakkersonline.be,bootstrapmade.com,bulupoint.de,bushido-shop.com,campusfesztival.hu,dadcrush.com,domgate.com,epochtimes.kr,f6s.com,familystrokes.com,inovamar.pt,kb.cz,kirkusreviews.com,mastername.ru,meuhedet.co.il,mylf.com,nordicpond.shop,pervmom.com,pervz.com,proex2000.cz,schuhparadiso.de,shoplyfter.com,smartocto.com,swappz.com,teamskeet.com,thenationalherald.com,triodos.co.uk,um.suwalki.pl,umbler.com,wohntextilien4you.de,zerounoweb.it##.cookie-bar
+ansell.com.cn,bakkersonline.be,bootstrapmade.com,bulupoint.de,bushido-shop.com,campusfesztival.hu,dadcrush.com,domgate.com,epochtimes.kr,f6s.com,familystrokes.com,inovamar.pt,kb.cz,kirkusreviews.com,manilatimes.net,mastername.ru,meuhedet.co.il,mylf.com,nordicpond.shop,pervmom.com,pervz.com,proex2000.cz,schuhparadiso.de,shoplyfter.com,smartocto.com,swappz.com,teamskeet.com,thenationalherald.com,triodos.co.uk,um.suwalki.pl,umbler.com,wohntextilien4you.de,zerounoweb.it##.cookie-bar
 ! ! .cookie_bar
 tomtom.com##.cookie_bar
 ! ! #ws_eu-cookie-container
