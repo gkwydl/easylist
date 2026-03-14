@@ -3,7 +3,7 @@
 ! Title: EasyList
 ! Last modified: 14 Mar 2026 19:09 UTC
 ! Expires: 4 days (update frequency)
-! Commit: b6d5a6ad2578ff3238b80e883d672844891aca50
+! Commit: ed0b64403a1a2276e51d6947a71a6c0f31152257
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -39774,6 +39774,7 @@ browsershots.org#@#.advert_area
 ||kadjovuylhcdl.space^
 ||kaestongues.cyou^
 ||kaestypedaun.cfd^
+||kaesukuleledirects.cfd^
 ||kaewutruyxfqa.online^
 ||kafirperk.cyou^
 ||kafsalkc.in^
@@ -41325,6 +41326,7 @@ browsershots.org#@#.advert_area
 ||latinwayy.com^
 ||latkemanteau.qpon^
 ||latookawirierkasm.cyou^
+||latriasgirella.cyou^
 ||latrinehelves.com^
 ||latticedispleased.com^
 ||latticeincriminate.com^
