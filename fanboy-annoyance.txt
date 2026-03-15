@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603150353
+! Version: 202603150354
 ! Title: Fanboy's Annoyance List
-! Last modified: 15 Mar 2026 03:53 UTC
+! Last modified: 15 Mar 2026 03:54 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 0d1053d1b22bd15d4d78c0f3ef74b3343aa1a8b1
+! Commit: 9a15dcee6df386800deabbe6e772403f1afcf785
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -45835,6 +45835,7 @@ prashkovsky.co.il##.elementor-element-71e69a7
 xphone.co.il##.elementor-element-7f094b47
 yad-mordechai.co.il##.eupopup-container
 amigo.co.il,creative.co.il,drnireyal.co.il,ncl-lawyers.com,playmobil.co.il,sagol-ad.co.il,sheffer-cbt.co.il,web-skipper.co.il##.footerpopup
+boutiquecentral.co.il,herzliyamuseum.co.il,jerusalemwineries.co.il,otzarot.org.il,telavivfoundation.org##.fotpopup
 cinema-city.co.il,peamitstore.co.il##.gdpr-module
 bathandbodyworks.co.il,castro.com,delta.co.il,fixfixfixfix.co.il,lilit.co.il,panta-rei.com,urbanica-wh.com##.idus_popup_widget_cookie_popup
 ksp.co.il##.ltr-1075xo6
