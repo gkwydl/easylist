@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603150351
+! Version: 202603150352
 ! Title: Fanboy's Annoyance List
-! Last modified: 15 Mar 2026 03:51 UTC
+! Last modified: 15 Mar 2026 03:52 UTC
 ! Expires: 4 days (update frequency)
-! Commit: a6b81a6b577ad96eeca9542bed5ed863731ad6a8
+! Commit: 61b90f1297c55e63f4ef653e3cd72fc261809153
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -41101,7 +41101,7 @@ eestipank.ee,visitsweden.de##div[class^="Cookiebar"]
 ! ! .mst-gdpr__cookie-bar-overlay
 sklepmartes.pl##.mst-gdpr__cookie-bar-overlay
 ! ! cookies-banner
-latribune.ca,lesoleil.com,livejournal.com,px.dev,takealot.com##[class^="cookies-banner"]
+latribune.ca,leaan.co.il,lesoleil.com,livejournal.com,px.dev,takealot.com##[class^="cookies-banner"]
 ! ! .notification-banner
 foxbusiness.com,foxnews.com,trulyhardseltzer.com,vgchartz.com##.notification-banner
 ! ! #cookieSettings
