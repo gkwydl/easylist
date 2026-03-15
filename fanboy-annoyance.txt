@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603150354
+! Version: 202603150356
 ! Title: Fanboy's Annoyance List
-! Last modified: 15 Mar 2026 03:54 UTC
+! Last modified: 15 Mar 2026 03:56 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 9a15dcee6df386800deabbe6e772403f1afcf785
+! Commit: 52893b58efb8eeca5fea2256c735dd14fac5019c
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -26723,6 +26723,7 @@ dashboard.razorpay.com#@##credential_picker_container
 ##.mini_cookie_stack
 ##.mipro-cookie-notice
 ##.misc-popup-cookie
+##.mishloha-gdpr-popup
 ##.mj-box-cookie-alert
 ##.mj-consent__banner
 ##.mj-gdpr-consent-banner
@@ -45841,7 +45842,6 @@ bathandbodyworks.co.il,castro.com,delta.co.il,fixfixfixfix.co.il,lilit.co.il,pan
 ksp.co.il##.ltr-1075xo6
 mdyo.co.il##.mdyo-cookie
 diners.co.il##.message-container
-falafelbaribua.co.il,pizzangel.co.il##.mishloha-gdpr-popup
 ksp.co.il##.mui-b13abt.MuiBox-root
 bankhapoalim.co.il##.muirtl-1cwm7gt
 ksp.co.il##.muirtl-b13abt.MuiBox-root
