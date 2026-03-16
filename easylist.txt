@@ -3,7 +3,7 @@
 ! Title: EasyList
 ! Last modified: 16 Mar 2026 01:06 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 63b52b5a1fae26611861e9cf8dc0e57bf65d30dd
+! Commit: 2bcab14367143d903b844328c0a0c9fb7b75ce1d
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -12353,6 +12353,7 @@ _800x80_
 ##.mobile-instream-ad-holder-single
 ##.mobileAd
 ##.mobileAdWrap
+##.mobileAds
 ##.mobileAppAd
 ##.mobile_ad_banner
 ##.mobile_ad_container
@@ -13822,6 +13823,7 @@ _800x80_
 ##.topAdWrapper
 ##.topAdd
 ##.topAds
+##.topAdsArticle
 ##.topAdsWrappper
 ##.topAdvBox
 ##.topAdvert
@@ -15075,6 +15077,7 @@ _800x80_
 ##.taboola_container
 ##.taboola_lhs
 ##.taboola_module
+##.taboolaads
 ##.taboolaloader
 ##.trb_taboola
 ##.trc-first-recommendation
