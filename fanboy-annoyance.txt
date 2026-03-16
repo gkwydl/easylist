@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603160425
+! Version: 202603160429
 ! Title: Fanboy's Annoyance List
-! Last modified: 16 Mar 2026 04:25 UTC
+! Last modified: 16 Mar 2026 04:29 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 6ed635802ea47b82afaf787b90a5ca4e3cb4da0d
+! Commit: b880c65ef973f0cf81d11655ac4be73c75f022ea
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -39355,6 +39355,7 @@ rdu.com##.cookie-panel-wrapper
 evocsports.com##.cookie-permission-overlay
 vetstoria.com##.cookie-policy-acceptance-banner
 cloud-as.ruijienetworks.com##.cookie-policy-content
+vmock.com##.cookie-policy-modal
 oddsscanner.com##.cookie-policy-pop-up
 chicco.co.uk##.cookie-pop-up-wrapper
 slidelizard.com##.cookie-popup-dialog
