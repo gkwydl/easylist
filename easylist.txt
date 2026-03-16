@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603161309
+! Version: 202603161319
 ! Title: EasyList
-! Last modified: 16 Mar 2026 13:09 UTC
+! Last modified: 16 Mar 2026 13:19 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 0e3a1914a6725892d169a8620f6d74048b4a2cd7
+! Commit: c16478d75f0c38d625c72bfcc7280548d4a2707b
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -84459,6 +84459,7 @@ breakingnews.ie,canberratimes.com.au,theland.com.au##.py-2.bg-gray-100
 fastcompany.com##.py-8
 onlyinyourstate.com##.py-8.md\:flex
 pymnts.com##.pymnt_ads
+quora.com##.q-sticky[style*="box-sizing: border-box; position: sticky;"]
 euronews.com##.qa-dfpLeaderBoard
 infoq.com##.qcon_banner
 thegatewaypundit.com##.qh1aqgd
@@ -88072,7 +88073,6 @@ producthunt.com#?#.text-12:-abp-contains(Promoted)
 property24.com#?#.p24_tileContainer:-abp-contains(Sponsored)
 psprices.com#?#.creative:has-text(remove advertising)
 pushsquare.com#?#span:has-text(or Subscribe)
-quora.com#?#.q-sticky[style*="box-sizing: border-box; position: sticky;"]:has-text(Advertisement)
 qvc.com#?#.qModule:-abp-contains(Sponsored)
 qz.com#?#div[class^="sc-"]:-abp-has(> div[class="ad-unit"])
 qz.com#?#div[class^="sc-"]:-abp-has(> div[is="bulbs-dfp"])
