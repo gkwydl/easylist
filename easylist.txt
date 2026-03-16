@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603160408
+! Version: 202603160413
 ! Title: EasyList
-! Last modified: 16 Mar 2026 04:08 UTC
+! Last modified: 16 Mar 2026 04:13 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 99c6cd2385f446a90fd3702cdff1ebdd7e12467e
+! Commit: b3c4e322c7fbf1528ffc08fd8f26a6c0c886067e
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -38931,6 +38931,7 @@ browsershots.org#@#.advert_area
 ||jfrtopxglnetf.online^
 ||jfrxmlujqkdwj.space^
 ||jfuxevakslazy.site^
+||jfvcvxdljdqxw.website^
 ||jfverzoeowotc.store^
 ||jfvxpmxf.xyz^
 ||jfwaqjrsvshtl.online^
@@ -52883,6 +52884,7 @@ browsershots.org#@#.advert_area
 ||qpweyjmudecjc.online^
 ||qpwvhsxxzwgft.global^
 ||qpwvok0l.xyz^
+||qqblawfheamext.com^
 ||qqdbyguxsdlvq.site^
 ||qqeadugfccgya.space^
 ||qqeamubuikcai.site^
@@ -55859,6 +55861,7 @@ browsershots.org#@#.advert_area
 ||salterpothole.com^
 ||saltersmuscule.cfd^
 ||saltsleaseholder.com^
+||saltyjunkerma.qpon^
 ||salungclatsop.cfd^
 ||salutationlie.com^
 ||salutationwantedaccustom.com^
