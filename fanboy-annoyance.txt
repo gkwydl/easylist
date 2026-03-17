@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603170311
+! Version: 202603170312
 ! Title: Fanboy's Annoyance List
-! Last modified: 17 Mar 2026 03:11 UTC
+! Last modified: 17 Mar 2026 03:12 UTC
 ! Expires: 4 days (update frequency)
-! Commit: b527e76b12660e117f7e4e3cef6f5cf9408fe96a
+! Commit: 1a2be59ef2aee01f0fff9eca0eb35c5cdcdc5a21
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -40976,7 +40976,7 @@ beerwulf.com,bhphotovideo.com,binekarac.vw.com.tr,cheq.ai,distrelec.de,experiani
 experianidentityservice.co.uk###ensBannerBG
 ! ! #ensConsentWidget
 ! ! .cookie-message
-action.pl,appartementamsterdam.nl,bestbuycyprus.com,cambridge.org,dgpci.mai.gov.ro,discountbank.co.il,dividendmax.com,faccsa.com,farrerpark.com,haber7.com,huurwoningamsterdam.nl,imda.gov.sg,jobg8.com,kameramsterdam.nl,macpac.co.nz,mercantile.co.il,meups.com.br,nomos-glashuette.com,ostwest.tv,pdpc.gov.sg,piadinalumbro.gr,rules.co.uk,safra.sg,studiosamsterdam.nl,woonbotenamsterdam.com##.cookie-message
+action.pl,appartementamsterdam.nl,bestbuycyprus.com,cambridge.org,dgpci.mai.gov.ro,discountbank.co.il,dividendmax.com,eluniversal.com.mx,faccsa.com,farrerpark.com,haber7.com,huurwoningamsterdam.nl,imda.gov.sg,jobg8.com,kameramsterdam.nl,macpac.co.nz,mercantile.co.il,meups.com.br,nomos-glashuette.com,ostwest.tv,pdpc.gov.sg,piadinalumbro.gr,rules.co.uk,safra.sg,studiosamsterdam.nl,woonbotenamsterdam.com##.cookie-message
 ! ! .cookie-accept
 autocango.com##.cookie-accept
 ! ! #cookie-popup
