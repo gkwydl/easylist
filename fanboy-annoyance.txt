@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603170312
+! Version: 202603170313
 ! Title: Fanboy's Annoyance List
-! Last modified: 17 Mar 2026 03:12 UTC
+! Last modified: 17 Mar 2026 03:13 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 1a2be59ef2aee01f0fff9eca0eb35c5cdcdc5a21
+! Commit: b9135832fbfc49fe5efe5d90163340ae7cad5d88
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -38899,6 +38899,7 @@ medicinechest.co.uk##._aju
 band.us##._bandCookieAgreementLayer
 app.heygen.com##._contain_1b2mk_1
 incogni.com##._cookie-consent_tpc72_1
+omegawatches.com##._cookie-modal
 substack.com##._cookieBanner_t11f1_1
 neuralink.com##._cookiePopup_hshe1_11
 bitvavo.com##._cookiePresenter_isjkl_1
