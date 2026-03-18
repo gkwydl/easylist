@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603181000
+! Version: 202603181007
 ! Title: EasyList
-! Last modified: 18 Mar 2026 10:00 UTC
+! Last modified: 18 Mar 2026 10:07 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 8684b16bfabef9820ef865ce80aefb0ffda7b0c7
+! Commit: c0530e190f393659f39336085c8d9a48958547c4
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -25958,6 +25958,7 @@ browsershots.org#@#.advert_area
 ||curvedheldideal.com^
 ||curvemodernforester.com^
 ||curveyartgum.shop^
+||curvleaglancemaja.cfd^
 ||curyrentattri.com^
 ||cushatozonium.cfd^
 ||cushieglaredopiism.cfd^
@@ -56294,6 +56295,7 @@ browsershots.org#@#.advert_area
 ||salitedhendly.help^
 ||saljfnxhikwwz.website^
 ||salleamebean.com^
+||salliercushats.qpon^
 ||salmoncontroversy.com^
 ||salolfozier.cyou^
 ||salolsharifs.cfd^
@@ -60317,6 +60319,7 @@ browsershots.org#@#.advert_area
 ||tcihfguqejvsf.online^
 ||tcjaslvajucmt.online^
 ||tcjjaiaf.net^
+||tcjsmrqmphhby.website^
 ||tckdemcpsjd.com^
 ||tckpbztfegetd.space^
 ||tcloaksandtheirc.org^
