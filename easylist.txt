@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603180203
+! Version: 202603180212
 ! Title: EasyList
-! Last modified: 18 Mar 2026 02:03 UTC
+! Last modified: 18 Mar 2026 02:12 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 4036218b4c6799b7a1cfe5f6f4beb74f10e73841
+! Commit: 587f03b5939c1b74ddba17bf243fe1ac53195512
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -21564,6 +21564,7 @@ browsershots.org#@#.advert_area
 ||bleak-yard.com^
 ||bleaksalfur.cyou^
 ||bleatedvibrion.cfd^
+||bleaterpolys.com^
 ||bleatstringinch.com^
 ||bleatyskryer.cyou^
 ||bleepgizmorecital.com^
@@ -35360,6 +35361,7 @@ browsershots.org#@#.advert_area
 ||hawingour.qpon^
 ||hawkabsurd.com^
 ||hawkerliefer.cyou^
+||hawkiesnurry.shop^
 ||hawkingtorvid.help^
 ||hawknutbiform.help^
 ||hawktzefayiat.space^
@@ -43526,6 +43528,7 @@ browsershots.org#@#.advert_area
 ||machreewhiz.com^
 ||maciestrypan.cyou^
 ||mackledxoanona.cyou^
+||macksfrab.com^
 ||macro.adnami.io^
 ||mactracorbe.qpon^
 ||maculaknabble.qpon^
@@ -44644,6 +44647,7 @@ browsershots.org#@#.advert_area
 ||miserly-dealer.pro^
 ||miserly-gift.pro^
 ||miserlyphilosophy.pro^
+||misfareairwashnothal.cyou^
 ||misfareoshearicher.cfd^
 ||misfitbenote.qpon^
 ||misfitrope.qpon^
@@ -62018,6 +62022,7 @@ browsershots.org#@#.advert_area
 ||tujourda.net^
 ||tujrikfewybat.online^
 ||tuktszcckzgei.site^
+||tulalipirises.com^
 ||tularererangetspa.cyou^
 ||tulipssepntriglot.cyou^
 ||tulsichalkos.cyou^
