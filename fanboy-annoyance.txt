@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603181043
+! Version: 202603181058
 ! Title: Fanboy's Annoyance List
-! Last modified: 18 Mar 2026 10:43 UTC
+! Last modified: 18 Mar 2026 10:58 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 6becbd277f492af1f6db6e611f4a0bbdecd842b0
+! Commit: f2744484b2f37e95b7bc34b91dc224cdabb8285a
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -45818,7 +45818,6 @@ madlan.co.il###cookie-root
 globes.co.il###cookiesConfirmDiv
 soltam.co.il###dfwt-gdpr-overlay
 bigelectric.co.il###gdprCookieBar
-davidson.org.il###gnb
 wine-eilat.com###mcc-cookie-bar
 pezzi.co.il###pezzi-cookie-popup
 dunietz-elad.co.il###privacy_policy_popup
