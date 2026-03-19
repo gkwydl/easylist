@@ -3,7 +3,7 @@
 ! Title: Fanboy's Annoyance List
 ! Last modified: 19 Mar 2026 06:11 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 5bc62106bb75cd09bd6575aa38c8e6cfd6e2303f
+! Commit: 022a76eca39a8151e85f08f3fda2f14171d5e02d
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -37169,7 +37169,7 @@ fintech.tv,war.ukraine.ua##.share-news
 thehackernews.com##.share-open-modal
 bdnews24.com##.share-option
 ig.com.br,med.stanford.edu##.share-page
-advocate.com,alternet.org,bestlifeonline.com,comicsands.com,commondreams.org,gbnews.com,glennbeck.com,pride.com,rawstory.com,spectrum.ieee.org,theblaze.com,thefulcrum.us,upworthy.com##.share-panel
+advocate.com,alternet.org,bestlifeonline.com,comicsands.com,commondreams.org,gbnews.com,glennbeck.com,physicsworld.com,pride.com,rawstory.com,spectrum.ieee.org,theblaze.com,thefulcrum.us,upworthy.com##.share-panel
 forward.com##.share-post
 thenationalpulse.com##.share-post-button
 aajtak.in,gnttv.com,indiatoday.in,indiatodayne.in##.share-social-icons
