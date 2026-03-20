@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603201404
+! Version: 202603201410
 ! Title: EasyList
-! Last modified: 20 Mar 2026 14:04 UTC
+! Last modified: 20 Mar 2026 14:10 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 8dd4e2f3f7430c6922c46f35e5409a0edae8b40d
+! Commit: b25d026c04dfa5b2fbf9831166b909658726379e
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -32175,6 +32175,7 @@ browsershots.org#@#.advert_area
 ||forcefulpacehauled.com^
 ||forcefulwest.com^
 ||forcepsfavissa.qpon^
+||forcepsmappensteele.qpon^
 ||forcertollon.help^
 ||fordjuly.com^
 ||fordletze.com^
@@ -56701,6 +56702,7 @@ browsershots.org#@#.advert_area
 ||sarcasticnotarycontrived.com^
 ||sarcastscriptoechevin.cyou^
 ||sarclerwene.shop^
+||sardanaboxful.cfd^
 ||sardineabstract.com^
 ||sardineoctoberconnecting.com^
 ||sardonic-wind.com^
