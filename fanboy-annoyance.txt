@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603202113
+! Version: 202603202117
 ! Title: Fanboy's Annoyance List
-! Last modified: 20 Mar 2026 21:13 UTC
+! Last modified: 20 Mar 2026 21:17 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 1b2f5e59e310e991fbfab157c0d6237b034131c3
+! Commit: 91117520f42c449cb47abb4a5c8f95b2206e3b17
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -47180,7 +47180,7 @@ bubble.ru##.notifications
 premier.one##.notifications-container
 culture.ru##.notify-bar
 psychologies.ru##.notify-messages-popups
-ngzt.ru##.notifycation
+gorodkirov.ru,ngzt.ru##.notifycation
 33-news.ru,news-komi.ru##.notifycation__wrap
 ngnovoros.ru,pg02.ru,pg11.ru,pg12.ru,pg21.ru,pg37.ru,pg46.ru,pgn21.ru,pgr76.ru,prochepetsk.ru,prodzer.ru,progorod33.ru,progorod43.ru,progorod58.ru,progorod62.ru,progorodnn.ru,progoroduhta.ru,prosaratov.ru,usolie.info,youtvnews.com##.notifycation_notifycation__BeRRP
 newskrasnodar.ru,pg11.ru,pg13.ru,vladivostoktimes.ru##.notifycation_notifycation__X6Fsx
