@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603200548
+! Version: 202603200549
 ! Title: EasyList
-! Last modified: 20 Mar 2026 05:48 UTC
+! Last modified: 20 Mar 2026 05:49 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 575e0290afb6c9edf7013c1cade1316bd502e85d
+! Commit: 335a84bae32b1425957bced651b8a449a131ee30
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -30682,6 +30682,7 @@ browsershots.org#@#.advert_area
 ||exterminatordesperate.com^
 ||extinguishbethpasta.com^
 ||extinguishsufferingsalty.com^
+||extolfatted.cyou^
 ||extortionbudnumerous.com^
 ||extracthorizontaldashing.com^
 ||extractionatticpillowcase.com^
@@ -32493,6 +32494,7 @@ browsershots.org#@#.advert_area
 ||friscobarchan.help^
 ||friskearworm.qpon^
 ||friskydoweral.com^
+||fritberean.cyou^
 ||friy.site^
 ||frizzymembership.pro^
 ||frjbyduygjwbk.site^
