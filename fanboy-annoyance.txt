@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603202316
+! Version: 202603202322
 ! Title: Fanboy's Annoyance List
-! Last modified: 20 Mar 2026 23:16 UTC
+! Last modified: 20 Mar 2026 23:22 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 7a0d1cc93e628197fac6636a13353ed5b05e48c0
+! Commit: 1e59d6a476e65929513bef12a122bef5e3c75a45
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -45817,6 +45817,7 @@ citroen.co.il,dsautomobiles.co.il,maccabi4u.co.il,mg-israel.co.il,opel.co.il,peu
 maccabi4u.co.il###ZA_CAMP_MOBILE_CONTAINER
 meitav.co.il###ZA_CAMP_SLIDEIN_CONTAINER
 myofer.co.il###bottom-toasts-layer
+lubinskitrade.co.il###ccm-cookie-banner
 cmotors.co.il###cm-consent-banner
 tambour.co.il###cookie-consent-acf-backdrop
 impress-stores.co.il,tambour.co.il###cookie-consent-acf-modal
