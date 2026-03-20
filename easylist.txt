@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603202103
+! Version: 202603202111
 ! Title: EasyList
-! Last modified: 20 Mar 2026 21:03 UTC
+! Last modified: 20 Mar 2026 21:11 UTC
 ! Expires: 4 days (update frequency)
-! Commit: d4e52f0b354609e262c9b3602c34ec1ed9a6175a
+! Commit: aefca8df31d0d5c04b0e79efb07047361581d2b5
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -22796,6 +22796,7 @@ browsershots.org#@#.advert_area
 ||buttondeeprootedbedside.com^
 ||buttonsreliabletome.com^
 ||buttontileaiming.com^
+||butynevizir.cfd^
 ||buudsdgmbgspv.website^
 ||buvhlspktqqoi.online^
 ||buviwvdndjpsz.website^
@@ -45903,6 +45904,7 @@ browsershots.org#@#.advert_area
 ||murrgraupel.qpon^
 ||murshidkloof.cyou^
 ||musangdeposit.qpon^
+||muscoidkillick.cfd^
 ||muscosesoftly.cyou^
 ||musdfsobpobkm.space^
 ||musesooreyn.cfd^
@@ -50175,6 +50177,7 @@ browsershots.org#@#.advert_area
 ||pavancentaur.cfd^
 ||pavaneskirombo.cfd^
 ||pavesgoidel.cfd^
+||pavidonstage.qpon^
 ||pavinskabaka.cyou^
 ||paviorsgermina.help^
 ||pavisehoplitedataria.cfd^
@@ -57394,6 +57397,7 @@ browsershots.org#@#.advert_area
 ||sertivepremier.cfd^
 ||sertulespouty.cfd^
 ||sertuleyatvyag.qpon^
+||sertumfat.cyou^
 ||serumargols.shop^
 ||serumlyrisms.cfd^
 ||serumsugareffective.com^
