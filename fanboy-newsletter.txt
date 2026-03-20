@@ -3,7 +3,7 @@
 ! Title: Fanboy's Anti-Newsletter List
 ! Last modified: 20 Mar 2026 23:23 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 33af2fd3dcbad975ec185844cf6c7e9e0487e1a5
+! Commit: 9a48071cdd7f61862c3b07d19d6e56f554a3c3e7
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -1959,7 +1959,7 @@ marketplace.org##.NewsletterPrompt_newsletterSidebar__tYOqr
 cltampa.com##.NewsletterSignup
 gamedeveloper.com,iotworldtoday.com##.NewsletterSignupButton
 themirror.com##.NewsletterSignup_container__UINqe
-aftermath.site,sf.gazetteer.co##.NewsletterSignup_wrapper__rmf2c
+aftermath.site,nautil.us,sf.gazetteer.co##.NewsletterSignup_wrapper__rmf2c
 wgbh.org##.NewsletterSubscribe
 ranker.com##.NewsletterSubscription_mainWrapper__GxgFi
 cntraveler.com##.NewsletterWrapper-JRxKg

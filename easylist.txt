@@ -3,7 +3,7 @@
 ! Title: EasyList
 ! Last modified: 20 Mar 2026 23:23 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 33af2fd3dcbad975ec185844cf6c7e9e0487e1a5
+! Commit: 9a48071cdd7f61862c3b07d19d6e56f554a3c3e7
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -88417,6 +88417,7 @@ newsweek.com##.FeaturedMedia_articleFeaturedMedia__LEpVY
 forbes.com##.MWrh7
 cubbyathome.com##.Post__inPostVideoAdDesktop
 apartmenttherapy.com##.Post__inPostVideoAdMobile
+nautil.us##.PrimisVideoAdBlock_wrapper__vYQNI
 ratemyprofessors.com##.VideoPlayer__StyledPlayer-sc-2xyxn3-0
 tvline.com##._video_ti56x_1
 hotukdeals.com##.ad
