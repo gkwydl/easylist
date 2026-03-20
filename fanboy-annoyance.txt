@@ -3,7 +3,7 @@
 ! Title: Fanboy's Annoyance List
 ! Last modified: 20 Mar 2026 23:10 UTC
 ! Expires: 4 days (update frequency)
-! Commit: bc19d02065ca69e98ed05db36f4f76f11326558f
+! Commit: 6ea26002ad21b20f36bda418c827566cd1b8ef9e
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -45834,7 +45834,7 @@ ivory.co.il###removeBannerCookie
 ipo.co.il###rg-privacy-wrap
 gadgety.co.il###upnext-cookie-notice
 cal-online.co.il###wc-using-cookies
-talronbatt.co.il###www-cookies-consent-banner
+lubit.co.il,talronbatt.co.il###www-cookies-consent-banner
 iroads.co.il##.CookiePolicyDisclaimer
 amot.co.il##.Cookies__StyledSnackbar-sc-1o4gw82-1
 lastprice.co.il##.PCConsent
