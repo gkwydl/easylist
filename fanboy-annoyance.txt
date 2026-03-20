@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603202111
+! Version: 202603202113
 ! Title: Fanboy's Annoyance List
-! Last modified: 20 Mar 2026 21:11 UTC
+! Last modified: 20 Mar 2026 21:13 UTC
 ! Expires: 4 days (update frequency)
-! Commit: aefca8df31d0d5c04b0e79efb07047361581d2b5
+! Commit: 1b2f5e59e310e991fbfab157c0d6237b034131c3
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -40913,7 +40913,7 @@ alibabagroup.com,back.engineering,buildsoftwaresystems.com,cloud.huawei.com,conf
 ! #cookie-notification
 furaffinity.net,globalair.com,kennesaw.edu,reelrapture.com,retailtrends.nl,southwire.com,tourradar.com,verkkokauppa.mikrokulma.fi###cookie-notification
 ! .cookies-container
-airtel.in,ashdodport.co.il,habblet.city,interativa.ind.br,moex.com,netshort.com,seedtag.com,snoopza.com,trensurb.gov.br##.cookies-container
+airtel.in,ashdodport.co.il,habblet.city,interativa.ind.br,moex.com,netshort.com,seedtag.com,snoopza.com,trensurb.gov.br,trf1.jus.br##.cookies-container
 ! ! .consent-banner-root
 2lprodutora.com,abrahamartimpressions.com,aef.bz,allelitewrestling.com,artflix.info,babyspullen-advies.nl,barkanmounts.com,bodenlager24.de,boudoirsecrets.at,bruni.biz,burobraak.nl,celula21.com,clorin.com.br,conteudoscatolicos.com,crestcare.co.za,dealleadersint.com,eco-valves.com,elektropartner.com,eriestgastropub.com,essentialhealthsa.com,euroctp.eu,fahrschule-delert.de,feitodabananeira.com,ffwinnebach.it,flywhite.com,franzenshoehe.com,geowgs84.com,hafner-konrad.it,herbatio.com,hoper.com.br,interalco.es,iternio.com,journafonds.ch,ketikotitafel.nl,kuoe-en.com,lonestar.co.il,maierhofer.at,maldivealternative.com,mariaspizza.ca,miocomune.tv,monetixads.com,mysterium.network,naturalia.it,nbs-bouwmaterialen.nl,omnihandling.com,opticron.net,p-b-holding.com,perritocal-tienda.com,petruz.com,piessegroup.it,pipeway.com,popentertainmentarchives.com,preparaedu.com.br,radegastuvsenk.cz,radiobranding.de,radiocecchetto.it,redragon.com.br,reservamundi.com.br,sd-fiber.ch,sigmapumpy.com,slimtransformation.co.uk,smartlet.io,smoenova.de,sports-injury-physio.com,stimmungsgarten.tv,studiobera.it,tgtglas.es,thegnet.org,villagioia.net,vuseum.it,weplanet.org,wernergevers.be,wewillnomad.com,zeleny.cz,zeppelin-la.com##.consent-banner-root
 ! ! #cookiescript_injected
