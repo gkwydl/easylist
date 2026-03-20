@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603202144
+! Version: 202603202148
 ! Title: Fanboy's Annoyance List
-! Last modified: 20 Mar 2026 21:44 UTC
+! Last modified: 20 Mar 2026 21:48 UTC
 ! Expires: 4 days (update frequency)
-! Commit: af4703b5c3fd9a2609aa8328b9d1eccbd8b8ebd7
+! Commit: 74507f46f0734116d0878031eec0feac7821185f
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -41569,7 +41569,7 @@ icko-apiculture.com##.amgdprcookie-modal-template
 ! ! .bottom-0.position-fixed
 carsharingi.ru,jenner.com,kwebler.com,legiscope.com,nmsu.edu,tech-america.com,waracle.com##.bottom-0.position-fixed
 ! .bottom-0.left-0
-sprintersports.com,xxlnutrition.com##.bottom-0.left-0
+fnx.co.il,sprintersports.com,xxlnutrition.com##.bottom-0.left-0
 ! .bottom-0.right-0
 educationendowmentfoundation.org.uk,rshb.ru##.bottom-0.right-0
 ! ! .bottom-0.relative
