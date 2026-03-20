@@ -3,7 +3,7 @@
 ! Title: Fanboy's Annoyance List
 ! Last modified: 20 Mar 2026 23:08 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 3218cfbe31698f85138bdec8fabbe1e71ba139b2
+! Commit: 7a3432160b81a7424146d1de3180bb9501f38620
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -30554,6 +30554,7 @@ dashboard.razorpay.com#@##credential_picker_container
 ||wisepops.com^$domain=grist.org|prospect.org
 ! *** easylist:fanboy-addon/fanboy_social_specific_block.txt ***
 ! fanboy_social_specific_block.txt
+||gasgoo.com/api/wxshare/
 ||hotpot.ai/components/shareOverlay
 ||ipaddress.com/shariff/
 ||naturalnews.com/getviews2.
