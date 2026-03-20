@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603202311
+! Version: 202603202312
 ! Title: Fanboy's Annoyance List
-! Last modified: 20 Mar 2026 23:11 UTC
+! Last modified: 20 Mar 2026 23:12 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 933ac35efd80356046c53adad2dace976d36b4f3
+! Commit: fda756fe8413af60eeeb0ecfb6cea3586d07c7fd
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -45810,7 +45810,7 @@ ertflix.gr##div[data-test="cookie-policy"]
 ! 
 ! ---------- Hebrew ----------
 ! 
-hongqi.co.il###C_popup
+alfaromeo.co.il,hongqi.co.il###C_popup
 malamteam.com###MavilixCookiesBox
 calendar.2net.co.il###UseCookies
 citroen.co.il,dsautomobiles.co.il,maccabi4u.co.il,mg-israel.co.il,opel.co.il,peugeot.co.il###ZA_CAMP_BANNER_CONTAINER
