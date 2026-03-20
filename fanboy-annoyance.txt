@@ -3,7 +3,7 @@
 ! Title: Fanboy's Annoyance List
 ! Last modified: 20 Mar 2026 23:23 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 9a48071cdd7f61862c3b07d19d6e56f554a3c3e7
+! Commit: f272059f41981c6efe68d23c7f6024e6fea83b1d
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -45821,6 +45821,7 @@ lubinskitrade.co.il###ccm-cookie-banner
 cmotors.co.il###cm-consent-banner
 tambour.co.il###cookie-consent-acf-backdrop
 impress-stores.co.il,tambour.co.il###cookie-consent-acf-modal
+ngsoft.com###cookie-consent-strip
 zinger-organic.com###cookie-consent-wrapper
 019mobile.co.il###cookie-except-banner
 madlan.co.il###cookie-root
