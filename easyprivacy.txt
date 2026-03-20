@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202603202303
+! Version: 202603202304
 ! Title: EasyPrivacy
-! Last modified: 20 Mar 2026 23:03 UTC
+! Last modified: 20 Mar 2026 23:04 UTC
 ! Expires: 4 days (update frequency)
-! Commit: bab4beec0006dd6852f7da1c496e1338936649fe
+! Commit: e435b217dae9fbe21715cc3724d734e4d78b3833
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -1584,6 +1584,7 @@
 /mpulse.min.js
 /ms-widgets/tracking-cookies/*
 /ms.analytics-web-3.min.js
+/msq.tracker.min.js
 /mtc.js
 /mtifonttracker.js
 /mtiFontTrackingCode.js
