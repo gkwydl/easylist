@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603201410
+! Version: 202603201414
 ! Title: EasyList
-! Last modified: 20 Mar 2026 14:10 UTC
+! Last modified: 20 Mar 2026 14:14 UTC
 ! Expires: 4 days (update frequency)
-! Commit: b25d026c04dfa5b2fbf9831166b909658726379e
+! Commit: c0aca27a165a3d7be50b124913c80a9e5dc0c6f4
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -88194,6 +88194,7 @@ titantv.com##tr:has(> td[align="center"][valign="middle"][colspan="2"][class="gC
 opensubtitles.org##tr[style]:has([src*="php"])
 oneindia.com##ul > li:has(> div[class^="adg_"])
 etsy.com##ul[data-results-grid-container] li:has([id^="ad-listing-title-"])
+wolframalpha.com#?#section:has-text(This website uses cookies)
 ! taboola
 nme.com###taboola-below-article
 oneindia.com###taboola-mid-article-thumbnails
