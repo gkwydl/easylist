@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603220932
+! Version: 202603220937
 ! Title: Fanboy's Annoyance List
-! Last modified: 22 Mar 2026 09:32 UTC
+! Last modified: 22 Mar 2026 09:37 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 2bfb1bb56678c1aacb3942b77930dbfabd9a1bfe
+! Commit: 37634e2a777542745e9320e37f2bcd2d3c7686a5
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -45884,6 +45884,7 @@ electra-danko.co.il,electra-elco-cs.co.il,electra-elevators.co.il,electra-infras
 ksp.co.il##.rtl-1075xo6
 letlive.org.il##.site-consent-banner
 cts.co.il##.upnext-cookie-notice
+dominos.co.il##[class^="CloseableDisclaimer_"]
 dynamica.co.il,kfar.co.il,wineandmore.co.il##[class^="cookiesPopup"]
 alljobs.co.il##[id^="ZA_CAMP_BUBBLE_CONTAINER_CID_"]
 lastminute.co.il##app-notifications-container
