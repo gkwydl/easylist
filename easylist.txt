@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603221304
+! Version: 202603221309
 ! Title: EasyList
-! Last modified: 22 Mar 2026 13:04 UTC
+! Last modified: 22 Mar 2026 13:09 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 5b3d4b3467b0a41816ac909d645c28f41e751e97
+! Commit: 279672e97004cadf748f9c6b5ce8ca507bdc7d07
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -17287,6 +17287,7 @@ browsershots.org#@#.advert_area
 ||againboundless.com^
 ||againstmascaraordinal.com^
 ||agamagcargoan.com^
+||agamaisatide.shop^
 ||agametedaylessgagee.cfd^
 ||agat-tech.com^
 ||agatarainpro.com^
@@ -18697,6 +18698,7 @@ browsershots.org#@#.advert_area
 ||bacchaenaggar.com^
 ||backachedimpleparalyses.com^
 ||backachegrudgesiamese.com^
+||backbardemobs.cfd^
 ||backfiremountslippery.com^
 ||backoutvotes.shop^
 ||backspinreentryupright.com^
@@ -22275,6 +22277,7 @@ browsershots.org#@#.advert_area
 ||coriinperil.qpon^
 ||corincatwood.qpon^
 ||corjlougqaicc.top^
+||corkirouteat.qpon^
 ||corksadly.com^
 ||corncobossific.cfd^
 ||corncobwingman.qpon^
