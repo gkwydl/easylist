@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603221759
+! Version: 202603221805
 ! Title: EasyList
-! Last modified: 22 Mar 2026 17:59 UTC
+! Last modified: 22 Mar 2026 18:05 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 4a1cd057d82cea514c13313cd27945013dec4879
+! Commit: 6ebb63b070b811d65e33abbb85be3641494f95a8
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -16113,6 +16113,7 @@ browsershots.org#@#.advert_area
 ||6ngypwhbwqh9c3nk.rest^
 ||6opo.com^
 ||6ped2nd3yp.com^
+||6pvr7qenc4q6jvt6.rest^
 ||6qymnpzi.xyz^
 ||6ujk8x9soxhm.com^
 ||6v41p4bsq.com^
@@ -35541,6 +35542,7 @@ browsershots.org#@#.advert_area
 ||ionkvksslzpbi.online^
 ||iononetravoy.com^
 ||ionuiphcmzfhy.online^
+||ioo2ypx31xfwnck285w5n8.cfd^
 ||ioocokpvshaiz.space^
 ||iopiopiop.net^
 ||ioqdsyklgsuhc.website^
@@ -37915,6 +37917,7 @@ browsershots.org#@#.advert_area
 ||khjpcjdg.com^
 ||khlhqwlnesbbm.space^
 ||khlrruhndz.com^
+||khoangsp.in^
 ||khocclzjcykbk.site^
 ||khojares.cyou^
 ||khovdiminated.org^
@@ -61942,6 +61945,7 @@ browsershots.org#@#.advert_area
 ||vbuqxmrwegilw.online^
 ||vbvwcpowriyyo.space^
 ||vbwglrdlxyqwt.online^
+||vbyglfeg.com^
 ||vbyhuugfwnfic.online^
 ||vbykiprxfpvpt.space^
 ||vbyuqtivyaemk.space^
@@ -67932,6 +67936,7 @@ browsershots.org#@#.advert_area
 ||zynnrgeptfjhg.online^
 ||zypdunyryonff.online^
 ||zypenetwork.com^
+||zyryancassenarefel.cyou^
 ||zysjkaffgdzaz.website^
 ||zyusywfejzbya.fun^
 ||zyvlvbtnyixyx.online^
