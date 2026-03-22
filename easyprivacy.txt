@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202603221858
+! Version: 202603221859
 ! Title: EasyPrivacy
-! Last modified: 22 Mar 2026 18:58 UTC
+! Last modified: 22 Mar 2026 18:59 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 0acf74e9c888895fe0aa917b78608c55589f1173
+! Commit: c7ba30d643f83a035ee27faac1867b9dd66bb58f
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -3009,7 +3009,7 @@ _WebVitalsReporter_
 /unagi.amazon.
 /usage/Clickstream?
 /usage/ReportEvent?
-! hellofresh / greenchef / everyplate
+! hellofresh / greenchef / everyplate / grok
 /otlp/traces
 ! Pinterest
 /_/_/logClientError/*
@@ -15255,6 +15255,10 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||grabify.link/api/js
 ||graylog.prod.cams.run^
 ||grgnsht.nzxt.com^
+||grok.com/_data/v1/a/
+||grok.com/_data/v1/experiment/exposure
+||grok.com/_data/v1/events
+||grok.com/api/log_metric
 ||grokipedia.com/api/analytics
 ||grokipedia.com/api/ev
 ||grokipedia.com/api/stats
