@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603232139
+! Version: 202603232141
 ! Title: EasyList
-! Last modified: 23 Mar 2026 21:39 UTC
+! Last modified: 23 Mar 2026 21:41 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 980bcc5e870c8e9749ad039bd29f61145ce62cbe
+! Commit: fb0fba1998b26f16eeafd894f40b069496fb0caf
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -86242,7 +86242,7 @@ techwalla.com##.component-article-section-jwplayer-wrapper
 familystylefood.com##.email-highlight
 taskandpurpose.com##.empire-unit-prefill-container
 europeanpharmaceuticalreview.com##.europ-fixed-footer
-athlonsports.com,dengarden.com,mensfitness.com,mensjournal.com,parade.com,paradehomeandgarden.com,paradepets.com,pethelpful.com,surfer.com,thespun.com,travelhost.com,www.autoblog.com,www.thestreet.com##.exco-player-wrapper
+athlonsports.com,bringmethenews.com,dengarden.com,mensfitness.com,mensjournal.com,parade.com,paradehomeandgarden.com,paradepets.com,pethelpful.com,surfer.com,thespun.com,travelhost.com,www.autoblog.com,www.thestreet.com##.exco-player-wrapper
 goal.com##.fco-fc-video-player
 accuweather.com##.feature-tag
 pagesix.com##.featured-image__wrapper > .nyp-video-player
