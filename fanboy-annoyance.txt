@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603232104
+! Version: 202603232106
 ! Title: Fanboy's Annoyance List
-! Last modified: 23 Mar 2026 21:04 UTC
+! Last modified: 23 Mar 2026 21:06 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 5163d79646c93bd7b266460db1c78f734a002916
+! Commit: 8a957459b2e66ebb31340db9d29788ad90aa1c06
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -38111,7 +38111,7 @@ nflp.com###compliance-notice
 msn.com###conditionalbanner
 imei24.com###cons
 yopmail.com###cons-pop
-mobisystems.com###consent-banner
+mobisystems.com,parcelsapp.com###consent-banner
 agoda.com###consent-banner-container
 aspose.com,chessshop.eu,theonion.com###consent-banner-main
 products.aspose.com###consent-banner-wall
