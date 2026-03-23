@@ -3,7 +3,7 @@
 ! Title: EasyList
 ! Last modified: 23 Mar 2026 20:26 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 455f57a7c1677163633f2787db4908b8bc66de72
+! Commit: f278c4a6a2227412f0db2a49e48177d4baec4862
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -84375,7 +84375,7 @@ uniladtech.com##[class^="advert-placeholder_advertPlaceholder"]
 nasdaq.com##[class^="btf_"]
 weather.us##[class^="dkpw"]
 dallasnews.com##[class^="dmnc_features-ads-"]
-pixabay.com##[class^="gettySponsoredImagesContainer"]
+pixabay.com##[class^="gettySponsored"]
 romhustler.org##[class^="leaderboard_ad"]
 filmibeat.com##[class^="oiad"]
 nofilmschool.com##[class^="rblad-nfs_content"]
