@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603231855
+! Version: 202603231859
 ! Title: Fanboy's Annoyance List
-! Last modified: 23 Mar 2026 18:55 UTC
+! Last modified: 23 Mar 2026 18:59 UTC
 ! Expires: 4 days (update frequency)
-! Commit: d52731def5d724329c6473dd0ad4ee1a04b581b8
+! Commit: 581062fac3bd6a61c1dbbfa58dd537ffbc476dd8
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -41727,6 +41727,8 @@ acogo.pl,alcatelmobile.com,alpedhuez.com,apotheke-villingen.de,audirvana.com,ban
 elfshare.com,tickazilla.com##.uk-notify-message
 ! ! sellpy
 sellpy.at,sellpy.com,sellpy.de,sellpy.dk,sellpy.fi,sellpy.nl,sellpy.se##.gUbXEK
+! ! .cm-overlay
+viennapte.pl##.cm-overlay
 ! .z-50
 bairesdev.com,bootstrap.academy,doppelherz.com,energydashboard.co.uk,freelway.com,help.adjust.com,livecounts.io,natron.energy,perspectives.plus##.z-50
 ! groupon
