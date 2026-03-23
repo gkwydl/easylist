@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603230515
+! Version: 202603230516
 ! Title: Fanboy's Annoyance List
-! Last modified: 23 Mar 2026 05:15 UTC
+! Last modified: 23 Mar 2026 05:16 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 36727585667bff7071f2c5f95f773de002b445c8
+! Commit: c5b6c202d33cc465f1e336b1928beb7aa6251b9e
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -38751,6 +38751,7 @@ classicalarchives.com##.Cdiv
 anthropic.com##.ConsentBanner-module-scss-module__0uauWW__container
 sportsnet.ca##.ConsentModal-module_consent-modal-container__nDtVX
 nordpass.com,support.nordvpn.com##.ConsentWidget__container
+wolt.com##.ConsentsBannerOverlay
 humanizeai.pro##.CoockiesBanner_cookies_container__3epvo
 jksrestaurants.com##.Cookie-message
 weverse.io##.CookieAgreeView_container__qYaK3
