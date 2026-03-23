@@ -3,7 +3,7 @@
 ! Title: Fanboy's Anti-Newsletter List
 ! Last modified: 23 Mar 2026 02:09 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 0dbbcca54ac423f937626897b2bdd5cacfa5d97b
+! Commit: 02ed81a34fe6e07ec11fcd4ca11a9ed30b124473
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
