@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603230240
+! Version: 202603230247
 ! Title: EasyList
-! Last modified: 23 Mar 2026 02:40 UTC
+! Last modified: 23 Mar 2026 02:47 UTC
 ! Expires: 4 days (update frequency)
-! Commit: b9d7b770bf0e0c468e318dd1eeee0a0f56a3c350
+! Commit: 88a5144a56c3fcdca6cac0fe8a400743884fef4a
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -83570,7 +83570,7 @@ cifraclub.com##.styles_advertising__nZwCO
 egamersworld.com##.styles_bb__hb10X
 autoblog.com##.styles_container__C9F6R
 politico.com##.styles_container__zuzL0
-parade.com,pethelpful.com##.styles_headerAdSlot__f4Z0n
+mensjournal.com,parade.com,pethelpful.com##.styles_headerAdSlot__f4Z0n
 producthunt.com##.styles_item__hNPI1
 egamersworld.com##.styles_sidebar__m6yLy
 troypoint.com##.su-box
@@ -86000,7 +86000,7 @@ techwalla.com##.component-article-section-jwplayer-wrapper
 familystylefood.com##.email-highlight
 taskandpurpose.com##.empire-unit-prefill-container
 europeanpharmaceuticalreview.com##.europ-fixed-footer
-pethelpful.com##.exco-player-wrapper
+mensjournal.com,pethelpful.com##.exco-player-wrapper
 goal.com##.fco-fc-video-player
 accuweather.com##.feature-tag
 pagesix.com##.featured-image__wrapper > .nyp-video-player
