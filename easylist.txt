@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603230512
+! Version: 202603230513
 ! Title: EasyList
-! Last modified: 23 Mar 2026 05:12 UTC
+! Last modified: 23 Mar 2026 05:13 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 43fad84cda95ade2014b6d5c8432b67aefae92a9
+! Commit: 1c768cd845fd38c6cba31fc7580e18c5825e5578
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -79707,6 +79707,7 @@ goodmenproject.com##.GMP_728_top
 yiv.com##.GUIAdvertisement
 harveynorman.com.au##.GelBrickHomePage_gam360-homepage-top-promo-banner-container__DKVgi
 meduza.io##.GeneralMaterial-module-aside
+inforum.com##.GoogleDfpAd-advertisement
 coin360.com##.GuYYbg
 seattletimes.com##.H0FqVZjh86HAsl61ps5e
 news18.com##.Had262x218
