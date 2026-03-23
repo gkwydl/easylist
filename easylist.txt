@@ -3,7 +3,7 @@
 ! Title: EasyList
 ! Last modified: 23 Mar 2026 21:14 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 229625bf87629093237e68fe489b585475ae72c3
+! Commit: feaa3cfbeb298d970d3e055d93e752f47b6fafe1
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -42383,6 +42383,7 @@ browsershots.org#@#.advert_area
 ||miyfvsfzudrqa.online^
 ||miyktylovuibs.online^
 ||miyubhvqxopdx.store^
+||mizarcanela.cfd^
 ||mizarzygon.cyou^
 ||mizytadpwfswa.world^
 ||mj5tuzqkvu84ryvvvh6hnrf8egh8zfrzzy.cyou^
@@ -61540,6 +61541,7 @@ browsershots.org#@#.advert_area
 ||uprightbunnypane.com^
 ||uprimp.com^
 ||upriseinga.cfd^
+||upriserripely.shop^
 ||uprivaladserver.net^
 ||uproardevisederived.com^
 ||uproomhehe.qpon^
