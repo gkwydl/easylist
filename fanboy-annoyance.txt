@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603232052
+! Version: 202603232055
 ! Title: Fanboy's Annoyance List
-! Last modified: 23 Mar 2026 20:52 UTC
+! Last modified: 23 Mar 2026 20:55 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 0e1f00fa9325b49ce4162570e2aa40ae778960c5
+! Commit: e2465997c76301efcebe94c2b0534c7e43a2d27d
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -47209,6 +47209,7 @@ gorodkirov.ru,ngzt.ru##.notifycation
 33-news.ru,news-komi.ru##.notifycation__wrap
 ngnovoros.ru,pg02.ru,pg11.ru,pg12.ru,pg21.ru,pg37.ru,pg46.ru,pgn21.ru,pgr76.ru,prochepetsk.ru,prodzer.ru,progorod33.ru,progorod43.ru,progorod58.ru,progorod62.ru,progorodnn.ru,progoroduhta.ru,prosaratov.ru,usolie.info,youtvnews.com##.notifycation_notifycation__BeRRP
 newskrasnodar.ru,pg11.ru,pg13.ru,vladivostoktimes.ru##.notifycation_notifycation__X6Fsx
+kubnews.ru##.onetrust-banner
 onlinepbx.ru##.onlinepbx__cookie__modal
 otpbank.ru##.p-cookies-notification
 lamoda.ru,lamoda.ua##.page > [class*="widget"]
