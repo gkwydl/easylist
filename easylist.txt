@@ -3,7 +3,7 @@
 ! Title: EasyList
 ! Last modified: 23 Mar 2026 04:19 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 6b59a4f14a0b8d6dc60861ef799c4cf595913b6c
+! Commit: 3936dd1e1cf20b95186b5b24a77edbcc8f4f3b3e
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -68915,6 +68915,7 @@ browsershots.org#@#.advert_area
 ||adlooxtracking.com^$third-party
 ||adlpartner.com^$third-party
 ||adlux.com^$third-party
+||adlyticmarketing.com^$third-party
 ||adm.shinobi.jp^$third-party
 ||adman.gr^$third-party
 ||admana.net^$third-party
