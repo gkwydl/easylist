@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603232055
+! Version: 202603232056
 ! Title: Fanboy's Annoyance List
-! Last modified: 23 Mar 2026 20:55 UTC
+! Last modified: 23 Mar 2026 20:56 UTC
 ! Expires: 4 days (update frequency)
-! Commit: e2465997c76301efcebe94c2b0534c7e43a2d27d
+! Commit: b3b1ca065d0f70f5c581936313a61edc1b76a54c
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -38442,7 +38442,7 @@ betsson.com###msgwrapper
 mobilelegends.com###mt-cb-main
 extreme.com,mtn.co.za###my-welcome-message
 rockstarcoders.com###myAlert
-bott-workplace.co.uk,interface.com,kon-boot.com,southerntravelsindia.com,tcf.org###myModal
+bott-workplace.co.uk,interface.com,kon-boot.com,southerntravelsindia.com,tcf.org,telegram.im###myModal
 blog.n8n.io###n8n-consent-modal
 spandidos-publications.com###navbar
 anthonytravel.com###nb
