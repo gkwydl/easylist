@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603232201
+! Version: 202603232205
 ! Title: Fanboy's Annoyance List
-! Last modified: 23 Mar 2026 22:01 UTC
+! Last modified: 23 Mar 2026 22:05 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 65eb2440aace5d3df9a39558dfbe02df311e66a3
+! Commit: c715f9d19195ae4346cfa20b1745988f5bb5b616
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -46743,6 +46743,7 @@ quimis.com.br###politica-box
 caixa.gov.br###politicaPrivacidade
 vagalume.com.br###privacy-policy-div
 gauchazh.clicrbs.com.br###privacy-tools-banner
+unesp.br###pu-analytics-consent-bar
 webmotors.com.br###root > .sc-bdVaJa
 rtp.pt###rtpgeralcookiecontent
 porque.com.br###termos_analytics
