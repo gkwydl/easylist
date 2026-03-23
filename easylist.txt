@@ -3,7 +3,7 @@
 ! Title: EasyList
 ! Last modified: 23 Mar 2026 01:43 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 6bcdea8bdaa30bf2d47b19b9f0b1d6be198160a2
+! Commit: c4b38e475ead1d6d4f048c2c610c45dd33cf5d0c
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
