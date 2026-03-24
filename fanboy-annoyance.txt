@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603242143
+! Version: 202603242145
 ! Title: Fanboy's Annoyance List
-! Last modified: 24 Mar 2026 21:43 UTC
+! Last modified: 24 Mar 2026 21:45 UTC
 ! Expires: 4 days (update frequency)
-! Commit: ceaa0040e78b7848993cdc4984d9d081c8ba16cd
+! Commit: 9d4b17ea69d182ad23285931f67442a38d5854cd
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -40985,7 +40985,7 @@ adshares.net,emerald.com,fadc.org.br,forit.ro,my-twist.tempurl.co.il,tece.co.il#
 ! ! #cookies-policy
 libre-media.com,pharmacyclub.net,zonaprop.com.ar###cookies-policy
 ! ! __tealiumModalParent
-calvinklein.ca,calvinklein.us###__tealiumModalParent
+calvinklein.ca,calvinklein.us,tommy.com###__tealiumModalParent
 ! ! __tealiumGDPRcpPrefs
 austrian.com,comparethemarket.com,gsk.com,pepperl-fuchs.com###__tealiumGDPRcpPrefs
 ! ! .cookie-consent-banner
