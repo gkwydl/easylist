@@ -3,7 +3,7 @@
 ! Title: Fanboy's Annoyance List
 ! Last modified: 24 Mar 2026 20:00 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 21b51d031719e31e3b9e22d3409cfb1d44afc55f
+! Commit: 955f7351db3c88563a385e3ee971914a9c4edbff
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -39087,7 +39087,7 @@ fanatical.com##.biscuit-auth-collapsible
 latestdeals.co.uk##.bk3oq
 seikowatches.com##.blk-Disclaimer
 tnvacation.com##.block-cookie-acceptance-block
-carlemuseum.org##.block-cookies
+carlemuseum.org,unimi.it##.block-cookies
 french-weekendbreaks.co.uk##.block-fs-cookie
 cvent.com##.block-notifications-block
 qwerty.eu##.block_avg_privacy
