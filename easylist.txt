@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603242106
+! Version: 202603242108
 ! Title: EasyList
-! Last modified: 24 Mar 2026 21:06 UTC
+! Last modified: 24 Mar 2026 21:08 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 504bbf717dd11c2fda1196b7e908686849e45cb6
+! Commit: 70e72079bf40fe3b8bbcb9d1a20c177433d08cbe
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -25395,6 +25395,7 @@ browsershots.org#@#.advert_area
 ||dowerlesssightseehow.com^
 ||dowerycleared.com^
 ||dowlpeccant.cyou^
+||downervaguer.qpon^
 ||downierpellar.cfd^
 ||downloadboutique.com^
 ||downloaddecidedly.com^
@@ -54301,6 +54302,7 @@ browsershots.org#@#.advert_area
 ||saawsedge.com^
 ||saazvmvlonpeg.online^
 ||sabaeancranch.cyou^
+||sabaeanencrypt.cfd^
 ||sabalaboutmorass.cyou^
 ||sabamoults.shop^
 ||sabanhexitoltonify.qpon^
@@ -59055,6 +59057,7 @@ browsershots.org#@#.advert_area
 ||thongmilletbrutally.com^
 ||thongrooklikelihood.com^
 ||thooidjoshers.shop^
+||thooidpinuela.qpon^
 ||thoojoneersooy.net^
 ||thoomfends.cyou^
 ||thoossiksivie.net^
@@ -60705,6 +60708,7 @@ browsershots.org#@#.advert_area
 ||u57k9ez8yejqmo4ip8w.cfd^
 ||u5etz71bytgee8.cfd^
 ||u5n8h6648h2pr7.cfd^
+||u62rk4o8k9wv9m5eo3oj.cfd^
 ||u655vlo5.xyz^
 ||u69biw15cyp76htz.cfd^
 ||u6qvhj9ogrvwm2w9rfy2xx2yln41.rest^
