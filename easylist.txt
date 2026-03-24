@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603242108
+! Version: 202603242111
 ! Title: EasyList
-! Last modified: 24 Mar 2026 21:08 UTC
+! Last modified: 24 Mar 2026 21:11 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 70e72079bf40fe3b8bbcb9d1a20c177433d08cbe
+! Commit: 739ceb701125ded1e8d384d00c4edfbf31e56135
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -17869,6 +17869,7 @@ browsershots.org#@#.advert_area
 ||angrymarketingprecise.com^
 ||anguishaddition.com^
 ||angularpoppyrobbing.com^
+||anguluskantiananguloa.qpon^
 ||anilicwinklotenactor.cyou^
 ||anilinebaptizedicasts.cyou^
 ||animasoorie.com^
@@ -22950,6 +22951,7 @@ browsershots.org#@#.advert_area
 ||crookdestinationjanuary.com^
 ||crooked-dream.com^
 ||crookedchange.com^
+||crookleoutfind.shop^
 ||croomaingly.com^
 ||croonedfaggotscahuy.cyou^
 ||cropenjoymentstellar.com^
@@ -29192,6 +29194,7 @@ browsershots.org#@#.advert_area
 ||fledparticipantmodeling.com^
 ||fledtenons.cfd^
 ||fleebrailledronish.cfd^
+||fleecysusie.qpon^
 ||fleethappened.com^
 ||fleetingtrustworthydreams.com^
 ||flegmfable.cfd^
@@ -54794,6 +54797,7 @@ browsershots.org#@#.advert_area
 ||scotiawinze.com^
 ||scoundrelbreakdown.com^
 ||scourerwolfenbehint.cyou^
+||scouselacunae.qpon^
 ||scoutedsoxhletmarsha.cyou^
 ||scoutpatt.help^
 ||scowfabrile.qpon^
