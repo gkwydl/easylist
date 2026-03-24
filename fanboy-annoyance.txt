@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603242358
+! Version: 202603242359
 ! Title: Fanboy's Annoyance List
-! Last modified: 24 Mar 2026 23:58 UTC
+! Last modified: 24 Mar 2026 23:59 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 16321463fdd566127f10eacd84887db226fa2626
+! Commit: 5f852ed0d9aa43a6b5cff77486069cead5f057d3
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -41838,6 +41838,7 @@ planeteclipse.com#?#.notification:has-text(We use only essential cookies)
 play.google.com#?#.gb_g:has-text(cookie)
 privatekeys.pw#?#.toast:has-text(We use cookies)
 repocket.com#?#.max-w-sm.z-10:has-text(We use third-party cookies)
+sams.com.mx#?#section[role="banner"]:has-text(Aviso de Cookies)
 sniffies.com#?#.footer:has-text(By using our platform)
 t3.chat#?#.justify-center.flex:has-text(Make sure you agree)
 tinder.com#?#.C\(\$c-ds-text-secondary\):has-text(We value your privacy.)
