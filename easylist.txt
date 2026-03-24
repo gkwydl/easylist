@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603240105
+! Version: 202603240112
 ! Title: EasyList
-! Last modified: 24 Mar 2026 01:05 UTC
+! Last modified: 24 Mar 2026 01:12 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 07c3358ed86b1454584ed9360a5ae0bf97981352
+! Commit: 2270c6e73ce4961ee4e3658fa3d86e6909e72116
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19177,6 +19177,7 @@ browsershots.org#@#.advert_area
 ||belongingstransform.com^
 ||belovedsalesman.com^
 ||belovedset.com^
+||belroryomypaf.website^
 ||beltcological.com^
 ||beltenefloit.com^
 ||beludicolor.com^
@@ -28916,6 +28917,7 @@ browsershots.org#@#.advert_area
 ||fixedlyfully.com^
 ||fixedname.pro^
 ||fixedopening.com^
+||fixesrink.cfd^
 ||fixeswavycultural.com^
 ||fixgigrepile.cyou^
 ||fixingcreepingstarter.com^
@@ -29639,6 +29641,7 @@ browsershots.org#@#.advert_area
 ||framb.site^
 ||frameaeragbags.cyou^
 ||framessemicolonought.com^
+||francaembroil.cfd^
 ||francegave.com^
 ||franceswaps.com^
 ||franciasyrmaeaburnt.cfd^
@@ -40400,6 +40403,7 @@ browsershots.org#@#.advert_area
 ||logairdauraumoo.net^
 ||logbookvising.qpon^
 ||logchipmalism.cyou^
+||loggatmowing.cfd^
 ||loggeraevumcourge.cyou^
 ||loggeraurelia.cfd^
 ||loggieget.cyou^
