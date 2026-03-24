@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603240520
+! Version: 202603240521
 ! Title: EasyList
-! Last modified: 24 Mar 2026 05:20 UTC
+! Last modified: 24 Mar 2026 05:21 UTC
 ! Expires: 4 days (update frequency)
-! Commit: bb4e9f7877e4bf90e3d33f58315b1482a9aec644
+! Commit: 3810d57ac988e6baeae5f9fda13a548a7fb1942e
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -85842,7 +85842,6 @@ infinitestart.com##.cs-sidebar__inner > .widget:has(> ins.adsbygoogle)
 dbdiagram.io##.cursor-pointer:has([href*="&utm_medium=ads"])
 gsmarena.com##.d-flex:has(pgs-ad)
 dollargeneral.com##.dg-product-card:has(.dg-product-card__sponsored[style="display: block;"])
-argos.co.uk##.ds-c-grid-item:has(a[href*="?clickPR="])
 argos.co.uk##.ds-c-grid-item:has(div[class*="ProductCardstyles__SponsoredBadge-"])
 theverge.com##.duet--layout--rail > div:has(> div > [data-concert])
 openalternative.co##.duration-100.rounded-lg:has(a[href="/advertise"])
