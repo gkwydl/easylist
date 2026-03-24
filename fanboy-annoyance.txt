@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603242352
+! Version: 202603242353
 ! Title: Fanboy's Annoyance List
-! Last modified: 24 Mar 2026 23:52 UTC
+! Last modified: 24 Mar 2026 23:53 UTC
 ! Expires: 4 days (update frequency)
-! Commit: a302b603002ca564939c675823f361e8ec739136
+! Commit: 992ca0c01e2e96423d53ab788ea9b719232d15f3
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -41274,7 +41274,7 @@ flexiti.com##.z-999
 ! ! .z-100
 cote.co.uk,ennismore.com,gemini.pl,sallys-shop.de##.z-100
 ! ! .cookie-panel
-talon.by##.cookie-panel
+1cbit.ru,talon.by,timeweb.com##.cookie-panel
 ! ! .cookie-bar
 ansell.com.cn,bakkersonline.be,bootstrapmade.com,bulupoint.de,bushido-shop.com,campusfesztival.hu,dadcrush.com,domgate.com,epochtimes.kr,f6s.com,familystrokes.com,inovamar.pt,kb.cz,kirkusreviews.com,manilatimes.net,mastername.ru,meuhedet.co.il,mylf.com,nocibe.fr,nordicpond.shop,pervmom.com,pervz.com,proex2000.cz,schuhparadiso.de,shoplyfter.com,siamsport.co.th,smartocto.com,swappz.com,teamskeet.com,thenationalherald.com,triodos.co.uk,um.suwalki.pl,umbler.com,wohntextilien4you.de,zerounoweb.it##.cookie-bar
 ! ! .cookie_bar
@@ -47145,7 +47145,6 @@ invitro.ru##.cookie--popup
 supersamsev.ru##.cookie-consent-container-wrap
 lk-new.vtbnpf.ru##.cookie-layout
 rutube.ru##.cookie-message-module__cookie-consent
-1cbit.ru,timeweb.com##.cookie-panel
 sponsr.ru##.cookie-site-alert
 fc-baltika.ru##.cookie-wrap
 korusconsulting.ru##.cookieConfirm
