@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603242319
+! Version: 202603242320
 ! Title: Fanboy's Annoyance List
-! Last modified: 24 Mar 2026 23:19 UTC
+! Last modified: 24 Mar 2026 23:20 UTC
 ! Expires: 4 days (update frequency)
-! Commit: fa3c1c647339ba3c01cb160366640911e70e050c
+! Commit: 60e3f8643f6e297544f40c3f5a20da25bcb2461a
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -45701,6 +45701,7 @@ fyn.nl##cookie
 debijenkorf.nl##div[class^="CookieBar_"]
 topradio.be##div[class^="CookieWall_"]
 waarmaarraar.nl##div[style="margin: 20px; padding-left:20px; padding-right:20px;border: 1px dotted #999999"]
+rabobank.nl##feature-ssr-modular-cookiebanner
 kromsnavelgedrag.nl##main ~ div
 ! 
 ! ---------- Estonian ----------
