@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603242348
+! Version: 202603242349
 ! Title: Fanboy's Annoyance List
-! Last modified: 24 Mar 2026 23:48 UTC
+! Last modified: 24 Mar 2026 23:49 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 040be7f68397fc8aa5fc140f0c09a575bbac2fac
+! Commit: ff7944fb43af8e9cda6c11528747d53541d158a6
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -41033,7 +41033,7 @@ aalberts.com,ajbell.co.uk,escortboard.de,eurowag.com,stat.fi,tu-darmstadt.de,une
 ! ! #cknt
 1med.tv,mediasphera.ru,waldorf-expertenservice.de###cknt
 ! ! .cookie-consent-container
-988lifeline.org,cgchannel.com,cv.ee,cv.lv,cvonline.lt,underthehammer.com##.cookie-consent-container
+988lifeline.org,cgchannel.com,cv.ee,cv.lv,cvonline.lt,proz.com,underthehammer.com##.cookie-consent-container
 ! ! #cookie-overlay
 designbycreative.co.uk,gateshead.gov.uk###cookie-overlay
 ! ! .wpcb-banner
