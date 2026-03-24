@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603242120
+! Version: 202603242122
 ! Title: Fanboy's Annoyance List
-! Last modified: 24 Mar 2026 21:20 UTC
+! Last modified: 24 Mar 2026 21:22 UTC
 ! Expires: 4 days (update frequency)
-! Commit: c505637d2d2c14f430797a47b3ab464af6a2ca22
+! Commit: e29d7e27f18313e880056e3df83996877169a376
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -39090,7 +39090,7 @@ fanatical.com##.biscuit-auth-collapsible
 latestdeals.co.uk##.bk3oq
 seikowatches.com##.blk-Disclaimer
 tnvacation.com##.block-cookie-acceptance-block
-carlemuseum.org,unimi.it##.block-cookies
+aepd.es,carlemuseum.org,unimi.it##.block-cookies
 french-weekendbreaks.co.uk##.block-fs-cookie
 cvent.com##.block-notifications-block
 qwerty.eu##.block_avg_privacy
