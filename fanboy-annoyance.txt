@@ -3,7 +3,7 @@
 ! Title: Fanboy's Annoyance List
 ! Last modified: 25 Mar 2026 10:58 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 5fcd752a5aa7fe483981044e5088a2c2b6c6bffa
+! Commit: e20a1935618e0cf0113b04c4ac41c9cf69826b8f
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -40811,6 +40811,7 @@ start.gg##div[class^="styles_banner_"]
 iafcertsearch.org##div[class^="styles_cookie-consent-"]
 coin360.com##div[class^="styles_cookiesBanner_"]
 youtube.com##div[class^="ytd-consent"]
+mhthemes.com##div[consent-skip-blocker="1"]
 gitpod.io##div[data-analytics*="cookie"]
 bcs-express.ru##div[data-component="cookie-agreement"]
 cookpad.com##div[data-controller*="cookies-consent"]
