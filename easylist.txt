@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603251818
+! Version: 202603251831
 ! Title: EasyList
-! Last modified: 25 Mar 2026 18:18 UTC
+! Last modified: 25 Mar 2026 18:31 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 58538fbc722f666df62ec61fc4ca81c95a9cae9a
+! Commit: 41ee09bc71eed20c4b0e4b30b6e75110aaf027ed
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -43168,6 +43168,7 @@ browsershots.org#@#.advert_area
 ||morrhuaoneida.cyou^
 ||morrionakasha.help^
 ||morrosfizzles.cfd^
+||morrsoxvipwje.online^
 ||morsalurluch.com^
 ||morselmina.cyou^
 ||mortarypickedkegling.cyou^
