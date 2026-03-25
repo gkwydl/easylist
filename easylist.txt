@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603250504
+! Version: 202603250513
 ! Title: EasyList
-! Last modified: 25 Mar 2026 05:04 UTC
+! Last modified: 25 Mar 2026 05:13 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 0db58ca50b7832b66a85556f20fe1c232e828e2f
+! Commit: 784cfae49be5b111f4632dc71a1147ff91165677
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -23522,6 +23522,7 @@ browsershots.org#@#.advert_area
 ||czamfgpnexsxo.vip^
 ||czardomchicles.cfd^
 ||czarmishap.com^
+||czbuwhojatzyx.online^
 ||czcmgagjthwgu.site^
 ||czdclraxaacmq.online^
 ||czdjjwpslnfqx.online^
@@ -40605,6 +40606,7 @@ browsershots.org#@#.advert_area
 ||logairdauraumoo.net^
 ||logbookvising.qpon^
 ||logchipmalism.cyou^
+||logcocknoshing.cyou^
 ||loggatmowing.cfd^
 ||loggeraevumcourge.cyou^
 ||loggeraurelia.cfd^
@@ -44528,6 +44530,7 @@ browsershots.org#@#.advert_area
 ||nichtemeroid.help^
 ||nicifouzmvksd.website^
 ||nickchookie.qpon^
+||nickedmetered.qpon^
 ||nickeldefiancepriest.com^
 ||nickelstapoun.com^
 ||nickessence.com^
@@ -47165,6 +47168,7 @@ browsershots.org#@#.advert_area
 ||outrightstifflyvending.com^
 ||outroarberne.cyou^
 ||outrotomr.com^
+||outrovelemon.qpon^
 ||outsaidvulvas.cfd^
 ||outsertozonic.cfd^
 ||outsetnormalwaited.com^
@@ -59317,6 +59321,7 @@ browsershots.org#@#.advert_area
 ||tinemanduring.cfd^
 ||tingefifortwaukth.org^
 ||tingledthraws.qpon^
+||tinglerms.cyou^
 ||tinifygzkncqu.website^
 ||tinkerwidth.com^
 ||tinkledtertium.com^
