@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603250016
+! Version: 202603250017
 ! Title: Fanboy's Social Blocking List
-! Last modified: 25 Mar 2026 00:16 UTC
+! Last modified: 25 Mar 2026 00:17 UTC
 ! Expires: 4 days (update frequency)
-! Commit: a7d8fd242c5abb8efa905d882cbea3e16a0ac49c
+! Commit: 70ac74697eeed6a7a3af24928f47beb6aaeef58d
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -11737,7 +11737,7 @@ dailysabah.com,gmanetwork.com,pnn.ps##.social_media
 web3cafe.in##.social_media_link
 greenbot.com##.social_panel
 unn.ua##.social_root__H2cRW
-abplive.com,businesstoday.in,catracalivre.com.br,gamesindustry.biz,ilmeteo.it##.social_share
+abplive.com,almayadeen.net,businesstoday.in,catracalivre.com.br,gamesindustry.biz,ilmeteo.it##.social_share
 venturebanc.com##.social_share_buttons
 outlookindia.com##.social_sharing_article
 foodsforbetterhealth.com##.social_top_bar
