@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603252238
+! Version: 202603252239
 ! Title: Fanboy's Annoyance List
-! Last modified: 25 Mar 2026 22:38 UTC
+! Last modified: 25 Mar 2026 22:39 UTC
 ! Expires: 4 days (update frequency)
-! Commit: ae6f2e4fcc9f988540338c0d4ca15ea10742bf99
+! Commit: ba7956a00117f0f119dba68e2e60725cf5776be5
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -41534,7 +41534,7 @@ amway.com,amway.ua,day-tours-from-avignon.com,hari.ca##.disclaimer-container
 ! ! .cc-layer
 bta-international.com,dahlhaus-leuchten.de,poenvoorgroen.nl##.cc-layer
 ! ! #cookie-consent-banner
-absonline.co.il,alarm.com,albar.co.il,april.co.il,bigassfans.com,bsmart.co.il,chicagobooth.edu,city-garden.co.il,etzmaleh.co.il,eurocommercialproperties.com,frisbi24.ru,fundrazr.com,gilsport.co.il,interdiscount.ch,joinstellar.ai,kley-zemer.co.il,kzpro.co.il,ladaat.co,matzman-merutz.co.il,meiami.co.il,mundoperfecto.net,news.stanford.edu,pedalim.co.il,pepper.ru,rfdtvcanada.ca,shekel4u.co.il,softexia.com,tainio-mania.online,thecowboychannelcanada.ca,thewaterchannel.ca,travel-europe.europa.eu,webdunia.com,wildtv.ca,zer4u.co.il###cookie-consent-banner
+absonline.co.il,alarm.com,albar.co.il,april.co.il,bigassfans.com,bsmart.co.il,chicagobooth.edu,city-garden.co.il,etzmaleh.co.il,eurocommercialproperties.com,frisbi24.ru,fundrazr.com,gilsport.co.il,gocase.com.br,interdiscount.ch,joinstellar.ai,kley-zemer.co.il,kzpro.co.il,ladaat.co,matzman-merutz.co.il,meiami.co.il,mundoperfecto.net,news.stanford.edu,pedalim.co.il,pepper.ru,rfdtvcanada.ca,shekel4u.co.il,softexia.com,tainio-mania.online,thecowboychannelcanada.ca,thewaterchannel.ca,travel-europe.europa.eu,webdunia.com,wildtv.ca,zer4u.co.il###cookie-consent-banner
 ! ! #gdpr
 adp-enseignes.com,affidabile.org,auburn.edu,barocca.ro,branah.com,datalounge.com,epaper.patrika.com,epiloglaser.com,fizzicseducation.com.au,gagaoolala.com,gocpa.ru,guideautoweb.com,harmilaw.com,knoema.com,knoema.ru,latrobe.edu.au,manda.co.jp,marketfinance.com,occto.or.jp,project529.com,rentafont.com.ua,scommesse.io,tampabay.com,tidesmarine.com,toei-metal.com,uwebergverlag.de,vitaslim.eu,wikihow.com,wikihow.it###gdpr
 ! ! #gdprOverlay
