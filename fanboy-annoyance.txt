@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603250019
+! Version: 202603250020
 ! Title: Fanboy's Annoyance List
-! Last modified: 25 Mar 2026 00:19 UTC
+! Last modified: 25 Mar 2026 00:20 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 07584f6708b3db8c1f9d7ea08f38d83f68c592a7
+! Commit: 5ce2633a809fe6fb780a9519d749a0acae641a31
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -32834,6 +32834,7 @@ flightradar24.com##.applink-container
 banglanews24.com##.apps
 happytv.rs##.apps-download
 bdnews24.com##.apps-logo
+webdunia.com##.apps_link
 qatarairways.com##.appstore
 aasp.org.br##.appstore-v2
 ny1.com##.article-app-prompt
@@ -36346,6 +36347,7 @@ lifesitenews.com##.art-share-nav
 firstpost.com##.art-soc-icons
 overdrive.in##.art-social-block
 khaleejtimes.com##.art-top-share-pan-nf
+webdunia.com##.arti_social_block
 wxyz.com##.article-action
 worldsoccertalk.com##.article-body__social-links
 jpost.com##.article-buttons-wrap
@@ -36396,6 +36398,7 @@ messengernews.net,salemnews.net##.article_details_icons
 news18.com##.article_follow_1
 financialexpress.com##.article_follow_us
 techonthenet.com##.article_footer
+webdunia.com##.article_in_content > .row
 goodnet.org##.article_like
 thespectator.com##.article_set_wrap
 news9live.com##.article_socialShare
@@ -36627,6 +36630,7 @@ notesfrompoland.com##.et_social_inline
 headlight.news##.et_social_rectangle
 crypto-insiders.de,crypto-insiders.es,crypto-insiders.nl##.exp-sharing
 yardbarker.com##.expanded.button
+webdunia.com##.f_social_block
 megashare.com##.fa-circle
 trueachievements.com##.fa-comments
 kslnewsradio.com,structurae.net##.fa-instagram
@@ -36813,6 +36817,7 @@ atlanticcouncil.org##.gta-hover-share-container
 publicradiotulsa.org,stlpr.org##.gtm_share
 verdictum.in##.h-anchor
 egotastic.com,egotasticsports.com##.h-fixed-footer
+webdunia.com##.h_search_apps
 jam-news.net##.has-medium-font-size.has-background
 hard-drive.net##.hd-discord
 gmanetwork.com##.hdr-social-links
@@ -37598,6 +37603,7 @@ androidpolice.com##.w-social-follow-button
 deccanherald.com##.wCRP0
 thesfnews.com##.wa__btn_popup
 beincrypto.com##.want-to-know-more-block
+webdunia.com##.wd_social_link
 newsroom.paypal-corp.com##.wd_tools
 poynter.org##.wdm-share-container
 thepridela.com##.weart-share
