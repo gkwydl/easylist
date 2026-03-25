@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603250007
+! Version: 202603250008
 ! Title: Fanboy's Annoyance List
-! Last modified: 25 Mar 2026 00:07 UTC
+! Last modified: 25 Mar 2026 00:08 UTC
 ! Expires: 4 days (update frequency)
-! Commit: a6eaba5dabbe7970e05730bf120348f31cfb66c0
+! Commit: b95ea5e7ab485ebc71c396c120a8a028b5bbf6a6
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -39482,7 +39482,7 @@ logon.slc.co.uk##.cookies-overly
 arguedas.es,ccusyncedin.com,energean.com,obilet.com,science.edu.sg,wikov.com##.cookies-policy
 bloobloom.com##.cookies-policy-holder
 herbiesheadshop.com##.cookies-politic__section
-12crystalroll34.com,alpinasports.com,bollywoodlife.com,cashconverters.co.za,chronohunter.com,gskill.com,india.com,proactiveinvestors.co.uk,rav-bariach.co.il,thehealthsite.com##.cookies-popup
+12crystalroll34.com,alpinasports.com,bollywoodlife.com,cashconverters.co.za,chronohunter.com,cityu.edu.hk,gskill.com,india.com,proactiveinvestors.co.uk,rav-bariach.co.il,thehealthsite.com##.cookies-popup
 altingunband.com##.cookies-regulation
 keralanotes.com,rockmods.net##.cookies-show
 picwish.com##.cookies-tip-v1-consent-container
