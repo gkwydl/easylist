@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603251039
+! Version: 202603251040
 ! Title: Fanboy's Annoyance List
-! Last modified: 25 Mar 2026 10:39 UTC
+! Last modified: 25 Mar 2026 10:40 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 2d6faaa38417749ffd6e2349b2e0bc0d7208dd9a
+! Commit: c2f9ffabb1f16cb0cceb813697770e8d1602f15a
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -41269,7 +41269,7 @@ arkone.co.uk,bristonhorseshoes.co.uk,norfolkmead.co.uk###cookiedialogmini
 ! ! #wr-c
 ahprofi.cz,akros.cz,aspshop.cz,fiskars-shop.cz,mpmshop.eu,rafoshop.cz,relaxin.cz,yatun.cz###wr-c
 ! ! .gdpr
-app.gleek.io,atarim.gov.il,aviationweek.com,centar-tehnike.hr,globalrescue.com,metallica.com,namal.co.il,partnerboost.com,phonemore.com,schmackarys.com,srilankan.com,sydsvenskan.se,tomba.io,umkc.edu##.gdpr
+app.gleek.io,atarim.gov.il,aviationweek.com,centar-tehnike.hr,globalrescue.com,metallica.com,namal.co.il,partnerboost.com,phonemore.com,schmackarys.com,srilankan.com,sydsvenskan.se,tomba.io,umkc.edu,venngage.com##.gdpr
 ! ! .gdpr-wrapper
 ezviz.com,hikvision.com,ria.com##.gdpr-wrapper
 ! ! #GDPR
