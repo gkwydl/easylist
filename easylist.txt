@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603251659
+! Version: 202603251706
 ! Title: EasyList
-! Last modified: 25 Mar 2026 16:59 UTC
+! Last modified: 25 Mar 2026 17:06 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 432905db40e63b0cacf35c4386260cda7f02f5a4
+! Commit: fea299419d05353b269f71ebebfbecf870208b16
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -50079,6 +50079,7 @@ browsershots.org#@#.advert_area
 ||promdidna.com^
 ||promenaded.autos^
 ||promerycergerful.com^
+||prominentpray.com^
 ||promisespreepanic.com^
 ||promissexedra.cyou^
 ||promo-bc.com^
@@ -62702,6 +62703,7 @@ browsershots.org#@#.advert_area
 ||vaxjhqfaahmgt.site^
 ||vazypteke.pro^
 ||vbb4r3vttftucb5kwtmq979xn.rest^
+||vbbpuopouymio.online^
 ||vbcojhroxkoaf.online^
 ||vbdozzrdqluca.store^
 ||vbfprrpmkrdma.site^
@@ -66566,6 +66568,7 @@ browsershots.org#@#.advert_area
 ||xseobmymwhaks.website^
 ||xsflhnulmtsrt.space^
 ||xsgoiqpecrrwiy.com^
+||xshfpslqd.com^
 ||xsifzaieypxqr.global^
 ||xsigrmrluwbtw.website^
 ||xsiorsgamrqgz.site^
