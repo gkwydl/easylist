@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603250807
+! Version: 202603250820
 ! Title: EasyList
-! Last modified: 25 Mar 2026 08:07 UTC
+! Last modified: 25 Mar 2026 08:20 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 5052c67e35a301edec3e35d96f3b0756a5d02f49
+! Commit: d1f9a4f12b8e080305f4d7b7b8e31515387dca08
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -58801,6 +58801,7 @@ browsershots.org#@#.advert_area
 ||telliesmawks.com^
 ||tellinelenchi.cyou^
 ||telllwrite.com^
+||tellsorganfederal.com^
 ||tellsvastpuff.com^
 ||tellvisual.com^
 ||telosstopen.help^
