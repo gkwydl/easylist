@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603250003
+! Version: 202603250005
 ! Title: EasyList
-! Last modified: 25 Mar 2026 00:03 UTC
+! Last modified: 25 Mar 2026 00:05 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 5e6970a480e1958425a7519c7bbc68a2e2b16d3e
+! Commit: 2bb724ce5b3b1c986d240df2bbc889c320729106
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -15919,6 +15919,7 @@ browsershots.org#@#.advert_area
 ||42d9c0e6fb.com^
 ||42jdbcb.de^
 ||42ltelq45mm7pkyq5f9beb.cfd^
+||434fc6fff7.com^
 ||436df5b953.com^
 ||43982bf480.com^
 ||439f4b8c75.com^
@@ -16193,6 +16194,7 @@ browsershots.org#@#.advert_area
 ||7fc0966988.com^
 ||7fkm2r4pzi.com^
 ||7fva8algp45k.com^
+||7ginrogx9vlk8wwch.cfd^
 ||7j5cgeluommhzl.rest^
 ||7jrahgc.de^
 ||7lyonline.com^
@@ -21901,6 +21903,7 @@ browsershots.org#@#.advert_area
 ||clxuuhlmtvrmt.today^
 ||clyblajtkoopx.site^
 ||clyerteaeygoofs.cyou^
+||clyhmrqfyxom.com^
 ||clypznnntlmfy.space^
 ||clysisaplombs.shop^
 ||cm-trk3.com^
@@ -38988,6 +38991,7 @@ browsershots.org#@#.advert_area
 ||ktrynnvhtuazo.website^
 ||ktsluruqedtwx.website^
 ||ktsnqchncbimr.space^
+||ktut7wyvmcke5opp6k1ie48y.rest^
 ||ktuzdcsqrptsc.space^
 ||ktvsluqtriskv.online^
 ||ktwbcdypkcsnc.xyz^
@@ -42561,6 +42565,7 @@ browsershots.org#@#.advert_area
 ||mistkabmo.com^
 ||mistletoejobless.com^
 ||mistresscoat.com^
+||mistureoversupcaselty.cfd^
 ||misty-eyed.boats^
 ||mistydeposit.pro^
 ||mistysteel.co^
@@ -63294,6 +63299,7 @@ browsershots.org#@#.advert_area
 ||vmntnkbmcdvyy.space^
 ||vmring.cc^
 ||vmsdxtbgqozxp.website^
+||vmuavcpco.in^
 ||vmuid.com^
 ||vmurpruqkhtoh.site^
 ||vmvwstuhensma.online^
