@@ -3,7 +3,7 @@
 ! Title: EasyPrivacy
 ! Last modified: 25 Mar 2026 00:13 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 1fae72f559874eaea9745cebdfee30c933ecf322
+! Commit: 5e5ba392024d28e6b5323d41a6e7b9cb031ffde3
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -16169,6 +16169,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||t.9gag.com^
 ||t.airasia.com^
 ||t.allmodern.com^
+||t.almayadeen.net^
 ||t.appsflyer.com^
 ||t.av.st^
 ||t.birchlane.com^
