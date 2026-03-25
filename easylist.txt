@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603252109
+! Version: 202603252116
 ! Title: EasyList
-! Last modified: 25 Mar 2026 21:09 UTC
+! Last modified: 25 Mar 2026 21:16 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 1afc21fa8b3fc3fa262ebc03be387e1c5f1dac93
+! Commit: 9f431e10cd26d5874aab0f7947a1475a8caaa579
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -25360,6 +25360,7 @@ browsershots.org#@#.advert_area
 ||doodlesunshinecamp.com^
 ||doodptrbqxpct.online^
 ||doojakerbing.help^
+||dooliehizzie.qpon^
 ||doolikwazokuweber.cyou^
 ||dooloust.net^
 ||doomail.org^
@@ -42588,6 +42589,7 @@ browsershots.org#@#.advert_area
 ||mindoccupy.com^
 ||mineraltip.com^
 ||mingiercert.cfd^
+||mingierwallman.qpon^
 ||mingledpayoff.com^
 ||mingsuited.cfd^
 ||minhagmuscot.cyou^
