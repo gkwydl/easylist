@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603261411
+! Version: 202603261413
 ! Title: Fanboy's Annoyance List
-! Last modified: 26 Mar 2026 14:11 UTC
+! Last modified: 26 Mar 2026 14:13 UTC
 ! Expires: 4 days (update frequency)
-! Commit: c0610b9eee2fdc066b0356c92a17fa478449f07e
+! Commit: 4dffbd493ef16e0ccaea89521b6f6f8e80689deb
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -30373,6 +30373,7 @@ dashboard.razorpay.com#@##credential_picker_container
 ||smartcookies.it^$third-party
 ||smarteucookiebanner.upsell-apps.com^
 ||snack-projects.co.uk/gdpr/
+||support.xxx/cookie_consent.js
 ||sync-transcend-cdn.com^
 ||t.atmng.io^$third-party
 ||tarteaucitron.io/load.js
