@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603260040
+! Version: 202603260042
 ! Title: Fanboy's Annoyance List
-! Last modified: 26 Mar 2026 00:40 UTC
+! Last modified: 26 Mar 2026 00:42 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 002cd57d180183fdef2a28cdefbbba9536e2917e
+! Commit: 14713a1c56185fadaf31888ef586c660e7f33477
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -47316,6 +47316,7 @@ ticketstour.ru##.using-cookies
 antex-e.ru##.uss_privacy_policy_wrap
 sanremo-pizza.com##.v-cookie-notification
 bimedis.ru##.v-dialog__content
+litnet.com##.view-confirm-cookie
 wroom.ru##.warning
 xn--1--rlchba2deh.xn--p1ai##.warning_cookie
 msu.ru##.we-use-cookies-block
