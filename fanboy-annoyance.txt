@@ -3,7 +3,7 @@
 ! Title: Fanboy's Annoyance List
 ! Last modified: 26 Mar 2026 01:21 UTC
 ! Expires: 4 days (update frequency)
-! Commit: a0d19157bc78a17d853d2038ba04974af0bb298b
+! Commit: 341f0988c55dfc9abdffcf82a654399a8d2b19c3
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -47942,6 +47942,7 @@ myorbit.id##[style="align-items: center; background-color: rgb(237, 245, 252); p
 ! 
 vdes.vn##.cookieBanner_show__1E8Dj
 ants.vn##.sg-popup-content
+fptshop.com.vn##[data-cookie-consent-modal="true"]
 ! 
 ! ---------- Welsh ----------
 ! 
