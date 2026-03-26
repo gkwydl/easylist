@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603260154
+! Version: 202603260157
 ! Title: Fanboy's Annoyance List
-! Last modified: 26 Mar 2026 01:54 UTC
+! Last modified: 26 Mar 2026 01:57 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 788420654f4d36fb28c0dfda46c3824d48075542
+! Commit: 1b4d3c4c3daeaf2fa946468cd765cc6402c3a5d4
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -41129,6 +41129,8 @@ acierto.com,boozt.com,cws.com,jcb.com,postcodelottery.co.uk,visitbritainshop.com
 blueislands.com,dmas.virginia.gov,eduroam.ba,ewswa.org,getselfhelp.co.uk,haltonpolice.ca,lethbridge.ca,merthyr.ac.uk,mfy.org.uk,netsupportdemo.nl,pedicurereinajansen.nl,povv.be##.usn-notification
 ! ! #modal
 global.jcb,jcbeurope.eu,lueur.org,picnic.app###modal
+! ! #myCookie
+m.hak.hr,roehnfried.de###myCookie
 ! ! #cookie_dialog
 iospress.com###cookie_dialog
 ! ! .consent-manager
@@ -44565,7 +44567,6 @@ blauarbeit.de###messages-container
 meinegirokarte.de,vimpay.eu###modalBackground
 meinegirokarte.de,vimpay.eu###modalCookieAcceptance
 starmix.de###muffin
-roehnfried.de###myCookie
 hartz.info###my_privacy_policy
 newsaktuell.de###nacc-container
 newsaktuell.de###nacc-overlay
@@ -45339,7 +45340,6 @@ dokutv.net###cmp_overlay
 liberal.hr###footer
 vindija.hr###gdpr-overlay
 iarh.hr###kukijima
-m.hak.hr###myCookie
 tzdubrovnik.hr###mygdprPopupHR
 goe.irb.hr,istra24.hr###ng-cc
 biserzagorja.hr,charlotte.hr,eper.com.hr,interpreta.hr###page-disable
