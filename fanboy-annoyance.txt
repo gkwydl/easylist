@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603260122
+! Version: 202603260124
 ! Title: Fanboy's Annoyance List
-! Last modified: 26 Mar 2026 01:22 UTC
+! Last modified: 26 Mar 2026 01:24 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 46b5a788135650b0f7fa14fc547d763571683cc1
+! Commit: c47528d34b985dfc1c5a8c930a02914baa1f0db0
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -39254,8 +39254,8 @@ img.ly##.cke-overlay
 ruijie.com##.cke2022fr
 stayinwales.co.uk##.ckinfo-panel
 ignitedfitness.com##.cky-consent-bar
-betplay.com.co,click2pharmacy.co.uk,delfi.ee,johnryanbydesign.co.uk,oiq.qc.ca,publitas.com,qcs.co.uk,scuffers.com,staples.ca##.cky-consent-container
-betplay.com.co,click2pharmacy.co.uk,delfi.ee,johnryanbydesign.co.uk,oiq.qc.ca,publitas.com,qcs.co.uk,scuffers.com,staples.ca##.cky-overlay
+adresowo.pl,betplay.com.co,click2pharmacy.co.uk,delfi.ee,johnryanbydesign.co.uk,oiq.qc.ca,publitas.com,qcs.co.uk,scuffers.com,staples.ca##.cky-consent-container
+adresowo.pl,betplay.com.co,click2pharmacy.co.uk,delfi.ee,johnryanbydesign.co.uk,oiq.qc.ca,publitas.com,qcs.co.uk,scuffers.com,staples.ca##.cky-overlay
 jackjones.com##.cky-overlay-custom
 clineva.com##.clineva-cookies-info
 oipc.bc.ca##.clsPopupContainer
