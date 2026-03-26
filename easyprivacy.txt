@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202603260457
+! Version: 202603260458
 ! Title: EasyPrivacy
-! Last modified: 26 Mar 2026 04:57 UTC
+! Last modified: 26 Mar 2026 04:58 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 72d5d66ffe0e299c2646a20756e1889322dae218
+! Commit: 86d4f1205429cf8fceb672d513de109011906378
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -2132,6 +2132,7 @@
 /sf-recommendations-events-listener.js
 /sfCounter/*
 /sfdc/networktracking.js
+/sftouch?branchId=
 /sgtracker.js
 /shared/sentry/*
 /sherlock.gif?
