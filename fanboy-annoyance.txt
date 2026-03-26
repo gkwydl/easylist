@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603260102
+! Version: 202603260103
 ! Title: Fanboy's Annoyance List
-! Last modified: 26 Mar 2026 01:02 UTC
+! Last modified: 26 Mar 2026 01:03 UTC
 ! Expires: 4 days (update frequency)
-! Commit: f23c61fb967a5dd8d6168b578b3ec0312b9cd479
+! Commit: bbd7730448b78d4df9595a73066634b5d9c2fc7c
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -41031,7 +41031,7 @@ arionbanki.is,betfair.com.au###cookie-holder
 ! ! .page-wrap--cookie-permission
 artx.at,battlemerchant.com,bienen-voigt.de,blitzhandel24.it,boschettileo.com,furnster.de,gartenteiche-fockenberg.de,hardwarebro.de,heilkraft.online,hiq24.de,hupfer.com,kdvisual.it,kellereikaltern.com,messerworld.de,mm-aquaristik.de,office-partner.de,originalteilemarkt.de,reifen-felgen.de,sixpack-racing.com,tangaland24.de,tiefenbach-it.com,tomodachi-koifutter.de,woodpower.company##.page-wrap--cookie-permission
 ! ! #ensNotifyBanner
-beerwulf.com,bhphotovideo.com,binekarac.vw.com.tr,cheq.ai,distrelec.de,experianidentityservice.co.uk,fidelity.de,jal.co.jp,jrhotelgroup.com,kornferry.com,latimes.com,nisshin-seifun-welna.com,norton.com,rac.co.uk,rs-online.com,scotsman.com,surfeasy.com,theworks.co.uk,volkswagen.ch,vueling.com,vw.com,vw.com.br###ensNotifyBanner
+beerwulf.com,bhphotovideo.com,binekarac.vw.com.tr,cheq.ai,distrelec.de,experianidentityservice.co.uk,fidelity.de,jal.co.jp,jrhotelgroup.com,kornferry.com,latimes.com,nisshin-seifun-welna.com,norton.com,rac.co.uk,rs-online.com,scotsman.com,surfeasy.com,theworks.co.uk,volkswagen.ch,vueling.com,vw.com,vw.com.br,worldmarket.com###ensNotifyBanner
 ! ! #ensBannerBG
 experianidentityservice.co.uk###ensBannerBG
 ! ! #ensConsentWidget
