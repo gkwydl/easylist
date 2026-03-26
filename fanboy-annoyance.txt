@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603260057
+! Version: 202603260058
 ! Title: Fanboy's Annoyance List
-! Last modified: 26 Mar 2026 00:57 UTC
+! Last modified: 26 Mar 2026 00:58 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 9cd037f9b55d92f4cfa0ec1477c59db077dfda95
+! Commit: bd94e34ac9d9cced554466992cbad4720801f563
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -41195,6 +41195,8 @@ brightree.com,cgtrader.com,configserverfirewall.com,delo.si,dialight.com,evgo.co
 cambash.com,massivecams.com,nordforme.org,nordvpn.com,streamate.com##[class^="GDPRConsent"]
 ! ! .modal-overlay
 delfi.ee,maxict.nl,mook.com.tw,paposertanejo.com,plus.pl,plushbezlimitu.pl,rolfsbuss.se,solresor.se,starcar.de,tandfonline.com##.modal-overlay
+! ! .cookie-wrap
+cht.com.tw,fc-baltika.ru,sterlegrad.ru##.cookie-wrap
 ! ! .cookie-wrapper
 azzas2154.com.br,bisecthosting.com,pickmypostcode.com##.cookie-wrapper
 ! ! .cc
@@ -45291,7 +45293,6 @@ news.pts.org.tw##.cookie-flex
 sf-express.com##.cookie-policy_cookiePolicyWrapper__cwbwV
 bewildcard.com##.cookie-policy_cookiePolicy__iVL65
 hozonauto.com##.cookie-tips
-cht.com.tw##.cookie-wrap
 hkbu.edu.hk##.cookies-consent-banner
 unity.cn##.cookies-permission_2kEyTVGb
 news.tvb.com##.cookiesAgreeContainer
@@ -47168,7 +47169,6 @@ supersamsev.ru##.cookie-consent-container-wrap
 lk-new.vtbnpf.ru##.cookie-layout
 rutube.ru##.cookie-message-module__cookie-consent
 sponsr.ru##.cookie-site-alert
-fc-baltika.ru,sterlegrad.ru##.cookie-wrap
 korusconsulting.ru##.cookieConfirm
 rusnano.com##.cookie__in
 gostest.com##.cookie__open
