@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603260127
+! Version: 202603260129
 ! Title: Fanboy's Annoyance List
-! Last modified: 26 Mar 2026 01:27 UTC
+! Last modified: 26 Mar 2026 01:29 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 5ab90a6a2d0bb80a4926f317e1cfa9c70baff3f5
+! Commit: fda60ab325c5e617d02a6ab1ec3d595839a515e3
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -41272,7 +41272,7 @@ acelen.com.br,advtraining.it,albengacorsara.it,alde.se,alper.cz,arbetsgivarverke
 ! ! .c--anim
 a24films.com,accademia-agricoltura.it,actualidadempleo.es,aftermath.site,alpha-heidelberg.de,amperecomputing.com,auraton.cz,bicidastrada.it,brnooffice.cz,byu.edu,cgmfinance.it,cira.ca,community.breathworks-mindfulness.org.uk,cubeshot.io,diderot.sk,earthday.org,ebikecult.it,edf.org,elettricomagazine.it,emmellearredamenti.com,ems.entega.de,fanfiktion.de,fazzini.sk,fcvysocina.cz,federgolf.it,ferbafran.com,fiumewine.com,floorpark.cz,gaminternational.it,getscreen.me,giga-hamburg.de,handylex.org,hippogroup.it,hive.burningman.org,import-sport.com,infoabsolvent.cz,izolace-info.cz,klasikcz.eu,locandadelledune.it,macrent.se,makerworld.com,medicine.yale.edu,minecraft.tools,mtbcult.it,nabytek-alesvit.cz,nasejimky.cz,netzwerk-kinderschutz-msh.de,passionemaglie.it,perugiassisi.org,plateuptools.com,plus-gp-joule.de,ppeshop.cz,rptuning.cz,ruinimarco.it,santarcangelobasket.com,sbcomp.cz,senkyrik.cz,shop.dicompass.cloud,sponkovacky-kovani-vruty.cz,svet-topeni.eu,systeminit.com,tagvenue.com,tedbaker.returns.international,tgyou24.it,tirerack.com,tokarex.cz,trakt.tv,universoinformatico24.it,vinoplacek.cz,vkcyklosport.cz,www.query.cz,xn--audiodiqualit-1db.com,yalemedicine.org,zeno.fm##.c--anim
 ! ! .cc--anim
-citizen.com,forms.app,gagosian.com,jurga.lt##.cc--anim
+citizen.com,forms.app,gagosian.com,jurga.lt,whitebit.com##.cc--anim
 ! ! #macaron_cookie_box
 mercuredubaihotel.com,movenpickresortwaverlyphuquoc.com,premierresidencesphuquoc.com,pullman-dubai-creek-citycentre.com,pullman-mandelieu.com,swissotelthebosphorus.com###macaron_cookie_box
 ! ! .ec-gtm-cookie-directive
