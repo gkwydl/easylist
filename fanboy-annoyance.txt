@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603260116
+! Version: 202603260120
 ! Title: Fanboy's Annoyance List
-! Last modified: 26 Mar 2026 01:16 UTC
+! Last modified: 26 Mar 2026 01:20 UTC
 ! Expires: 4 days (update frequency)
-! Commit: eae60ca9bb61a127a3560a2e26e81d27095ada6b
+! Commit: 9b5ccb09259172ad17677cb1b8b12aaa1801526c
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -47334,6 +47334,7 @@ warthunder.ru##.wt-cb
 yasno.live##.y-gdpr
 uralkarcher.ru##.zalupa
 crowd.mos.ru,ctc.ru##[class^="AcceptCookie_"]
+jivo.ru##[class^="cookie-consent_container"]
 connectgas.ru##[class^="cookieAgreement"]
 4game.com##[class^="fcw-wrap-"]
 sberindex.ru##[class^="styles_Layout__cookiePanel_"]
