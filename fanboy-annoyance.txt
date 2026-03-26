@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603260124
+! Version: 202603260125
 ! Title: Fanboy's Annoyance List
-! Last modified: 26 Mar 2026 01:24 UTC
+! Last modified: 26 Mar 2026 01:25 UTC
 ! Expires: 4 days (update frequency)
-! Commit: c47528d34b985dfc1c5a8c930a02914baa1f0db0
+! Commit: 18669616aa9f19bbe6f8763d1c369062e1650665
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -47886,6 +47886,7 @@ womm.com.tr##.style_cookie__UNiBi
 sozcu.com.tr##.using-cookie
 fikriyat.com,sabah.com.tr,yeniasir.com.tr##.veriAltBar
 yenisafak.com##.ys-cookie-modal
+trt1.com.tr##[class^="cookies-info_cookies-info-wrapper"]
 beinsports.com.tr##div[class*="cookie_cookieConsentWrapper"]
 sekerbank.com.tr##div[class^="cookiebox_cookieBox"]
 trtspor.com.tr##div[class^="cookies-info_"]
