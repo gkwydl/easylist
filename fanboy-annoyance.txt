@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603260152
+! Version: 202603260154
 ! Title: Fanboy's Annoyance List
-! Last modified: 26 Mar 2026 01:52 UTC
+! Last modified: 26 Mar 2026 01:54 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 50066c73dac1cac9d4070a14047e3c29ee071774
+! Commit: 788420654f4d36fb28c0dfda46c3824d48075542
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -45339,6 +45339,7 @@ dokutv.net###cmp_overlay
 liberal.hr###footer
 vindija.hr###gdpr-overlay
 iarh.hr###kukijima
+m.hak.hr###myCookie
 tzdubrovnik.hr###mygdprPopupHR
 goe.irb.hr,istra24.hr###ng-cc
 biserzagorja.hr,charlotte.hr,eper.com.hr,interpreta.hr###page-disable
