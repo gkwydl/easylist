@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603262004
+! Version: 202603262010
 ! Title: EasyList
-! Last modified: 26 Mar 2026 20:04 UTC
+! Last modified: 26 Mar 2026 20:10 UTC
 ! Expires: 4 days (update frequency)
-! Commit: cc3a16e4593c33276c37dbb80d17b1008ee04f90
+! Commit: ad8cc54772f0873ea42f2a624197c19b3232bc8d
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18718,6 +18718,7 @@ browsershots.org#@#.advert_area
 ||awzsuxrw.in^
 ||axeldivision.com^
 ||axeturnpindampish.cyou^
+||axfgvvsvgwi.com^
 ||axfwlkeyqdntp.site^
 ||axgbr.com^
 ||axhqzjtpfwrfg.tech^
@@ -26126,6 +26127,7 @@ browsershots.org#@#.advert_area
 ||dxuxmguvqpcua.online^
 ||dxvnfdhowouwr.website^
 ||dxwawocqoeofo.online^
+||dxwqlthvdmzhh.site^
 ||dxxbwmpkpxnwv.online^
 ||dxzhlgaawhyen.website^
 ||dxzjhinnqbeej.site^
@@ -40588,6 +40590,7 @@ browsershots.org#@#.advert_area
 ||littlevigorously.com^
 ||litvp.com^
 ||litzceboidscompone.cyou^
+||live-desire.pro^
 ||livedskateraisin.com^
 ||lively-spirit.pro^
 ||livelymatter.com^
