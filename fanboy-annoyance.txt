@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603260104
+! Version: 202603260108
 ! Title: Fanboy's Annoyance List
-! Last modified: 26 Mar 2026 01:04 UTC
+! Last modified: 26 Mar 2026 01:08 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 1efedcdeb25f4ba24392d9629acab136b3a9583e
+! Commit: f8ab1166a5e5dccda4ebd2a2085f1fb9cf9b2350
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -41841,6 +41841,7 @@ capcut.com#?#.box-beCrD2:has-text(cookies)
 chatgpt.com#?#.md\:px-\[60px\]:has-text(By messaging ChatGPT)
 coopmobile.ch#?#.top-0.z-9999.fixed.bg-opacity-30:has-text(Website Cookies)
 cun.edu.co,join.chat,milkinkstudio.com,worklouder.cc#?#.dialog-lightbox-message:has-text(/Cookies/i)
+givefreely.com##div:has(.CookieConsent)
 yogainternational.com##div[class^="elements__Banner-"]:has(> div > a[href$="-privacy-policy"])
 eda.ru#?#.ejn6mx64.emotion-8zds09:has-text(cookies)
 elle.com,elledecor.com,esquire.com,goodhousekeeping.com,harpersbazaar.com,housebeautiful.com,menshealth.com,popularmechanics.com,prevention.com,redbookmag.com,roadandtrack.com,runnersworld.com,seventeen.com,townandcountrymag.com,veranda.com,womansday.com,womenshealthmag.com#?#.e91i7z92.css-c9oklo:has-text(We use technologies that provide information)
