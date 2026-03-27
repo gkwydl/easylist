@@ -3,7 +3,7 @@
 ! Title: Fanboy's Annoyance List
 ! Last modified: 27 Mar 2026 11:17 UTC
 ! Expires: 4 days (update frequency)
-! Commit: ccfba55777023a910bfb0052f5e4ee7f19bd5c0e
+! Commit: 8b6e534cfa916f30d998258b0cb66ddbd47fc8ad
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -38378,6 +38378,7 @@ lloyd.com###globalerror
 draeger.com###globalnotification
 freebcc.com###google_cookie_box_bottom
 kindlemodding.org###google_tag_consent
+proteantech.in###gotrust-cookie-banner
 att.com###gpc-banner-container
 wdl.warburg.sas.ac.uk###greyout
 nca.org.gh###growls-br
