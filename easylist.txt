@@ -3,7 +3,7 @@
 ! Title: EasyList
 ! Last modified: 27 Mar 2026 07:24 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 2f5271c9262f7ff151b2c7aae251cb0ce43ff7d1
+! Commit: 7b1953b4c491d11aebbd1bdb6e67e391a080ac0e
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -85598,6 +85598,7 @@ gamelevate.com##[data-adpath]
 coingecko.com##[data-ads-target="banner"]
 czechtheworld.com##[data-affiliate]
 thesun.co.uk##[data-aspc="newBILL"]
+european-alternatives.eu##[data-banner-key]
 groupon.com##[data-bhc$="sponsored_carousel"]
 costco.com##[data-bi-placement="Criteo_Home_Espot"]
 costco.ca##[data-bi-placement="Criteo_Product_Display_Page_Espot"]
