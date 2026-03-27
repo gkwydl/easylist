@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603271117
+! Version: 202603271119
 ! Title: Fanboy's Annoyance List
-! Last modified: 27 Mar 2026 11:17 UTC
+! Last modified: 27 Mar 2026 11:19 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 8b6e534cfa916f30d998258b0cb66ddbd47fc8ad
+! Commit: a149bebb5464b2eab8c1081db1fb4748505296fa
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -40846,6 +40846,7 @@ patreon.com##div[data-tag="cookie-disclosure"]
 pinnacle.com##div[data-test-id="Cookie-PolicyBanner"]
 lego.com##div[data-test="age-gate-disclaimer"]
 athenegpt.ai,betterhelp.com,brilliant.org,elsevier.com,regain.us##div[data-testid="cookie-banner"]
+expo.dev##div[data-testid="cookie-banner-root"]
 link.com##div[data-testid="cookie-consent-cookie-consent-notification"]
 developers.eyeo.com##div[data-testid="cookies-dialog"]
 deepl.com##div[data-testid="dl-cookieBanner"]
