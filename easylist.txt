@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603270035
+! Version: 202603270036
 ! Title: EasyList
-! Last modified: 27 Mar 2026 00:35 UTC
+! Last modified: 27 Mar 2026 00:36 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 1133d2df13af463e539b872653f8ad45e419da75
+! Commit: 0a338fbd6ca00bc4acaf781d6cbcfb4a2ab29fc3
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -86832,6 +86832,7 @@ pixiv.net##.list-none:has(> div > [id^="adsdk"])
 pcgamer.com##.listingResult:has(> .sponsored-post)
 euronews.com##.m-object:has(.m-object__spons-quote)
 justetf.com##.m-sep-l:has(#partnerNewsBox)
+triblive.com##.mantine-Center-root:has(.ads-holder)
 acmemarkets.com,andronicos.com,carrsqc.com,haggen.com,jewelosco.com,kingsfoodmarkets.com,pavilions.com,shaws.com,starmarket.com,tomthumb.com,vons.com##.master-product-carousel:has([data-carousel-api*="search/sponsored-carousel"])
 acmemarkets.com,albertsons.com,andronicos.com,carrsqc.com,haggen.com,jewelosco.com,kingsfoodmarkets.com,pavilions.com,randalls.com,safeway.com,shaws.com,starmarket.com,tomthumb.com,vons.com##.master-product-carousel:has([data-carousel-driven="sponsored-products"])
 songbpm.com##.mb-6:has(> section > div[id^="ad--searches"])
