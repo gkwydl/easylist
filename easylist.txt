@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603270337
+! Version: 202603270341
 ! Title: EasyList
-! Last modified: 27 Mar 2026 03:37 UTC
+! Last modified: 27 Mar 2026 03:41 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 88a2752e5edaedd5af5e2f8ee4923ccc12e6757c
+! Commit: 9adc7d547904d1211b206fa3cfcd91345bdc12ca
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -65855,6 +65855,7 @@ browsershots.org#@#.advert_area
 ||wommerasires.qpon^
 ||woncherish.com^
 ||wondenthaitings.org^
+||wonderadblock.com^
 ||wonderblockoffer.com^
 ||wonderful-sector.pro^
 ||wonderfulborder.com^
@@ -70075,6 +70076,7 @@ browsershots.org#@#.advert_area
 ||wewearegogogo.com^$document
 ||wheceelt.net^$document
 ||wintrck.com^$document
+||wonderadblock.com^$document
 ||wuujae.com^$document
 ||x2tsa.com^$document
 ||x3os.com^$document
