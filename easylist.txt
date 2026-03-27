@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603270935
+! Version: 202603270936
 ! Title: EasyList
-! Last modified: 27 Mar 2026 09:35 UTC
+! Last modified: 27 Mar 2026 09:36 UTC
 ! Expires: 4 days (update frequency)
-! Commit: b7854f7265a8f6466fdfc77796bd46fa1ef73559
+! Commit: fb7d41ed3a1c61302bfb2c4db785f842ddc0d597
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -85819,6 +85819,7 @@ cnx-software.com##[href*="banner"]
 9jaflaver.com,alaskapublic.org,allkeyshop.com,analyticsinsight.net,ancient-origins.net,animeidhentai.com,arabtimesonline.com,biblestudytools.com,bitcoinworld.co.in,christianity.com,cnx-software.com,coingolive.com,csstats.gg,digitallydownloaded.net,digitbin.com,domaingang.com,downturk.net,flickeringmyth.com,fresherslive.com,gizmochina.com,glitched.online,glodls.to,guidedhacking.com,hackernoon.com,indishare.org,khmertimeskh.com,litecoin-faucet.com,mbauniverse.com,mediaite.com,mgnetu.com,myreadingmanga.info,newsfirst.lk,owaahh.com,parkablogs.com,premiumtimesng.com,railcolornews.com,resultuniraj.co.in,ripplesnigeria.com,rtvonline.com,ryuugames.com,sashares.co.za,sofascore.com,totemtattoo.com,trancentral.tv,unboxdiaries.com,vumafm.co.za,yugatech.com,zmescience.com##[href*="bit.ly/"]
 beforeitsnews.com,in5d.com##[href*="hop.clickbank.net"]
 bleepingcomputer.com##[href*="https://www.bleepingcomputer.com/mgo/"]
+businessaccountingbasics.co.uk##[href*="partnerlinks.io/"] > img
 cnx-software.com##[href*="url2.cnx-software.com/"]
 cnx-software.com##[href*="url3.cnx-software.com/"]
 linuxlookup.com##[href="/advertising"]
