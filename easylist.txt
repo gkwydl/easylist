@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603271123
+! Version: 202603271128
 ! Title: EasyList
-! Last modified: 27 Mar 2026 11:23 UTC
+! Last modified: 27 Mar 2026 11:28 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 387913b900c500e1444480a48a05f32a5d2d1498
+! Commit: c60d0d082f1ac25c1e7b3b167a9a55a19d842bb0
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -32290,6 +32290,7 @@ browsershots.org#@#.advert_area
 ||gravitationtaxpayer.com^
 ||gravyhuman.com^
 ||grayedcoptersthrip.cfd^
+||grayedmellit.com^
 ||grayerkhlysti.help^
 ||grayfelicity.com^
 ||graythought.pro^
@@ -55474,6 +55475,7 @@ browsershots.org#@#.advert_area
 ||scorchsschwa.cyou^
 ||scoredconnect.com^
 ||scornfacultative.com^
+||scornfulleg.com^
 ||scotiamyiasisdrawrod.cfd^
 ||scotiawinze.com^
 ||scoundrelbreakdown.com^
@@ -58196,6 +58198,7 @@ browsershots.org#@#.advert_area
 ||streetmonumentemulate.com^
 ||strekepetrols.com^
 ||stremmaraftage.com^
+||strengthdetention.com^
 ||strengthhaberdashery.com^
 ||strengthyellow.com^
 ||strenuoustarget.com^
