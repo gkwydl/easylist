@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603272238
+! Version: 202603272239
 ! Title: EasyList
-! Last modified: 27 Mar 2026 22:38 UTC
+! Last modified: 27 Mar 2026 22:39 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 1e674e105c61cf372f2e018dd98701a3963b72c3
+! Commit: 649de0a8bb1de4963ee26fd7dab79074ee4b4478
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -80525,7 +80525,7 @@ scoop.co.nz###in-cont
 astrolis.com###in-house-ad-daily
 supremacy1914.com###inGameAdsContainer
 bluejaysnation.com,canucksarmy.com,dailyfaceoff.com,flamesnation.ca,oilersnation.com,theleafsnation.com###in_article_300x250_1
-winaero.com###inbll
+winaero.com###inbll:not(.thank-you-adguard)
 metabattle.com###inca1
 metabattle.com###inca2
 manga18.me###index_natvmo
@@ -80558,7 +80558,7 @@ unitconversion.org###iright
 allnewspipeline.com###isg_add
 icon-icons.com###istockphoto-placeholder
 fakeupdate.net###itemz
-winaero.com###jkhskdfsdf-iycc-5
+winaero.com###jkhskdfsdf-iycc-5:not(.thank-you-adguard)
 cnn.com###js-outbrain-rightrail-ads-module
 9gag.com###jsid-ad-container-page_adhesion
 dhakatribune.com###jw-popup
@@ -85672,7 +85672,7 @@ techpout.com##.widget_xyz_insert_php_widget
 igi-global.com##.width-100
 ign.com##.wiki-bobble
 wethegeek.com##.win
-winaero.com##.windia
+winaero.com##.windia:not(.thank-you-adguard)
 dailywire.com##.wisepops-block-image
 reuters.com##.workspace-article-banner-module__image__F14iP
 warontherocks.com##.wotr_top_lbjspot
