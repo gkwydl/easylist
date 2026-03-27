@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603270725
+! Version: 202603270728
 ! Title: EasyList
-! Last modified: 27 Mar 2026 07:25 UTC
+! Last modified: 27 Mar 2026 07:28 UTC
 ! Expires: 4 days (update frequency)
-! Commit: ae4069230fa037e0216c6482222fa1813e765ba8
+! Commit: 30c59dd071dd3ed43ff44371399ab69ea5f93c90
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -50455,6 +50455,7 @@ browsershots.org#@#.advert_area
 ||profitablegate.com^
 ||profitablegatecpm.com^
 ||profitablegatetocontent.com^
+||profitablemood.pro^
 ||profitableratecpm.com^
 ||profitabletrustednetwork.com^
 ||profitsence.com^
@@ -64451,6 +64452,7 @@ browsershots.org#@#.advert_area
 ||vwhhkanqimp.xyz^
 ||vwjdosviijhit.website^
 ||vwjsiywwgynud.online^
+||vwkrrwxbuvotg.space^
 ||vwmdzetaikxvc.site^
 ||vwmtrauf.com^
 ||vwnjjfehgryri.space^
