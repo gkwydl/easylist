@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603262356
+! Version: 202603270001
 ! Title: EasyList
-! Last modified: 26 Mar 2026 23:56 UTC
+! Last modified: 27 Mar 2026 00:01 UTC
 ! Expires: 4 days (update frequency)
-! Commit: a7a6c5dd377e9f9a7f9b4eaabd601ba56b9a68a4
+! Commit: 6dcb671b812ca752159547e038d886381d263c9d
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -55934,6 +55934,7 @@ browsershots.org#@#.advert_area
 ||shanlinseed.com^
 ||shanorin.com^
 ||shanotchoulte.net^
+||shansaunfitly.qpon^
 ||shapecamping.com^
 ||shapesdivide.shop^
 ||shapo.fun^
@@ -58407,6 +58408,7 @@ browsershots.org#@#.advert_area
 ||supposecrummystorm.com^
 ||supposedlymadeup.com^
 ||supposedsite.com^
+||supposeschool.com^
 ||suppressedbottlesenjoyable.com^
 ||suppresseduphousing.com^
 ||suppresswhileobvious.com^
@@ -64387,6 +64389,7 @@ browsershots.org#@#.advert_area
 ||vxuvgslsciqly.online^
 ||vxvvdbqifajsy.site^
 ||vxvzcjxkyanrs.website^
+||vxwfajfkjn.com^
 ||vxwjlushskniy.online^
 ||vxwmkbtkhtpru.today^
 ||vxxdhcxtcy.net^
