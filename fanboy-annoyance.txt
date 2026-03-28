@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603280245
+! Version: 202603280254
 ! Title: Fanboy's Annoyance List
-! Last modified: 28 Mar 2026 02:45 UTC
+! Last modified: 28 Mar 2026 02:54 UTC
 ! Expires: 4 days (update frequency)
-! Commit: fd520afe81ffe432c3700fd82d485347fc8281b2
+! Commit: 249ff36bc4367aa2d444cdde815c0f230b8b4fe8
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -31552,6 +31552,7 @@ infoq.com##.header__bottom__events
 notesfrompoland.com##.heading-more
 xhaccess.com,xhamster.com,xhamster.desi##.heading-promo
 whyy.org##.hearken-embed
+euromaidanpress.com##.hide-ads-banner
 sfpublicpress.org##.hide-on-landing
 tipranks.com##.hideOnpremium
 48hills.org##.hills-inline-full-width
@@ -31665,6 +31666,7 @@ backpacker.com##.o-promo-module
 omgubuntu.co.uk##.omg-hero-button
 energypolicy.columbia.edu##.overall-notification
 edutopia.org##.overlay
+euromaidanpress.com##.overlay-bg
 opb.org##.overlay-cta
 app.slack.com##.p-upgrades_button
 civilbeat.org##.page-donate-footnote
@@ -36580,6 +36582,7 @@ sonomamag.com##.cph-gallery-share-button
 handletheheat.com##.creator-recipe-footer
 overwolf.com##.creator-social
 retire.ly##.cs-footer-social-links
+euromaidanpress.com##.cs-meta-google-news
 bloomberg.com##.css--social-wrapper-outer
 economist.com##.css-11yt5xn
 chatelaine.com##.css-1uko8nb-ShareButtons
