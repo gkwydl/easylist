@@ -3,7 +3,7 @@
 ! Title: Fanboy's Anti-Sounds List
 ! Last modified: 28 Mar 2026 05:01 UTC
 ! Expires: 4 days (update frequency)
-! Commit: d2ad387fa99fbc608200e2f8b73afe3748207ed1
+! Commit: 85360fa560294bd73e62d0a16158a95fc131cd8b
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
