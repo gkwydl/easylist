@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603282120
+! Version: 202603282126
 ! Title: EasyList
-! Last modified: 28 Mar 2026 21:20 UTC
+! Last modified: 28 Mar 2026 21:26 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 78804f6aef6f0a7672240505bdf7974ed6087269
+! Commit: 3a885e789036c240642a26e80079956c8f2e23ed
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -30594,6 +30594,7 @@ browsershots.org#@#.advert_area
 ||furniturehurt.com^
 ||furoinalexas.com^
 ||furoleevehood.cyou^
+||furoresbarrios.qpon^
 ||furowo.org^
 ||furphycabots.cfd^
 ||furrowhardship.com^
@@ -55367,6 +55368,7 @@ browsershots.org#@#.advert_area
 ||safelistextreme.com^
 ||safeoffers.pro^
 ||safeonlinetips.com^
+||safeskorai.cfd^
 ||safestcaterer.com^
 ||safestcontentgate.com^
 ||safestgatetocontent.com^
