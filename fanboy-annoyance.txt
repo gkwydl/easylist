@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603281104
+! Version: 202603281106
 ! Title: Fanboy's Annoyance List
-! Last modified: 28 Mar 2026 11:04 UTC
+! Last modified: 28 Mar 2026 11:06 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 9189989d77f9888eceabe73783926de3c65d997c
+! Commit: ac8722322bfe6c36f527c27519b5ea10d3b742a4
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -47271,6 +47271,7 @@ bestradio.fm,iblitzmods.ru,kinoby.ru,tvguru.ru##.message-alert
 npfb.ru##.messenger-popup
 mosreg.ru##.metrica-warning
 strana.one,strana.today##.modal
+mvideo.ru##.modal-wrapper
 asna.ru##.modalCookies_root__356Q-
 shophair.ru##.modal_popup_sessid_box
 nspk.ru##.modals-cookies
