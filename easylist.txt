@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603280102
+! Version: 202603280104
 ! Title: EasyList
-! Last modified: 28 Mar 2026 01:02 UTC
+! Last modified: 28 Mar 2026 01:04 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 3a2e997278f239f5237116c60a67ee8caa72c5ff
+! Commit: 8683bc5e28bd54e1b81a0013c8894dcedf6e0d4d
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19222,6 +19222,7 @@ browsershots.org#@#.advert_area
 ||beencoriqvcep.site^
 ||beenover.com^
 ||beeperconsiderably.com^
+||beerdoghoodtideful.cfd^
 ||beestark.com^
 ||beethlatitatdrabble.cfd^
 ||beetlestaircaselobster.com^
@@ -31844,6 +31845,7 @@ browsershots.org#@#.advert_area
 ||glum-mortgage.com^
 ||glumaltendracscotino.cyou^
 ||glumrevenue.com^
+||glumshoulder.pro^
 ||gluqprjrtxrij.online^
 ||glutenmuttsensuous.com^
 ||gluvrkcvvldus.website^
@@ -32233,6 +32235,7 @@ browsershots.org#@#.advert_area
 ||gqhxfsdcrroip.site^
 ||gqihdorufksiq.online^
 ||gqiikkuqzsxrt.store^
+||gqiqpebzsgcrc.website^
 ||gqiuhdighkawd.website^
 ||gqkrkcicjfzwi.website^
 ||gqljjqqvrdfqe.online^
@@ -34053,6 +34056,7 @@ browsershots.org#@#.advert_area
 ||hjtfbaxhidhv.xyz^
 ||hjtpbyachgtvu.online^
 ||hjuapkyglczhp.site^
+||hjuoayhvraknxds.com^
 ||hjvjnpyhfzdws.website^
 ||hjwqvivxoymvw.site^
 ||hjxajf.com^
@@ -59614,6 +59618,7 @@ browsershots.org#@#.advert_area
 ||tenantrip.com^
 ||tend-new.com^
 ||tenddesigner.com^
+||tendedlauded.cfd^
 ||tendencyvalleysrod.com^
 ||tenderlybatch.com^
 ||tenderservice.pro^
