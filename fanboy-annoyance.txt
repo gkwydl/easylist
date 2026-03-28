@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603280208
+! Version: 202603280209
 ! Title: Fanboy's Annoyance List
-! Last modified: 28 Mar 2026 02:08 UTC
+! Last modified: 28 Mar 2026 02:09 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 1bb872364e7c99a938258a8b389d1a6ea6d83c29
+! Commit: c2559b39f06aeb3e573941784763ba98263b8077
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -41003,9 +41003,8 @@ dbf.nl,ku.dk,mazeikiai.lt,msi.com###ccc
 ! ! .wt-cli-cookie-bar-container
 coniaprofumi.com,ganassa.com,kd.fi,taskus.com##.wt-cli-cookie-bar-container
 ! ! .cookie-disclaimer
+105.net,all3dp.com,meteo.it,mowmag.com,unitedmusic.com###iubenda-cs-banner
 doviz.com,emaar.com,ford.co.uk,news.northeastern.edu,tous.com,vunesp.com.br,williamhill.com##.cookie-disclaimer
-! ! ###iubenda-cs-banner
-105.net,all3dp.com,meteo.it,unitedmusic.com###iubenda-cs-banner
 ! ! #ism-consent-box
 laportecontemporaine.shop,meesterslijpers.nl###ism-consent-box
 ! ! .cookie-alert
