@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603281741
+! Version: 202603281748
 ! Title: EasyList
-! Last modified: 28 Mar 2026 17:41 UTC
+! Last modified: 28 Mar 2026 17:48 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 8fe54998d7f5fee2414083488dd008a30583ba6a
+! Commit: 72169e66b596a40573fd4cf0949d5c156177b407
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -65572,6 +65572,7 @@ browsershots.org#@#.advert_area
 ||welibowless.com^
 ||weligillysies.com^
 ||welldocumented-president.pro^
+||welldocumenteddark.pro^
 ||welldocumentedwrap.com^
 ||wellgroomed-tackle.pro^
 ||wellhello.com^
