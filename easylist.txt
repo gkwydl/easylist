@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603281256
+! Version: 202603281257
 ! Title: EasyList
-! Last modified: 28 Mar 2026 12:56 UTC
+! Last modified: 28 Mar 2026 12:57 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 734d17f08f9063ea2b4ba1e079d77c8e725aace5
+! Commit: 1146dad3c2107e6f9dafe4660dbe8aea71ee1384
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -86670,6 +86670,7 @@ rottentomatoes.com##ad-unit
 cryptodaily.co.uk##advert
 cooljugator.com##amp-auto-ads
 extraetf.com##app-ad-block
+reverso.net##app-ads-block
 unmatched.gg##app-advertising
 arkadiumhosted.com##ark-top-ad
 facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##article[data-ft*="\"ei\":\""]
