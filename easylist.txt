@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603280648
+! Version: 202603280706
 ! Title: EasyList
-! Last modified: 28 Mar 2026 06:48 UTC
+! Last modified: 28 Mar 2026 07:06 UTC
 ! Expires: 4 days (update frequency)
-! Commit: aad73ede4284690fa830c746bad762b8f9bf888f
+! Commit: a32848f6281b2a18bc25fef9b165b5e06f37e53b
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -23091,6 +23091,7 @@ browsershots.org#@#.advert_area
 ||crimpedanasazi.qpon^
 ||crinalwaywode.help^
 ||cringezonearistocracy.com^
+||crinkanonymelyn.cyou^
 ||crinulaoutbegs.cfd^
 ||crippletouret.com^
 ||crisisinanehalted.com^
@@ -28474,6 +28475,7 @@ browsershots.org#@#.advert_area
 ||ezvijslewvvhu.store^
 ||ezvtaxxurcgdi.website^
 ||ezvtfyjvrdbzx.site^
+||ezvthdrknbfad.space^
 ||ezxkarybihqoo.space^
 ||ezxttjqemvhkg.website^
 ||ezyzzgbinwcqq.website^
@@ -61893,6 +61895,7 @@ browsershots.org#@#.advert_area
 ||uel-uel-fie.com^
 ||uelclnfeaxlur.online^
 ||ueleensadcyxh.site^
+||ueljcvfl.com^
 ||uelllwrite.com^
 ||uemrtknwjbgzp.one^
 ||uenonbxtcfcsf.space^
