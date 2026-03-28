@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603280730
+! Version: 202603280732
 ! Title: EasyList
-! Last modified: 28 Mar 2026 07:30 UTC
+! Last modified: 28 Mar 2026 07:32 UTC
 ! Expires: 4 days (update frequency)
-! Commit: f30c146019816efcb383d76321a3165fb1821877
+! Commit: f138992c5947fa7493e06e871aaad957a38bec87
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -76167,6 +76167,7 @@ browsershots.org#@#.advert_area
 ||cdn.csyndication.com^
 ||cdn.makemula.ai/js/mula.js
 ||cdn.neighbourly.co.nz/widget/$subdocument
+||cdn.thrad.ai/ptag.min.js
 ||cdn.vaughnsoft.net/abvs/
 ||cdn.viously.com/js/sdk/boot.js
 ||cdn.yeahwebimobi.fun/r6.png
@@ -78386,6 +78387,7 @@ browsershots.org#@#.advert_area
 ||api.bitchute.com/slot1/
 ||api.bitchute.com/slot2/
 ||api.bo3.gg/api/v1/ad_banners
+||api.deepai.org/thrad-ad-proxy
 ||api.mumuglobal.com^
 ||api.production.k8s.y3o.tv/nevarro/video-ads/$domain=yallo.tv
 ||app.mps.vsnt.net/fetch/ext/load-rottentomatoes-web.js$domain=rottentomatoes.com
@@ -82918,6 +82920,7 @@ finbold.com##.cta-etoro
 poweroutage.us##.cta-inline
 thelines.com##.cta-row
 timesofindia.indiatimes.com##.ctn-workaround-div
+deepai.org##.ctx-ad-container
 u.today##.ctyptopcompare__widget
 genius.com##.cujBpY
 cults3d.com##.cultszone
