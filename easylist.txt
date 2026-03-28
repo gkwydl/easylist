@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603280145
+! Version: 202603280152
 ! Title: EasyList
-! Last modified: 28 Mar 2026 01:45 UTC
+! Last modified: 28 Mar 2026 01:52 UTC
 ! Expires: 4 days (update frequency)
-! Commit: e65819a2447fd03dc89ef783352d8e7c0b983a94
+! Commit: 2cc932e2fc38c1618d32e592529d45c37ea83fe9
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -23937,6 +23937,7 @@ browsershots.org#@#.advert_area
 ||darkmfbipedjt.space^
 ||darksquare.pro^
 ||darlix.top^
+||darnelsmuckers.qpon^
 ||darnersspninx.cfd^
 ||darnexenapt.qpon^
 ||darninggease.qpon^
@@ -37666,6 +37667,7 @@ browsershots.org#@#.advert_area
 ||jnougbifoeyad.website^
 ||jntbtoyqzjwpni.com^
 ||jntdelly.cyou^
+||jntmvkbuhknjz.website^
 ||jnuuwjzbqqpcp.site^
 ||jnuwyofegytmm.xyz^
 ||jnvgvhkfkrgvp.site^
@@ -54031,6 +54033,7 @@ browsershots.org#@#.advert_area
 ||rippierdrossy.cyou^
 ||riprapsskittle.help^
 ||riprlpruktwdz.space^
+||ripsackfrisian.com^
 ||ripsawsvailing.cfd^
 ||riptidequia.cfd^
 ||riptognouque.net^
@@ -57134,6 +57137,7 @@ browsershots.org#@#.advert_area
 ||smudgyaunty.shop^
 ||smudsdxglydfu.online^
 ||smugglerefreshing.com^
+||smurtlesenam.com^
 ||smuzpaqaw.com^
 ||smvmpfcncwitt.online^
 ||smvmtnlvqymso.online^
