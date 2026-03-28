@@ -3,7 +3,7 @@
 ! Title: Fanboy's Annoyance List
 ! Last modified: 28 Mar 2026 11:06 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 2e9764db8a77e976662826a4c9cd239ba3379984
+! Commit: 01db0796260110fdfab867a519bcc7677c67ed1d
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -47195,6 +47195,7 @@ darina.su##.container-coocke
 mnogo.ru##.cook_LFPnK
 propb.ru##.cooke
 invitro.ru##.cookie--popup
+spbu.ru##.cookie-block
 supersamsev.ru##.cookie-consent-container-wrap
 lk-new.vtbnpf.ru##.cookie-layout
 rutube.ru##.cookie-message-module__cookie-consent
