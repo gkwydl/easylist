@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603290524
+! Version: 202603290536
 ! Title: EasyList
-! Last modified: 29 Mar 2026 05:24 UTC
+! Last modified: 29 Mar 2026 05:36 UTC
 ! Expires: 4 days (update frequency)
-! Commit: adcc939267f1dff84c4c5fcf90a58dfa11e4a72c
+! Commit: 66ab6c5209d800027454a51ca4f3d92ebca2bfa7
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -29754,6 +29754,7 @@ browsershots.org#@#.advert_area
 ||flushpersist.com^
 ||flusoprano.com^
 ||fluspaisa.cyou^
+||fluterozum.cyou^
 ||flutterstumpbullet.com^
 ||flutyantlion.cyou^
 ||fluxads.com^
@@ -35116,6 +35117,7 @@ browsershots.org#@#.advert_area
 ||hyfwxqrpnlpmc.website^
 ||hygckbylqhutq.website^
 ||hygienicpee.com^
+||hygromaroyet.cyou^
 ||hyhsaqyiusioz.space^
 ||hyi5z8ivnlt2ooj9h.cfd^
 ||hyihyfouxfsjb.online^
@@ -62704,6 +62706,7 @@ browsershots.org#@#.advert_area
 ||unfurlsburgesshalvas.qpon^
 ||ungiddyslimy.cfd^
 ||ungiltpeitrel.cfd^
+||ungirtsoloed.shop^
 ||ungriporthal.qpon^
 ||ungtkeltic.qpon^
 ||unhairraxesplotter.cfd^
