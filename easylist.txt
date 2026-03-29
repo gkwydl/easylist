@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603291933
+! Version: 202603291946
 ! Title: EasyList
-! Last modified: 29 Mar 2026 19:33 UTC
+! Last modified: 29 Mar 2026 19:46 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 4dacafafc7df5e60865e0d1a52aa8c856a655e5f
+! Commit: e21faddcfecfa93b3ec29cd4fd8637e024b39d4f
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -26149,6 +26149,7 @@ browsershots.org#@#.advert_area
 ||duleonon.com^
 ||dulillipupan.com^
 ||dulkd.org^
+||dull-plenty.pro^
 ||dullmilacredolmans.cyou^
 ||dulojet.com^
 ||dulooyaaxmbrd.fun^
@@ -69125,6 +69126,7 @@ browsershots.org#@#.advert_area
 ||yummymembership.com^
 ||yunqvvzkwnsxq.space^
 ||yunshipei.com^
+||yupcaziotekll.online^
 ||yupfiles.net^
 ||yupkenaklidnw.site^
 ||yuppads.com^
