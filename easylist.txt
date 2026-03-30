@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603301020
+! Version: 202603301035
 ! Title: EasyList
-! Last modified: 30 Mar 2026 10:20 UTC
+! Last modified: 30 Mar 2026 10:35 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 437c68e3e8f54de240f5cc0a36a170ab5b0014a0
+! Commit: 8d19fe4d865a2940694a08073b4e3ae99be731de
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -79779,6 +79779,7 @@ browsershots.org#@#.advert_area
 ||fwcdn1.com/js/fwn.js
 ||fwcdn1.com/js/storyblock.js
 ||g.ibtimes.sg/sys/js/minified-video.js
+||gannett-player.ex.co^$domain=play.usatoday.com
 ||geo.dailymotion.com^$script,domain=wol.gg
 ||go.trvdp.com^$domain=~canaltech.com.br|~ig.com.br|~monitordomercado.com.br|~noataque.com.br|~oantagonista.com.br|~olhardigital.com.br|~omelete.com.br
 ||imgix.video^$domain=inverse.com
@@ -82077,7 +82078,7 @@ realityblurb.com##.Desktop-Sticky
 tweaktown.com##.DesktopRightBA
 dormtherapy.com##.DesktopStickyBanner
 yandex.com##.DirectFeature
-games.mashable.com,games.washingtonpost.com##.DisplayAd__container___lyvUfeBN
+games.mashable.com,games.usatoday.com,games.washingtonpost.com##.DisplayAd__container___lyvUfeBN
 additivemanufacturing.media,compositesworld.com,ptonline.com##.DisplayBar
 icodrops.com##.Feature-Line
 thedailybeast.com##.Footer__coupons-wrapper
@@ -82157,6 +82158,7 @@ forum.ragezone.com##.RZBannerUnit
 barrons.com##.RenderBlock__AdWrapper-sc-1vrmc5r-0
 whatcar.com##.ReviewHero_mastheadStyle__Bv8X0
 newser.com##.RightRailAds
+games.usatoday.com##.RightRailDeprecated__displayAdRight___byqVgMD_
 games.mashable.com##.RightRail__displayAdRight___PjhV3mIW
 clutchpoints.com##.RzKEf
 toonstream.co##.SH-Ads
@@ -88531,6 +88533,7 @@ thecooldown.com##.wp-block-tcd-multipurpose-gutenberg-block
 bigthink.com##.wrapper-connatixElements
 bigthink.com##.wrapper-connatixPlayspace
 global.espreso.tv##.ym-video--wrapper
+play.usatoday.com##.zdFVI1__zdFVI1
 canucksarmy.com##[data-injection="stn-video"]
 totalprosports.com##[data-stn-player="n2psbctm"]
 wired.com##[data-testid="cne-interlude-container"]
