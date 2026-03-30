@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603301532
+! Version: 202603301544
 ! Title: EasyList
-! Last modified: 30 Mar 2026 15:32 UTC
+! Last modified: 30 Mar 2026 15:44 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 7f21b7312e61eb2173e0e542ec223eb119379558
+! Commit: 448a9cfa11b42ec796a5be5bb64e482a680b5272
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -21966,6 +21966,7 @@ browsershots.org#@#.advert_area
 ||cleansentence.com^
 ||cleanupcalorystiff.com^
 ||cleanupharm.com^
+||clear-candy.pro^
 ||clear-rent.pro^
 ||clear-request.com^
 ||clearadnetwork.com^
@@ -31225,6 +31226,7 @@ browsershots.org#@#.advert_area
 ||gaspedmarkups.qpon^
 ||gaspsoap.com^
 ||gassernorman.help^
+||gastfulabeles.com^
 ||gastsanders.cfd^
 ||gatdolmt.xyz^
 ||gatejav12.fun^
@@ -47287,6 +47289,7 @@ browsershots.org#@#.advert_area
 ||okadgpkptxakv.website^
 ||okanwoesgsogw.website^
 ||okapiacoot.qpon^
+||okapicoruco.com^
 ||okaysgrange.cyou^
 ||okbjlfhbpeejgj.xyz^
 ||okcfdzfqcdemc.website^
@@ -48411,6 +48414,7 @@ browsershots.org#@#.advert_area
 ||owenianaxumite.shop^
 ||owenitepulvino.help^
 ||owesyirrs.cfd^
+||owezamhaewjym.site^
 ||owffzcyrjjbwn.site^
 ||owfijkhomxdfo.space^
 ||owgkatdpsvqvm.site^
