@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603301040
+! Version: 202603301042
 ! Title: Fanboy's Annoyance List
-! Last modified: 30 Mar 2026 10:40 UTC
+! Last modified: 30 Mar 2026 10:42 UTC
 ! Expires: 4 days (update frequency)
-! Commit: e5d9ff4e0034ad679930939652f0df077aed856d
+! Commit: 88dabc34e0aedd491cece0c062da11a2b8407b39
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -41129,7 +41129,7 @@ bodyrelax.day,chefseasons.com,eurozet.pl,eyezy.com,idnes.cz,tidal.com,tuhh.de##.
 ! ! #headband
 maidenfrance.fr,plurielmedia.com###headband
 ! ! .lawcookie
-kaluga-poisk.ru,vologda-poisk.ru##.lawcookie
+cher-poisk.ru,kaluga-poisk.ru,vologda-poisk.ru##.lawcookie
 ! ! PrivacyBanner_
 holidayinnclub.com,payloadcms.com##[class^="PrivacyBanner_"]
 ! ! #pandectes-banner
