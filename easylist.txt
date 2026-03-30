@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603302259
+! Version: 202603302305
 ! Title: EasyList
-! Last modified: 30 Mar 2026 22:59 UTC
+! Last modified: 30 Mar 2026 23:05 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 77707f76971609a49a84e839c351a2b17247cc4d
+! Commit: 49cece1e023e81e47b19844668f33bc1f6a9f918
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -28903,6 +28903,7 @@ browsershots.org#@#.advert_area
 ||farlegease.cfd^
 ||farleskimmo.cfd^
 ||farmeelshop.help^
+||faroffgodsentmuskets.cyou^
 ||farphrasedirect.com^
 ||farrantchopin.shop^
 ||farrelwaspier.cyou^
@@ -29793,6 +29794,7 @@ browsershots.org#@#.advert_area
 ||flgch4eegy54z5czrzy.cfd^
 ||flgdaoepeuiqs.store^
 ||flgrfdfermv.com^
+||flhdgcfntuel.com^
 ||flheijhn.com^
 ||flhqfdjmltoue.site^
 ||flhtfxbakyelu.space^
@@ -33295,6 +33297,7 @@ browsershots.org#@#.advert_area
 ||gzaghpuljkqxb.space^
 ||gzapiiwbckwny.online^
 ||gzarikakg.com^
+||gzawckjrauepw.site^
 ||gzberdhytgbsy.website^
 ||gzclatfhwvpsk.space^
 ||gzdcdayetqopi.site^
