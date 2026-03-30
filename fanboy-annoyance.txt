@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603301037
+! Version: 202603301039
 ! Title: Fanboy's Annoyance List
-! Last modified: 30 Mar 2026 10:37 UTC
+! Last modified: 30 Mar 2026 10:39 UTC
 ! Expires: 4 days (update frequency)
-! Commit: d2d7cecd37780f258893ec3a0085e6c990eac869
+! Commit: 7bb33fc1ac7aeae7c4ab4aa6b8d4c78963fdbfce
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -41871,6 +41871,7 @@ givefreely.com##div:has(.CookieConsent)
 yogainternational.com##div[class^="elements__Banner-"]:has(> div > a[href$="-privacy-policy"])
 eda.ru#?#.ejn6mx64.emotion-8zds09:has-text(cookies)
 elle.com,elledecor.com,esquire.com,goodhousekeeping.com,harpersbazaar.com,housebeautiful.com,menshealth.com,popularmechanics.com,prevention.com,redbookmag.com,roadandtrack.com,runnersworld.com,seventeen.com,townandcountrymag.com,veranda.com,womansday.com,womenshealthmag.com#?#.e91i7z92.css-c9oklo:has-text(We use technologies that provide information)
+etherpad.org#?#[role="dialog"]:has-text(This page uses)
 ev-mallorca.com#?#.bottom-0.fixed:has-text(This website uses cookies)
 fairwinds.org#?#.bg-white.flex-col.flex.fixed:has-text(Your Privacy is Important to Us)
 help.semmelweis.hu#?#.modal:has(h3:has-text(Sütik használata)):has(button:has-text(Elfogadás))
