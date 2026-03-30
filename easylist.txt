@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603300147
+! Version: 202603300148
 ! Title: EasyList
-! Last modified: 30 Mar 2026 01:47 UTC
+! Last modified: 30 Mar 2026 01:48 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 9974b5504c1821f970c60a6e9ff154e38b941ffe
+! Commit: 589728a7abbf67dce01bf1d0d91a589dba88e894
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -88439,6 +88439,7 @@ livemint.com##[id^="video-ad-"]
 ukrinform.de,ukrinform.es,ukrinform.fr,ukrinform.jp,ukrinform.net,ukrinform.pl,ukrinform.ua##[style^="min-height: 280px;"]
 wlevradio.com##a[href^="https://omny.fm/shows/just-start-the-conversation"]
 military.com##article.embedded-entity
+twitch.tv##button[aria-label="Learn more about this ad"]
 firstforwomen.com##div[class^="article-content__www_ex_co_video_player_"]
 gamingbible.com##div[class^="floating-video-player_container"]:has(> #primisPlayer)
 balls.ie##div[style="min-height: 170px;"]
