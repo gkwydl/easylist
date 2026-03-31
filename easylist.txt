@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603310506
+! Version: 202603310513
 ! Title: EasyList
-! Last modified: 31 Mar 2026 05:06 UTC
+! Last modified: 31 Mar 2026 05:13 UTC
 ! Expires: 4 days (update frequency)
-! Commit: c86baace564bc449ee89ca17a79516f738584399
+! Commit: c1a24e8db10984e03bcdc0e6cb7cea7da072ce6d
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19108,6 +19108,7 @@ browsershots.org#@#.advert_area
 ||barrackmuppetunhealthy.com^
 ||barrasdockage.com^
 ||barrasjoistsukkahs.cfd^
+||barren-unit.pro^
 ||barrenhead.pro^
 ||barrettfusion.qpon^
 ||barsshrug.com^
@@ -40936,6 +40937,7 @@ browsershots.org#@#.advert_area
 ||lfwhbxucjgssr.online^
 ||lfwieehqopggy.website^
 ||lfxgbzxkfqhiy.space^
+||lfyatgjipbutg.website^
 ||lfzibowrxoftr.online^
 ||lgaamibxpyuyfv.com^
 ||lgaeiqigqojrc.website^
