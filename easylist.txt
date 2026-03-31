@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603310216
+! Version: 202603310223
 ! Title: EasyList
-! Last modified: 31 Mar 2026 02:16 UTC
+! Last modified: 31 Mar 2026 02:23 UTC
 ! Expires: 4 days (update frequency)
-! Commit: c06d0719df2c555f7856032a8433f1fd2af5e9e7
+! Commit: 48e2ff1de6c510d5b0614054b5978b53dc5a613a
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -28350,6 +28350,7 @@ browsershots.org#@#.advert_area
 ||evuuiytrdkshg.website^
 ||evwotgqeyulrw.site^
 ||evwtcdsddryqo.online^
+||evxmwjqw.com^
 ||evxtwhslqddyy.website^
 ||evxxkaaecmwgz.online^
 ||evydkddccddiw.online^
@@ -41288,6 +41289,7 @@ browsershots.org#@#.advert_area
 ||lizebruisiaculture.com^
 ||ljayfabggjyvc.website^
 ||ljbiynvyhfteq.rocks^
+||ljbrqlmlpaaux.com^
 ||ljbwzlmlzvmvj.top^
 ||ljbwzlmlzzezq.top^
 ||ljcazzzclwglt.site^
@@ -46043,6 +46045,7 @@ browsershots.org#@#.advert_area
 ||noostoogrest.net^
 ||nootesting.qpon^
 ||noothoonaiglou.net^
+||nootkabonete.com^
 ||nopahaes.com^
 ||nope.xn--mgbkt9eckr.net^
 ||nope.xn--ygba1c.wtf^
@@ -54521,6 +54524,7 @@ browsershots.org#@#.advert_area
 ||rhosbetag.qpon^
 ||rhouhvlqclqwk.online^
 ||rhousoasopersb.org^
+||rhploidy.com^
 ||rhqhciwnsbtex.site^
 ||rhrxadyexaklu.website^
 ||rhstsudlojlai.space^
@@ -54767,6 +54771,7 @@ browsershots.org#@#.advert_area
 ||rkocuezkhfizy.site^
 ||rkomf.com^
 ||rkp8kjfcw5vxlm8h7.cfd^
+||rkqukvcjklmns.site^
 ||rkscfrnebvnic.website^
 ||rkuxupkzfjeio.space^
 ||rkv1.com^
@@ -59069,6 +59074,7 @@ browsershots.org#@#.advert_area
 ||strewsgoons.qpon^
 ||strewviolently.com^
 ||streywalnutsmacrame.qpon^
+||strgape.com^
 ||strhreqxcfcmr.online^
 ||strict-drink.com^
 ||strict-duty.pro^
@@ -69489,6 +69495,7 @@ browsershots.org#@#.advert_area
 ||yurekbkmhoadl.net^
 ||yurokyander.cyou^
 ||yurunacorban.cyou^
+||yurunaimbeds.cyou^
 ||yurzldtomaeic.site^
 ||yusgoonbncwiu.site^
 ||yut4is9b.xyz^
