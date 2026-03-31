@@ -3,7 +3,7 @@
 ! Title: Fanboy's Annoyance List
 ! Last modified: 31 Mar 2026 10:20 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 02cff6ac5839a473870bbc39de055b6d828cb943
+! Commit: 5531c8fc6c673a46aac44eed606ac059f22c63eb
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -41798,7 +41798,7 @@ sellpy.at,sellpy.com,sellpy.de,sellpy.dk,sellpy.fi,sellpy.nl,sellpy.se##.gUbXEK
 ! ! .cm-overlay
 agora.pl,blik.com,landkreis-mittelsachsen.de,viennapte.pl##.cm-overlay
 ! .z-50
-bairesdev.com,bootstrap.academy,doppelherz.com,energydashboard.co.uk,freelway.com,help.adjust.com,livecounts.io,natron.energy,perspectives.plus##.z-50
+bairesdev.com,bootstrap.academy,doppelherz.com,energydashboard.co.uk,freelway.com,help.adjust.com,livecounts.io,natron.energy,new.adotat.com,perspectives.plus##.z-50
 ! groupon
 groupon.ae,groupon.be,groupon.ca,groupon.com.au,groupon.es,groupon.it,groupon.nl,groupon.pl###spotlight
 ! sensorsdata
