@@ -3,7 +3,7 @@
 ! Title: EasyList
 ! Last modified: 31 Mar 2026 16:13 UTC
 ! Expires: 4 days (update frequency)
-! Commit: f654fe7a3743719021cc2280dfd69179d946a9fc
+! Commit: 36f1ca6fa4605dba5d7d8f3ff27a97e955bd08a8
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -81873,6 +81873,7 @@ streetdirectory.com###offers_splash_screen
 gizbot.com###oi-custom-camp
 outlooktraveller.com###olkoverdiv
 nzherald.co.nz###oneroof_nzh_homepage
+majorgeeks.com###op1-ad
 kohls.com###open-drawer
 op.gg###opgg-kit-house-image-banner
 livestreamfails.com###oranum_livefeed_container_0
