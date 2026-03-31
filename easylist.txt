@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603311613
+! Version: 202603311614
 ! Title: EasyList
-! Last modified: 31 Mar 2026 16:13 UTC
+! Last modified: 31 Mar 2026 16:14 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 36f1ca6fa4605dba5d7d8f3ff27a97e955bd08a8
+! Commit: 28c7901b2f888e2deab0fc6227ad83f83eef2c84
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -88005,6 +88005,7 @@ kazwire.com##h3.tracking-widest
 drive.com.au##hr
 linkedin.com##iframe[componentkey$="_ad"]
 nordstrom.com##iframe[data-revjet-options]
+linkedin.com##iframe[height="250"][width="300"]
 pixiv.net##iframe[height="300"][name="responsive"]
 pixiv.net##iframe[height="520"][name="expandedFooter"]
 yourbittorrent.com##iframe[src]
