@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603312318
+! Version: 202603312319
 ! Title: Fanboy's Annoyance List
-! Last modified: 31 Mar 2026 23:18 UTC
+! Last modified: 31 Mar 2026 23:19 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 800a568f725af6835bcd5efc312e713e6c8c82db
+! Commit: f9bc3112040803dda14d237a5d146c070aeda6d2
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -45903,6 +45903,7 @@ calendar.2net.co.il###UseCookies
 citroen.co.il,dsautomobiles.co.il,maccabi4u.co.il,mg-israel.co.il,opel.co.il,peugeot.co.il###ZA_CAMP_BANNER_CONTAINER
 maccabi4u.co.il###ZA_CAMP_MOBILE_CONTAINER
 meitav.co.il,xnes.co.il###ZA_CAMP_SLIDEIN_CONTAINER
+glatiul.co.il###acb-consent
 myofer.co.il###bottom-toasts-layer
 lubinskitrade.co.il###ccm-cookie-banner
 cmotors.co.il###cm-consent-banner
