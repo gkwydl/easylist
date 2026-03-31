@@ -3,7 +3,7 @@
 ! Title: EasyList
 ! Last modified: 31 Mar 2026 10:19 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 54724ca14e5a7f8f25d85c86e7da93522198b182
+! Commit: 0ad18b06a5f31ba5dc249dda9f35900be56e6bee
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -66132,6 +66132,7 @@ browsershots.org#@#.advert_area
 ||wdbqwnmcptvy.com^
 ||wdbynoqnwlzzq.website^
 ||wdcwmeklhgnfc.xyz^
+||wdczlavbweeby.online^
 ||wderfvqphkzih.space^
 ||wdhymnxhxpgsn.space^
 ||wdibwgllvzies.love^
