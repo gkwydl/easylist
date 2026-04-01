@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604010806
+! Version: 202604010810
 ! Title: EasyList
-! Last modified: 01 Apr 2026 08:06 UTC
+! Last modified: 01 Apr 2026 08:10 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 54fbff7221eea17fa72ca73dba5a9ccf97d93f99
+! Commit: 81b622aa2f7f4b0c66b5c3bbb2d653d75e14fc5e
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -21332,6 +21332,7 @@ browsershots.org#@#.advert_area
 ||ceremonysystemsfried.com^
 ||cerilloinverts.com^
 ||cerisemoineauhaircut.cfd^
+||ceroidhugoisatid.cfd^
 ||cerosinsibylicdossier.cfd^
 ||certainwolveshonestly.com^
 ||certiechipsmiled.cyou^
@@ -24705,6 +24706,7 @@ browsershots.org#@#.advert_area
 ||demandedrucksackprivate.com^
 ||demanding-accident.pro^
 ||demanding-flight.com^
+||demanding-season.com^
 ||demandingnail.pro^
 ||demandingoverdriveunthread.com^
 ||demandrefreshment.com^
@@ -42178,6 +42180,7 @@ browsershots.org#@#.advert_area
 ||luckybasket.pro^
 ||luckydefinition.pro^
 ||luckyforbet.com^
+||luckypresentation.com^
 ||luckypushh.com^
 ||lucnxzoylxmvu.love^
 ||lucrinearraign.com^
