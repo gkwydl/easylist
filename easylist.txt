@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604011104
+! Version: 202604011108
 ! Title: EasyList
-! Last modified: 01 Apr 2026 11:04 UTC
+! Last modified: 01 Apr 2026 11:08 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 9fdd68aef82e026df1f45bd9a6130b622ed96dd7
+! Commit: a0d55734b9462b816aebf48c82f986b4e162d812
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -83676,6 +83676,7 @@ bhamnow.com##.bhamn-story
 investmentweek.co.uk##.bhide-768
 blackhatworld.com##.bhw-advertise-link
 blackhatworld.com##.bhw-banners
+apkaward.com##.bidgear728
 ipolitics.ca,qpbriefing.com##.big-box
 cbc.ca##.bigBoxContainer
 newzit.com##.big_WcxYT
@@ -83843,6 +83844,7 @@ htmldog.com##.bsa_it_ad
 arydigital.tv,barakbulletin.com##.bsac
 doge-faucet.com##.bspot
 businesstoday.in##.btPlyer
+apkaward.com##.btcccc
 indiatimes.com##.btf_ads
 cricwaves.com##.btm728
 snaptik.app##.btn-download-hd[data-ad="true"]
