@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604010409
+! Version: 202604010410
 ! Title: Fanboy's Annoyance List
-! Last modified: 01 Apr 2026 04:09 UTC
+! Last modified: 01 Apr 2026 04:10 UTC
 ! Expires: 4 days (update frequency)
-! Commit: d0a621af534756fb0799c6bea551fb17e2ca41c3
+! Commit: dbf2130687c9584caa2f55723e4c217a7e3ce33c
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -40779,6 +40779,7 @@ duelz.com##app-tiny-alert
 thomasnet.com##aside[data-sentry-component="CookieBanner"]
 essential.gg##banner-content
 cherytr.com,cine-max.sk##body .cc-nb-main-container
+fresha.com##body > div:has-text(cookies)
 facebook.com##body:not([style^="margin-bottom"]) div[data-testid="cookie-policy-banner"]
 community.nexthink.com##c-community-cookie-consent-banner
 success.trendmicro.com##c-dcx-cookie
