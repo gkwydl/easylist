@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604010216
+! Version: 202604010223
 ! Title: EasyList
-! Last modified: 01 Apr 2026 02:16 UTC
+! Last modified: 01 Apr 2026 02:23 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 63f581e2f0ab63a7888a3a859aa7d2b0b34e69bd
+! Commit: bee263dc0e622d351bd6bfe7d24c6c7d94aa169b
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -37575,6 +37575,7 @@ browsershots.org#@#.advert_area
 ||jaxzqimtstsez.space^
 ||jayantwhaling.shop^
 ||jayeshtistopsy.cfd^
+||jaypietombic.com^
 ||jayqbgfkdypmw.website^
 ||jaznthphugfwz.online^
 ||jaztjvsdxqxsu.website^
@@ -59506,6 +59507,7 @@ browsershots.org#@#.advert_area
 ||sufferwalkersilliness.com^
 ||suffocatefried.com^
 ||suffocateinnhandling.com^
+||sugamoscry.com^
 ||suganslurps.shop^
 ||sugarruse.com^
 ||suged.com^
@@ -59546,6 +59548,7 @@ browsershots.org#@#.advert_area
 ||sulfiterebias.cyou^
 ||sulkvulnerableexpecting.com^
 ||sulkweapon.com^
+||sullowspatio.com^
 ||sulphault.qpon^
 ||sultamscopet.cyou^
 ||sultrymomentarily.com^
