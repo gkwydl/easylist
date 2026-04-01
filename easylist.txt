@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604011051
+! Version: 202604011102
 ! Title: EasyList
-! Last modified: 01 Apr 2026 10:51 UTC
+! Last modified: 01 Apr 2026 11:02 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 127dc69ce3fbe6511a871a41fe6090d4b838aa8f
+! Commit: 8f6d3bb3efd3e2e8deae3c2ea4160e98a6f3bb24
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -20668,6 +20668,7 @@ browsershots.org#@#.advert_area
 ||bureauxcope.casa^
 ||burerosolio.cfd^
 ||burgersscathy.qpon^
+||burglargiggleportion.com^
 ||burglarycirculationintense.com^
 ||burgsmithra.cfd^
 ||burialhotter.com^
@@ -48133,6 +48134,7 @@ browsershots.org#@#.advert_area
 ||oqrnjlyyqdhih.website^
 ||oqtxcfuumplee.website^
 ||oquaysx.club^
+||oqwgdahcmctpey.com^
 ||oqwyltgrpaeow.online^
 ||oqxpfydvttruz.site^
 ||oqyebtnuafqkb.site^
