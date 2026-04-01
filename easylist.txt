@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604012130
+! Version: 202604012135
 ! Title: EasyList
-! Last modified: 01 Apr 2026 21:30 UTC
+! Last modified: 01 Apr 2026 21:35 UTC
 ! Expires: 4 days (update frequency)
-! Commit: acc3bb8fc7b058793be390eb4172f0768efb13db
+! Commit: acdf63e7a77817c2168e82d2859cb54b36c461b6
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -63626,6 +63626,7 @@ browsershots.org#@#.advert_area
 ||unhhxqsvirudt.online^
 ||unhivjqsbpvdg.space^
 ||unhotpockily.help^
+||unhuedloviers.qpon^
 ||unicingmennuet.qpon^
 ||unicornpride123.com^
 ||unidentifiedrelatecalled.com^
@@ -69968,6 +69969,7 @@ browsershots.org#@#.advert_area
 ||yulansdiguezorille.cfd^
 ||yumenetworks.com^
 ||yummiesdaukin.cyou^
+||yummy-boy.pro^
 ||yummy-month.com^
 ||yummyadvertiseexploded.com^
 ||yummymembership.com^
