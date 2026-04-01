@@ -3,7 +3,7 @@
 ! Title: EasyList
 ! Last modified: 01 Apr 2026 11:04 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 9403b63020ff96a6925afe6035193a3ecdd09111
+! Commit: 9fdd68aef82e026df1f45bd9a6130b622ed96dd7
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -83030,6 +83030,7 @@ drive.com.au##.adSpacing-module-scss-module__5jWT7q__drive-ad-spacing
 drive.com.au##.adSpacing_drive-ad-spacing__HdaBg
 dailyo.in##.adWrapp
 romper.com##.adWrapper
+barrons.com##.adWrapperNativeFlow
 barrons.com##.adWrapperTopLead
 forecast7.com##.ad[align="center"]
 m.thewire.in##.ad_20
@@ -84336,6 +84337,7 @@ dailyvoice.com##.e-freestar-video-container
 dailyvoice.com##.e-nativo-container
 op.gg##.e17e77tq6
 op.gg##.e17e77tq8
+barrons.com##.e1fy147d2
 nytimes.com##.e1xxpj0j1.css-4vtjtj
 techonthenet.com##.e388ecbd
 arabtimesonline.com,independent.co.ug,udaipurkiran.com##.e3lan
@@ -85228,6 +85230,7 @@ ottverse.com##.livevideostack-ad
 leftlion.co.uk##.ll-ad
 vice.com##.lngtd-dynamic-rr
 dayspring.com##.loading-mask
+barrons.com##.locationL
 reverso.net##.locd-rca
 torrentleech.org##.login-banner
 siberiantimes.com##.logoBanner
