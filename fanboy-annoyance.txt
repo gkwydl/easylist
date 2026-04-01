@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604010403
+! Version: 202604010405
 ! Title: Fanboy's Annoyance List
-! Last modified: 01 Apr 2026 04:03 UTC
+! Last modified: 01 Apr 2026 04:05 UTC
 ! Expires: 4 days (update frequency)
-! Commit: b3d81bcaae0c2346df22c1d134d4a4aeeb68657a
+! Commit: e03e300b32b20373a565ee8f89601d3a9afd5c59
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -41861,10 +41861,9 @@ bcgame.lu#?#.bottom-16.fixed:has-text(We use cookies)
 beaumontenterprise.com,chron.com,ctpost.com,expressnews.com,greenwichtime.com,houstonchronicle.com,lmtonline.com,manisteenews.com,michigansthumb.com,middletownpress.com,mrt.com,myjournalcourier.com,myplainview.com,mysanantonio.com,nhregister.com,ourmidland.com,registercitizen.com,sfchronicle.com,sfgate.com,stamfordadvocate.com,theintelligencer.com#?#.bg-white.b-gray600.tpa:has-text(We use technologies that provide information)
 betsson.com#?#.cdk-overlay-pane:has-text(We use cookies)
 bing.com#?#.b_hPanel:has-text(Terms of Use)
-bitbucket.org,chat.mistral.ai#?#[role="dialog"]:has-text(cookies)
+bitbucket.org,canva.com,chat.mistral.ai#?#[role="dialog"]:has-text(/cookie/i)
 moebelix.at##body > div > div:has(#jentis_consent)
 boomlify.com#?#div > div:has-text(We use cookies to improve your experience.)
-canva.com#?#[role="dialog"]:has-text(/cookie/i)
 capcut.com#?#.box-PQtsNf:has-text(Privacy Policy)
 capcut.com#?#.box-beCrD2:has-text(cookies)
 chatgpt.com#?#.md\:px-\[60px\]:has-text(By messaging ChatGPT)
@@ -47250,7 +47249,6 @@ life-webmaster.ru##.div152
 love.mail.ru##.dnQAZn.sc-iFMAoI
 bbcrussian.com##.e1nbsi9l0
 rutube.ru##.eu-cookie-popup-module__eu_cookie_popup
-v1.yaoilib.net##.ey_ez:has-text(cookie)
 7d.ru,bisexual.ru,datingspace.ru,idating.ru,love-tomsk.ru,love.am,lovegio.ru,mamba.ru,missingheart.ru,znakomstvagood.ru,znakomstve.ru##.fTqTJk
 ru.4game.ru##.fcw-wrap-ru
 wildberries.ru##.fixed-block__cookies
@@ -47421,6 +47419,7 @@ mvideo.ru##mvid-cookie-notification
 postnauka.ru##notifications
 remontnik.ru##rtk-cookies-notice
 kion.ru##ui-web-alert
+v1.yaoilib.net#?#.ey_ez:has-text(cookie)
 ! 
 ! ---------- Serbian ----------
 ! 
