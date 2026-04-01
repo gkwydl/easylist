@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604010411
+! Version: 202604010415
 ! Title: Fanboy's Annoyance List
-! Last modified: 01 Apr 2026 04:11 UTC
+! Last modified: 01 Apr 2026 04:15 UTC
 ! Expires: 4 days (update frequency)
-! Commit: d21d409c78170138509eabbc4a8e52b8079690f5
+! Commit: 19afe85dacf22ce5f52eb2c2d8e48456f0bc9ccf
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -45975,7 +45975,7 @@ ksp.co.il##.rtl-1075xo6
 letlive.org.il##.site-consent-banner
 cts.co.il##.upnext-cookie-notice
 dominos.co.il##[class^="CloseableDisclaimer_"]
-dynamica.co.il,kfar.co.il,wineandmore.co.il##[class^="cookiesPopup"]
+dynamica.co.il,kfar.co.il,wineandmore.co.il,workimhi.co.il##[class^="cookiesPopup"]
 alljobs.co.il##[id^="ZA_CAMP_BUBBLE_CONTAINER_CID_"]
 lastminute.co.il##app-notifications-container
 iec.co.il##app-sticky-banner
