@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604010804
+! Version: 202604010806
 ! Title: EasyList
-! Last modified: 01 Apr 2026 08:04 UTC
+! Last modified: 01 Apr 2026 08:06 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 36dd12948557599f3512cd12e6de429c64043a12
+! Commit: 54fbff7221eea17fa72ca73dba5a9ccf97d93f99
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -63550,6 +63550,7 @@ browsershots.org#@#.advert_area
 ||unlordsarans.cfd^
 ||unluckasserta.com^
 ||unlucky-chemical.pro^
+||unlucky-increase.com^
 ||unluckydoubt.com^
 ||unluckygirl.pro^
 ||unluckyrecent.com^
