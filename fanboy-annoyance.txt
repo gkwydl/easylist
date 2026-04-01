@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604010418
+! Version: 202604010419
 ! Title: Fanboy's Annoyance List
-! Last modified: 01 Apr 2026 04:18 UTC
+! Last modified: 01 Apr 2026 04:19 UTC
 ! Expires: 4 days (update frequency)
-! Commit: a088eb4f221e40ba74031ff8f7868042fffec416
+! Commit: 67a5d99b60e69a376c958c2f6251830884dbfc1a
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -41045,7 +41045,7 @@ agados.cz,allmyfaves.com,charlesandcolvard.com,concert.ua,delfortgroup.com,githu
 ! ! .cookie-consent-popup
 015.co.il,almaviva.it,cos.com,expireddomains.com,gcli.li,hm.com##.cookie-consent-popup
 ! ! #cookie-consent-popup
-bagina.co.il,finam.ru,halalit.co.il,pccenter.co.il,rsm.co.il,shop-now14.co.il,zulacasino.com###cookie-consent-popup
+bagina.co.il,finam.ru,halalit.co.il,pccenter.co.il,rsm.co.il,shop-now14.co.il,vero-cafe.co.il,zulacasino.com###cookie-consent-popup
 ! ! .cookiebar
 ammeraalbeltech.com,asst-lecco.it,community.dyson.com,community.jamf.com,mahle-aftermarket.com,mega-monheim.de,nautadutilh.com,purejingles.com,sigmanet.lv,trtcocuk.net.tr,um.edu.mt##.cookiebar
 ! ! #cliSettingsPopup
