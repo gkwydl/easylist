@@ -3,7 +3,7 @@
 ! Title: Fanboy's Annoyance List
 ! Last modified: 01 Apr 2026 03:56 UTC
 ! Expires: 4 days (update frequency)
-! Commit: b412ee795eec379129238d548eb7c33e32deeb81
+! Commit: 811ff3cb8035fdbf79242061cfffd08713124592
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -47249,6 +47249,7 @@ life-webmaster.ru##.div152
 love.mail.ru##.dnQAZn.sc-iFMAoI
 bbcrussian.com##.e1nbsi9l0
 rutube.ru##.eu-cookie-popup-module__eu_cookie_popup
+v1.yaoilib.net##.ey_ez:has-text(cookie)
 7d.ru,bisexual.ru,datingspace.ru,idating.ru,love-tomsk.ru,love.am,lovegio.ru,mamba.ru,missingheart.ru,znakomstvagood.ru,znakomstve.ru##.fTqTJk
 ru.4game.ru##.fcw-wrap-ru
 wildberries.ru##.fixed-block__cookies
