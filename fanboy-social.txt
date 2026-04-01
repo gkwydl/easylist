@@ -3,7 +3,7 @@
 ! Title: Fanboy's Social Blocking List
 ! Last modified: 01 Apr 2026 19:34 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 926d7fa01db35524315d69977e2070277284129c
+! Commit: 5262e9ffa7ad9a88625615934bf292738743ea6c
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
