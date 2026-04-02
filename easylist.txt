@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604020918
+! Version: 202604020919
 ! Title: EasyList
-! Last modified: 02 Apr 2026 09:18 UTC
+! Last modified: 02 Apr 2026 09:19 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 63a20609bb0cb2e351f16c1cfadf2a8c4b78e8b1
+! Commit: 6bfae8534d121f89ee7cc8bfb2425c366eff14b1
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -91657,9 +91657,7 @@ gamcore.com##li.d-md-block > a[rel]
 @@||zeebiz.com/ads/$image,~third-party
 @@||zohopublic.com^*/ADManager_$subdocument,xmlhttprequest,domain=manageengine.com|zohopublic.com
 ! Webcompat fixes (Avoid any potential filters being applied to non-ad domains)
-@@||bing.com^$generichide
 @@||challenges.cloudflare.com/turnstile/$script
-@@||gmail.com^$generichide
 @@||google.com/recaptcha/$csp,subdocument
 @@||google.com/recaptcha/api.js
 @@||google.com/recaptcha/api2/
@@ -91683,6 +91681,7 @@ gamcore.com##li.d-md-block > a[rel]
 @@||adsmanager.facebook.com^$generichide
 @@||apple.com^$generichide
 @@||atlassian.net^$generichide
+@@||bing.com^$generichide
 @@||bitbucket.org^$generichide
 @@||browserbench.org^$generichide
 @@||builder.io^$generichide
@@ -91715,6 +91714,7 @@ gamcore.com##li.d-md-block > a[rel]
 @@||github.com^$generichide
 @@||github.io^$generichide
 @@||gitlab.com^$generichide
+@@||gmail.com^$generichide
 @@||icloud.com^$generichide
 @@||instagram.com^$generichide
 @@||instapundit.com^$generichide
