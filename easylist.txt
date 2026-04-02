@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604021602
+! Version: 202604021603
 ! Title: EasyList
-! Last modified: 02 Apr 2026 16:02 UTC
+! Last modified: 02 Apr 2026 16:03 UTC
 ! Expires: 4 days (update frequency)
-! Commit: e1ab1f1d0e6ddbda2510b23074eddaef28487fb8
+! Commit: 4ca360024328f80710d21443777247363697213d
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -81401,6 +81401,7 @@ $popup,domain=07c225f3.online|content-loader.com|css-load.com|html-load.cc|html-
 ||xfree.com/api/banner/
 ||xgirls.agency/pg/c/
 ||xgroovy.com/65
+||xgroovy.com/bid?
 ||xgroovy.com/static/js/script.js
 ||xhaccess.com^*/vast?
 ||xhamster.com*/vast?
@@ -90666,6 +90667,7 @@ amateur8.com##.is-av
 internationalsexguide.nl,usasexguide.nl##.isg_background_border_banner
 internationalsexguide.nl,usasexguide.nl##.isg_banner
 e-hentai.org##.itd[colspan="4"]
+xgroovy.com##.item-bnr
 fetishshrine.com##.item-holder
 amateurporn.me,eachporn.com##.item[style]
 drtuber.com##.item_spots
