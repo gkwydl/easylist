@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604021507
+! Version: 202604021514
 ! Title: EasyList
-! Last modified: 02 Apr 2026 15:07 UTC
+! Last modified: 02 Apr 2026 15:14 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 1f2adf850fd4f318c5a13e3668bf15b923277451
+! Commit: 3c1b05b2d252ea26142ab0ed83a0c704a95cb2c0
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -30352,6 +30352,7 @@ browsershots.org#@#.advert_area
 ||forfrogadiertor.com^
 ||forgabwoken.qpon^
 ||forgavedisciplinetolerance.com^
+||forgedmuthunbody.cyou^
 ||forgerydigger.help^
 ||forgetfulpromptlyappointment.com^
 ||forgetfulspidersantiquity.com^
@@ -51289,6 +51290,7 @@ browsershots.org#@#.advert_area
 ||ppwbhkekhjhch.store^
 ||ppwkgmwwqfytb.website^
 ||ppwknzdoicgkd.website^
+||ppxduwgzlimie.website^
 ||ppxlrnkzklkxa.site^
 ||ppxomldexqmxf.online^
 ||ppxoriqrmrkcq.website^
@@ -67424,6 +67426,7 @@ browsershots.org#@#.advert_area
 ||wjdgtcuulylbi.website^
 ||wjebboljovkwr.top^
 ||wjebpqmmfkpvk.space^
+||wjefqoj3i8t9zi.rest^
 ||wjegjhewfhtlq.online^
 ||wjeuontsuwnxy.website^
 ||wjghanngbilui.space^
