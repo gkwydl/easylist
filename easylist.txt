@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604020058
+! Version: 202604020106
 ! Title: EasyList
-! Last modified: 02 Apr 2026 00:58 UTC
+! Last modified: 02 Apr 2026 01:06 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 72c5332a295019d3a6513f287ea9032961353ad5
+! Commit: 966a72fa5bb4b0c9a89f597bc9051bd24a55ab0a
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -30183,6 +30183,7 @@ browsershots.org#@#.advert_area
 ||foflib.org^
 ||fogeyssinopieofflet.cyou^
 ||foggageskaff.com^
+||foggiergriper.cyou^
 ||foggilytraps.cfd^
 ||foghug.site^
 ||foglesai.cfd^
@@ -33159,6 +33160,7 @@ browsershots.org#@#.advert_area
 ||gtiqupisxnouh.site^
 ||gtjeawhxitoad.space^
 ||gtjjppgduvobm.online^
+||gtjlksukihn.com^
 ||gtk65j4boptqk6w83hk.cfd^
 ||gtlmblpvpirgj.site^
 ||gtlykyvizfrui.space^
@@ -43500,6 +43502,7 @@ browsershots.org#@#.advert_area
 ||metinsmaze.qpon^
 ||metnngumcmgxr.site^
 ||metothepointa.com^
+||metradasheen.shop^
 ||metredesculic.com^
 ||metrefluke.com^
 ||metreoutlet.com^
@@ -47985,6 +47988,7 @@ browsershots.org#@#.advert_area
 ||onymebonise.qpon^
 ||onymitydeduce.cfd^
 ||onymouswawahavocat.cfd^
+||onymyvallum.cyou^
 ||onyxesredug.cyou^
 ||onzggvpppnbqbe.com^
 ||ooawsxkdrm.club^
@@ -48465,6 +48469,7 @@ browsershots.org#@#.advert_area
 ||otdnnpfnqinil.space^
 ||oteafkcfrlbmf.space^
 ||oteblowdxltre.online^
+||otfabzdful.in^
 ||otfkqgfpcsnhi.website^
 ||otfygdzebcjme.space^
 ||otgyufesofpmu.online^
@@ -48907,6 +48912,7 @@ browsershots.org#@#.advert_area
 ||oxrqbdaslqcek.space^
 ||oxrzdqocyqzus.website^
 ||oxshgkbicsayq.website^
+||oxshoeaerosatsongs.cyou^
 ||oxstjmmbgenpw.website^
 ||oxsvddrogqvwm.website^
 ||oxsvzahp.in^
@@ -57534,6 +57540,7 @@ browsershots.org#@#.advert_area
 ||shpyxmtsqnsay.space^
 ||shqbsdjatunl.com^
 ||shqjickefiglh.website^
+||shraveymycosis.shop^
 ||shrdnhpmggghh.site^
 ||shredassortmentmood.com^
 ||shrewdnarrative.com^
@@ -58557,6 +58564,7 @@ browsershots.org#@#.advert_area
 ||sottermufasal.qpon^
 ||sotweedreplial.cyou^
 ||sotyolhnvfkjqbs.xyz^
+||souchystrands.shop^
 ||soucvnbylfpxu.online^
 ||soudansclaudegobi.cfd^
 ||soueegewhorled.qpon^
@@ -60142,6 +60150,7 @@ browsershots.org#@#.advert_area
 ||sybilevolver.shop^
 ||sybspipmmiozz.online^
 ||syceedepend.qpon^
+||sycesunovert.cyou^
 ||sycheeyustaga.qpon^
 ||sycockpeelers.cfd^
 ||sycomaun.qpon^
