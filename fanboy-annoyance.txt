@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604031015
+! Version: 202604031018
 ! Title: Fanboy's Annoyance List
-! Last modified: 03 Apr 2026 10:15 UTC
+! Last modified: 03 Apr 2026 10:18 UTC
 ! Expires: 4 days (update frequency)
-! Commit: b0ba0f13ec7daf055b97c86c318139be32d33c27
+! Commit: d8888e73eecc82c6f5746ddc18dbcd3060579a16
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -31966,7 +31966,7 @@ twitter.com,x.com##aside[role="complementary"]:has(> a[href="/i/premium_sign_up"
 blitz.gg##div[class]:has(> .placeholder > [href^="/pro?utm_"])
 deviantart.com##div[role="complementary"] > div[class]:has(> div > iframe[title="DealerAdIframe"])
 ign.com#?#.promo-card:has-text(/Become a member|IGN Plus|IGN Store/)
-! :-abp-contains
+! :has-text
 aeon.co#?#.print\:hidden.mb-9:has-text(I would like to donate)
 aeon.co#?#.z-900:has-text(Join more than)
 asuracomic.net#?#.p-4.z-50:has-text(Upgrade to)
@@ -31995,6 +31995,7 @@ washingtonmonthly.com#?#.wp-block-group__inner-container:has-text(Support the Wa
 weather.com#?#.min-h-12:has-text(Sign in to see fewer ads)
 wired.com#?#.table-container:has-text(Got a Tip?)
 woolworths.co.nz#?#cdx-cta:has-text(Learn more)
+yalereview.org#?#.lg\:border-b-2:has-text(Support Our Commitment to Print)
 ! google popups
 chromewebstore.google.com##[role="dialog"][aria-labelledby="promo-header"]
 chromewebstore.google.com#?#[aria-label="Info"]:has-text(Switch to Chrome)
