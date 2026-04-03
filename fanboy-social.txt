@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604031002
+! Version: 202604031004
 ! Title: Fanboy's Social Blocking List
-! Last modified: 03 Apr 2026 10:02 UTC
+! Last modified: 03 Apr 2026 10:04 UTC
 ! Expires: 4 days (update frequency)
-! Commit: a26b938bd640defc6a709c343a3cc3d1ae933331
+! Commit: 0e3540dc1ead969daa335096e35bdd3b8a2cdfe7
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -10898,7 +10898,6 @@ overwolf.com##.creator-social
 retire.ly##.cs-footer-social-links
 euromaidanpress.com##.cs-meta-google-news
 bloomberg.com##.css--social-wrapper-outer
-economist.com##.css-11yt5xn
 chatelaine.com##.css-1nfrk0o-ShareButtons
 chatelaine.com##.css-1uko8nb-ShareButtons
 onedayonly.co.za##.css-p1ns9f
@@ -10924,7 +10923,6 @@ dailymail.co.uk##.dms-puff
 aciafrica.org,aciafrique.org,acidigital.com,acimena.com,aciprensa.com,acistampa.com,catholicnewsagency.com##.donation-box
 thefitcareerist.com,thewalrus.ca##.dpsp-network-list-item
 dropbox.tech##.dr-article-content__social-links
-economist.com##.ds-actioned-link--share
 theverge.com,vox.com##.duet--article--share-buttons
 conservativewoman.co.uk##.dvk-social-sharing
 dailyboulder.com,echonewshub.com,jugomobile.com,thartribune.com,thegamepost.com,townflex.com##.e-shared-sec
