@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604030155
+! Version: 202604030202
 ! Title: EasyList
-! Last modified: 03 Apr 2026 01:55 UTC
+! Last modified: 03 Apr 2026 02:02 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 8addbe3dd52b548de3a5cd1026746ae725e453b8
+! Commit: e1f293a884d513e10b6022757aacf168c665326d
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18343,6 +18343,7 @@ browsershots.org#@#.advert_area
 ||ardrifoemen.cfd^
 ||arduouschitose.cyou^
 ||areasnap.com^
+||areekwiney.com^
 ||areelwefteddwined.cyou^
 ||aretfleechprotura.cyou^
 ||arglingpistole.com^
@@ -26443,6 +26444,7 @@ browsershots.org#@#.advert_area
 ||duospeeds.qpon^
 ||duplifybultey.qpon^
 ||duptoordoat.net^
+||duqelnlygawpx.com^
 ||duqluquxvoijx.site^
 ||duragyntvdcxs.space^
 ||duregqgfvravp.space^
@@ -37235,6 +37237,7 @@ browsershots.org#@#.advert_area
 ||ischurysannups.cfd^
 ||isddxebre.com^
 ||isdfsxyjt.com^
+||isdwacjba.com^
 ||iseawave.com^
 ||isedacknew.cyou^
 ||isfoykwznkiqd.site^
@@ -51814,6 +51817,7 @@ browsershots.org#@#.advert_area
 ||propellerads.com^
 ||propellerads.tech^
 ||propellerclick.com^
+||properashcakestonen.qpon^
 ||propertyofnews.com^
 ||propertyswordmuttering.com^
 ||propgoservice.com^
@@ -61985,6 +61989,7 @@ browsershots.org#@#.advert_area
 ||toopsoug.net^
 ||tooshascidiabegged.cfd^
 ||toostaupsoobaul.net^
+||tootersilysia.com^
 ||toothbless.com^
 ||toothbrushascertainhelped.com^
 ||tooththoued.cfd^
