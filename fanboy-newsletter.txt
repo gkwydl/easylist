@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604030955
+! Version: 202604030957
 ! Title: Fanboy's Anti-Newsletter List
-! Last modified: 03 Apr 2026 09:55 UTC
+! Last modified: 03 Apr 2026 09:57 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 37b1b77fffe4227cf542bb7b8d34aad61931af42
+! Commit: 6e4e9e125bbdc6bdbc76a6c8ee299eafc12afc4d
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -2374,9 +2374,9 @@ euromaidanpress.com##.cs-row-top
 aerotime.aero,foreigndesknews.com,hackread.com##.cs-site-subscribe
 evmagz.com##.cs-subscribe
 patch.com##.css-1at62qq
-zecar.com##.css-1l59vvo
 fashionmagazine.com##.css-1l5w1v0-NewsletterSignup
 scientificcoder.com##.css-e2xo3p
+zecar.com##.css-er318f
 bet.com##.css-mha66v-Box-Flex-StyledNewsletterLayout
 gwr.com##.css-pfotuc
 chatelaine.com##.css-zk005z-NewsletterSignup
