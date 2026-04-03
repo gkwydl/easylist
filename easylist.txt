@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604030957
+! Version: 202604031002
 ! Title: EasyList
-! Last modified: 03 Apr 2026 09:57 UTC
+! Last modified: 03 Apr 2026 10:02 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 6e4e9e125bbdc6bdbc76a6c8ee299eafc12afc4d
+! Commit: a26b938bd640defc6a709c343a3cc3d1ae933331
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -84020,7 +84020,7 @@ decrypt.co##.aspect-video
 postandcourier.com,theadvocate.com##.asset-breakout-ads
 macleans.ca##.assmbly-ad-block
 chatelaine.com##.assmbly-ad-text
-fashionmagazine.com##.assmbly-ad-wrapper
+chatelaine.com,fashionmagazine.com##.assmbly-ad-wrapper
 releasestv.com##.ast-above-header-wrap
 attitude.co.uk##.at-advert
 animalcrossingworld.com##.at-sidebar-1
