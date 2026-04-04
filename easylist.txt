@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604040902
+! Version: 202604040905
 ! Title: EasyList
-! Last modified: 04 Apr 2026 09:02 UTC
+! Last modified: 04 Apr 2026 09:05 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 10184afc92786b81e22f637b20dc042de5e7df33
+! Commit: 38b95636247963db26102e8d91511414677b46fd
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -59144,6 +59144,7 @@ browsershots.org#@#.advert_area
 ||spcwtcizsymxf.site^
 ||spdate.com^
 ||spdxmrvxh.net^
+||speakclash.com^
 ||speakinkier.cfd^
 ||speakmalthe.com^
 ||special-offers.online^
@@ -62234,6 +62235,7 @@ browsershots.org#@#.advert_area
 ||tootersilysia.com^
 ||toothbless.com^
 ||toothbrushascertainhelped.com^
+||toothbrushsucceedsilent.com^
 ||tooththoued.cfd^
 ||tootlesjawfish.cyou^
 ||toourmarketingef.org^
@@ -65203,6 +65205,7 @@ browsershots.org#@#.advert_area
 ||valuedfingerdrive.com^
 ||valueinaudible.com^
 ||valuerabjure.com^
+||valuerportray.com^
 ||valuesuffering.com^
 ||valueswajangsplotch.cyou^
 ||valuethemarkets.info^
