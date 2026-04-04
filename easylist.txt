@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604041355
+! Version: 202604041402
 ! Title: EasyList
-! Last modified: 04 Apr 2026 13:55 UTC
+! Last modified: 04 Apr 2026 14:02 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 69b7a5ca4d82a1aa776647491812e5f0781dc94a
+! Commit: eb94664ae359e508ea475c0c7339bf4095747cb6
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -35236,6 +35236,7 @@ browsershots.org#@#.advert_area
 ||houwastoay.net^
 ||houzithoashee.net^
 ||houzousuptul.net^
+||hovelerhazedastrict.cyou^
 ||hoveltran.xyz^
 ||how-t0-wtch.com^
 ||howcircus.com^
@@ -65750,6 +65751,7 @@ browsershots.org#@#.advert_area
 ||vhova.com^
 ||vhqckgqozinmj.website^
 ||vhqdzoxpepcem.store^
+||vhqoiuiacnbchi.com^
 ||vhtwlxsun.com^
 ||vhubnllmwrsyp.site^
 ||vhudklvi.com^
