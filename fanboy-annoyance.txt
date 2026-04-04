@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604041329
+! Version: 202604041331
 ! Title: Fanboy's Annoyance List
-! Last modified: 04 Apr 2026 13:29 UTC
+! Last modified: 04 Apr 2026 13:31 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 1ebc9cb52a905081214346366910c3efef6cc2ef
+! Commit: 04c762708914a7393339995d717c8be1e9434f4b
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -33563,6 +33563,7 @@ catchnews.com###rsidebar-subscribe
 carmyy.com,culinaryhill.com,diethood.com,houseofnasheats.com,iheartrecipes.com,justataste.com,lexiscleankitchen.com,lilluna.com,littlespoonfarm.com,sugarandsoul.co,thesuburbansoapbox.com,whatsgabycooking.com###savetherecipe
 save.ca###savingSignupWidget
 toofab.com###sbnewsletter-signup-wrap
+remarkable.com###section-4
 bankinfosecurity.com###section-newsletter-blk
 12tomatoes.com###sg_email
 doverstreetmarket.com###shopify-section-newsletter-banner
