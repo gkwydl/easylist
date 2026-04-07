@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604070200
+! Version: 202604070201
 ! Title: EasyList
-! Last modified: 07 Apr 2026 02:00 UTC
+! Last modified: 07 Apr 2026 02:01 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 7047ec6dc1d4e16a296ee5555ef9b11c5ef14a72
+! Commit: 1bcf2a3a7fc99978f686198e817ef3188fd0502c
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -54532,6 +54532,7 @@ browsershots.org#@#.advert_area
 ||rvanquuezropi.website^
 ||rvbmvjzymhmai.website^
 ||rvbnqojv.com^
+||rvcbrsllxhfi.com^
 ||rvcujojwytaed.site^
 ||rvddgeuqhxfvu.website^
 ||rvdgseeglu.com^
@@ -57386,6 +57387,7 @@ browsershots.org#@#.advert_area
 ||spihvffsoskwlg.com^
 ||spijmwsbvc.net^
 ||spijmwsbvc.xyz^
+||spikerarioian.com^
 ||spikestanak.qpon^
 ||spikingblebs.qpon^
 ||spikypandas.cfd^
@@ -58096,6 +58098,7 @@ browsershots.org#@#.advert_area
 ||stranybanchipiannet.cyou^
 ||stratasflexors.qpon^
 ||strataview.co.in^
+||strawliquateblain.cfd^
 ||strayerchordal.com^
 ||strayerplonks.qpon^
 ||strdmm.cc^
