@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604082107
+! Version: 202604082113
 ! Title: EasyList
-! Last modified: 08 Apr 2026 21:07 UTC
+! Last modified: 08 Apr 2026 21:13 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 20a7d0016ec9a495075ee01de2ceae6486df8197
+! Commit: e84bcbe801806a181a73c18e0e3c69b916455ae1
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -41222,6 +41222,7 @@ browsershots.org#@#.advert_area
 ||mustytransition.pro^
 ||mutablyfuehrer.cyou^
 ||mutantsvinew.qpon^
+||mutaseamatory.qpon^
 ||mutcheng.net^
 ||mutedpoetry.com^
 ||mutenessdollyheadlong.com^
@@ -59007,6 +59008,7 @@ browsershots.org#@#.advert_area
 ||truiedqxeixlt.site^
 ||truigugrwqguh.store^
 ||truishstep.cfd^
+||trullolecyth.shop^
 ||trulyfakes.qpon^
 ||trulysuitedcharges.com^
 ||trumanymcapiggle.cyou^
