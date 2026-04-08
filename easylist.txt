@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604081726
+! Version: 202604081740
 ! Title: EasyList
-! Last modified: 08 Apr 2026 17:26 UTC
+! Last modified: 08 Apr 2026 17:40 UTC
 ! Expires: 4 days (update frequency)
-! Commit: df09c801decb4e619eb05fde5d01f354a867b0d1
+! Commit: 7a0f4c7e2a3a3020ddc5a4606993053dfebce0a6
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19592,6 +19592,7 @@ browsershots.org#@#.advert_area
 ||bemoltconopid.shop^
 ||bemottoincord.com^
 ||benamednidulus.cyou^
+||benatrogon.qpon^
 ||benchsuited.com^
 ||bendaysroit.com^
 ||beneficial-airport.pro^
@@ -62113,6 +62114,7 @@ browsershots.org#@#.advert_area
 ||vipads.live^
 ||vipavkacrfujf.online^
 ||vipcbtwvdabun.site^
+||vipdine.space^
 ||vipdragonapp.monster^
 ||viperishly.com^
 ||vipersuccessfullygoblet.com^
