@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604080050
+! Version: 202604080057
 ! Title: EasyList
-! Last modified: 08 Apr 2026 00:50 UTC
+! Last modified: 08 Apr 2026 00:57 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 1cd5b9e9761ccf3a3031197d923e4d3b3d0a3daf
+! Commit: 40400e87cabb158275fe5719e0f6da57cf80852e
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -74439,6 +74439,7 @@ browsershots.org#@#.advert_area
 ||js.mangalove.top^
 ||js.mangaraw.bid^
 ||js.phoenixmanga.com^
+||js.rev.iq^
 ||js.surecart.com/v1/affiliates?
 ||jsdelivr.net/gh/InteractiveAdvertisingBureau/
 ||jsdelivr.net/gh/qxomer/reklam@master/reklam.js
@@ -84788,6 +84789,7 @@ genius.com##div[class^="DfpAd__Container-"]
 dailymotion.com##div[class^="DisplayAd"]
 games.dailymail.co.uk,nba.com##div[class^="DisplayAd_"]
 games.dailymail.co.uk##div[class^="GameTemplate__displayAdTop_"]
+tomato.gg##div[class^="GenericPage__VerticalAdslotContainer"]
 benzinga.com##div[class^="GoogleAdBlock_"]
 allradio.net##div[class^="GoogleAdsenseContainer_"]
 livescore.com##div[class^="HeaderAdsHolder_"]
