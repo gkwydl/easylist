@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604082258
+! Version: 202604082304
 ! Title: EasyList
-! Last modified: 08 Apr 2026 22:58 UTC
+! Last modified: 08 Apr 2026 23:04 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 19504ec63d48fdb23fd7b9314e75098c10712f13
+! Commit: dee0e67a91bc1c01ca0425eb825bc4360843f1ae
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -31337,6 +31337,7 @@ browsershots.org#@#.advert_area
 ||humblerenamour.com^
 ||humblietucanonife.cfd^
 ||humflingenmity.com^
+||humhpdxpqau.com^
 ||humiliatedbreeches.com^
 ||humiliatemoot.com^
 ||humiliating-feature.pro^
@@ -49687,6 +49688,7 @@ browsershots.org#@#.advert_area
 ||quackoutsee.cyou^
 ||quackupsilon.com^
 ||quagfa.com^
+||quaggyopeluoxter.qpon^
 ||quahaugpflag.cfd^
 ||quailsspoony.cyou^
 ||quaintbitter.com^
