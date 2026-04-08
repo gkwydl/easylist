@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604080925
+! Version: 202604080927
 ! Title: EasyList
-! Last modified: 08 Apr 2026 09:25 UTC
+! Last modified: 08 Apr 2026 09:27 UTC
 ! Expires: 4 days (update frequency)
-! Commit: d2bcc40083483c225585e818a3951832a3e85cc3
+! Commit: 779d5b57c7d852d521fb85f5ba1b63cffa8e03eb
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -23562,6 +23562,7 @@ browsershots.org#@#.advert_area
 ||dannystairhuspel.cyou^
 ||dantaradiohd.net^
 ||dantbritingd.club^
+||danteobject.shop^
 ||danzhallfes.com^
 ||daobaalzioctx.online^
 ||daoxwkgrfjayp.site^
@@ -40409,6 +40410,7 @@ browsershots.org#@#.advert_area
 ||modern-crew.com^
 ||modernjingleshoes.com^
 ||modernsubject.pro^
+||modestriver.com^
 ||modificationdesignate.com^
 ||modificationdispatch.com^
 ||modifiedfloatvest.com^
@@ -53048,6 +53050,7 @@ browsershots.org#@#.advert_area
 ||scarpedquartanrunes.qpon^
 ||scarphwaxingsalemana.cyou^
 ||scarthpuce.cyou^
+||scarvedunwitty.qpon^
 ||scarvesrepaid.com^
 ||scary-ice.pro^
 ||scarycarriedgoniale.cfd^
