@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604081122
+! Version: 202604081125
 ! Title: EasyList
-! Last modified: 08 Apr 2026 11:22 UTC
+! Last modified: 08 Apr 2026 11:25 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 2c895bfeb8c51b3516ff46a1cf8abe04a8923cba
+! Commit: 9f2951295d93444b45a2fde30fba736b762ecb7d
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -85370,6 +85370,7 @@ douglas.*##.cms-container:has([data-testid="CriteoAdFormatCategoryView"])
 douglas.*##.criteo-product-carousel
 kaufland.*##.exp-vision__ext-wrapper--spad
 yts.*##.home-content > div:has(.blue ~ a img[src*="/images/download"])
+streamsports99.*##.min-h-\[70px\]
 yandex.*##.mini-suggest__item[data-suggest-counter*="/yandex.ru/clck/safeclick/"]
 flashscore.*##.outrightWidget
 lazada.*##.pdp-block__product-ads
