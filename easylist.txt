@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604080504
+! Version: 202604080508
 ! Title: EasyList
-! Last modified: 08 Apr 2026 05:04 UTC
+! Last modified: 08 Apr 2026 05:08 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 03c76b6a102317b9ef159bcc572d579b59a66c1c
+! Commit: 6bef2ecd3343498482738d9b3a2419557d47a135
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -23780,6 +23780,7 @@ browsershots.org#@#.advert_area
 ||debussypoz.cyou^
 ||debutknee.com^
 ||decagoncorrida.com^
+||decanespurpura.cfd^
 ||decantgetlingleasts.cfd^
 ||deccsvyxcvhfe.website^
 ||deceivedaisle.com^
@@ -24733,6 +24734,7 @@ browsershots.org#@#.advert_area
 ||douckermoratleysing.cfd^
 ||doucswow.cfd^
 ||doudlemit.cyou^
+||dougcorozo.shop^
 ||doughgenuinelypreviously.com^
 ||douglquotenecked.cyou^
 ||douzvrswnkxzv.icu^
@@ -37955,6 +37957,7 @@ browsershots.org#@#.advert_area
 ||lodafmxtbbkdp.website^
 ||lodcyhwdqrsqm.space^
 ||lodgeastronautadore.com^
+||lodgecachou.cyou^
 ||lodgeirisbuffer.com^
 ||lodgerestless.com^
 ||lodhacaf.cfd^
@@ -45583,6 +45586,7 @@ browsershots.org#@#.advert_area
 ||parolesdakota.cyou^
 ||parolsliquory.help^
 ||paronymunchild.shop^
+||paroticoralism.qpon^
 ||parraltwirleroutwith.cfd^
 ||parrotsgrillsevent.cyou^
 ||parrotslippedcresol.cfd^
@@ -56688,6 +56692,7 @@ browsershots.org#@#.advert_area
 ||sylfaczvioejj.site^
 ||sylloedema.help^
 ||sylphlatris.cyou^
+||sylphykellegk.cyou^
 ||sylsiohopvaav.website^
 ||sylvansribber.shop^
 ||sylvitetortis.qpon^
@@ -57328,6 +57333,7 @@ browsershots.org#@#.advert_area
 ||tensdskgbpmiuyx.net^
 ||tensebeginning.com^
 ||tensecross.pro^
+||tensehatrail.cfd^
 ||tenserkona.qpon^
 ||tenserrelents.com^
 ||tensesurround.pro^
@@ -62065,6 +62071,7 @@ browsershots.org#@#.advert_area
 ||vitrinaredupl.cfd^
 ||vitritevacuefy.qpon^
 ||vitsaukiwe.net^
+||vittlespricesfidding.cfd^
 ||viucyeykydbvz.online^
 ||vivacious-pin.pro^
 ||vivariarageous.help^
