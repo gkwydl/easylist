@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604090520
+! Version: 202604090526
 ! Title: EasyList
-! Last modified: 09 Apr 2026 05:20 UTC
+! Last modified: 09 Apr 2026 05:26 UTC
 ! Expires: 4 days (update frequency)
-! Commit: cd6d8d6c87fc3b045e0fa1550a84d658b7eb2db8
+! Commit: 1be5fe6ab87a6f23b4ca413046fd97a1c7037917
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -86212,8 +86212,6 @@ tennisworldusa.org##.box_adv_primis
 pedestrian.tv##.brightcove-video-container
 pep.ph##.c-ad__item
 metacritic.com##.c-adsGallerySlot
-cnet.com##.c-avLazyStickyVideo
-cnet.com##.c-shortcodeVideo_wrap
 stuff.tv##.c-squirrel-embed
 cartoonbrew.com##.cb-ad
 iphoneincanada.ca##.cls-video-container-9GFn3u0f
