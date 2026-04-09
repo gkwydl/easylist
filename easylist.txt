@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604090059
+! Version: 202604090105
 ! Title: EasyList
-! Last modified: 09 Apr 2026 00:59 UTC
+! Last modified: 09 Apr 2026 01:05 UTC
 ! Expires: 4 days (update frequency)
-! Commit: e4c2c7cd5c46a92de2941c62b794dc62c0fc3f1e
+! Commit: 51802cb94f8577fd93e42e0ea55a86bc33d17bae
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18039,6 +18039,7 @@ browsershots.org#@#.advert_area
 ||anastasiasaffiliate.com^
 ||anatifabended.shop^
 ||anattospursier.com^
+||anawymai.com^
 ||anceenablesasm.com^
 ||ancestorheadquarters.com^
 ||anchorbiology.com^
@@ -39054,6 +39055,7 @@ browsershots.org#@#.advert_area
 ||makhzenthingal.cfd^
 ||making.party^
 ||makingnude.com^
+||makutastengere.cfd^
 ||malaccaamebas.cyou^
 ||malaiserara.qpon^
 ||malatiswirled.com^
@@ -46774,6 +46776,7 @@ browsershots.org#@#.advert_area
 ||pitchedfurs.com^
 ||piteousprinciple.com^
 ||pitfoldmolding.qpon^
+||pithosbaleinuclei.qpon^
 ||pitofficialfollower.com^
 ||pitomiebowknot.cfd^
 ||pitomiecable.qpon^
@@ -57210,6 +57213,7 @@ browsershots.org#@#.advert_area
 ||tawneyakhoond.shop^
 ||tawvjbafngwrm.online^
 ||taxaffections.com^
+||taxashaft.shop^
 ||taxdifferenceinvestor.com^
 ||taximenforwelk.cyou^
 ||taxinenaives.cfd^
@@ -65229,6 +65233,7 @@ browsershots.org#@#.advert_area
 ||xerjswstbipoi.com^
 ||xeroteswoodlot.cfd^
 ||xeroxcenses.qpon^
+||xeroxhoubara.cfd^
 ||xescjwqnpmwki.site^
 ||xetbefrbnxonr.online^
 ||xeuateppyqzcu.online^
