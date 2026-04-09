@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604090937
+! Version: 202604090944
 ! Title: EasyList
-! Last modified: 09 Apr 2026 09:37 UTC
+! Last modified: 09 Apr 2026 09:44 UTC
 ! Expires: 4 days (update frequency)
-! Commit: ed5597b0f5a9c8fb3f83cacda9f0ed4be394c74b
+! Commit: 6ace7789d5efd11d68ac33449dd616d94f21d617
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -29042,6 +29042,7 @@ browsershots.org#@#.advert_area
 ||gnashdrona.shop^
 ||gnashedmarurepast.cyou^
 ||gnasniojreobn.website^
+||gnawerhijacks.shop^
 ||gnawlouvres.qpon^
 ||gnawpush.com^
 ||gnawreclaim.com^
@@ -34105,6 +34106,7 @@ browsershots.org#@#.advert_area
 ||jgpfqtvmeehof.space^
 ||jgpnanmtdd.com^
 ||jgqquaeevmhed.online^
+||jgsceqkcobpvh.website^
 ||jgubbpypmlxbk.one^
 ||jguoldyoaqygi.online^
 ||jguroejplzivn.site^
