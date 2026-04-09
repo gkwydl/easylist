@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604091804
+! Version: 202604091806
 ! Title: EasyList
-! Last modified: 09 Apr 2026 18:04 UTC
+! Last modified: 09 Apr 2026 18:06 UTC
 ! Expires: 4 days (update frequency)
-! Commit: cff7f3d1918534c5f607d9d1d78e56f3bdc04ecd
+! Commit: 01a73e7358bdf65689769a05f65e02dbf1511ef3
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -86114,6 +86114,7 @@ downornot.net#?#.border-blue-500\/20:has-text(Special offer)
 dribbble.com##drb-infinite-scroll div[data-username]:has(drb-tooltip[data-promoted-badge])
 english.mathrubhumi.com#?#.psd\:px-0.px-\[10px\]:has-text(To advertise here)
 90min.com##figure:has(> div > #mm-player-placeholder-large-screen)
+unsplash.com##figure[itemprop="image"]:has(div[class*="sponsorLabelContainer-"])
 5dariyanews.com##h2:has(a[href*="sponsored-ads"])
 streeteasy.com##li [class^="ListingCard-module"]:has([class*="sponsoredTag"])
 ulta.com##li.ProductListingResults__productCard:has(.pal-c-ProductCardFooter__sponsored)
