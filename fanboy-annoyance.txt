@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604101304
+! Version: 202604101305
 ! Title: Fanboy's Annoyance List
-! Last modified: 10 Apr 2026 13:04 UTC
+! Last modified: 10 Apr 2026 13:05 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 0b116e1b2341d5dd4994fecda66d56be7b5a353b
+! Commit: 027e6f0b19774dfa347c206cd9bbac060ff464d9
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -38307,6 +38307,7 @@ littlerealestate.com.au###da-float-cookie
 agrarshop-online.com###darkBack
 gv.com.sg###dataProtectionDiv
 mobily.com.sa###data_priv_bar
+ranking.sanrio.co.jp###datasign_cmp__host
 ibm.com###dbdm--message
 pdfprof.com###dddhh
 discoveryeducation.com,readingplus.com###de-consent-banner
