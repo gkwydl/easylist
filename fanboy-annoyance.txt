@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604100321
+! Version: 202604100322
 ! Title: Fanboy's Annoyance List
-! Last modified: 10 Apr 2026 03:21 UTC
+! Last modified: 10 Apr 2026 03:22 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 5d1c2cb195b4c393a9568324e135dfe700d4e4eb
+! Commit: af7584b991153bef87621e233fe3a9cfa95e158b
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -38105,7 +38105,7 @@ iberianlawyer.com,telesirio.it###ca_banner
 campfirewriting.com###campfire-cookie-banner
 caseys.ie###caseys-cookie-modal
 infomir.eu,visitvictoria.com###cb
-blankcaps.com,whois.is###cb-cookie-banner
+blankcaps.com,t-shirtwholesaler.com,whois.is###cb-cookie-banner
 accounts.meister.co,meistertask.com,mindmeister.com###cb-wrapper
 xtraining.kaspersky.com###cbanner
 ubs.com###cboxContent
