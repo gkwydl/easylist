@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604101857
+! Version: 202604101905
 ! Title: EasyList
-! Last modified: 10 Apr 2026 18:57 UTC
+! Last modified: 10 Apr 2026 19:05 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 5184170d4b4f4e9cc7e0c10b256bd14726f5ba86
+! Commit: 5bb9beb8e0aec7f5c513addc8aac2c5324cd164c
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -58952,6 +58952,7 @@ browsershots.org#@#.advert_area
 ||toquetbircher.com^
 ||torahcussing.cfd^
 ||torchbensel.help^
+||torchetreshowrievers.cfd^
 ||torchettechy.qpon^
 ||torchfriendlypay.com^
 ||torchyartefac.cyou^
@@ -60169,6 +60170,7 @@ browsershots.org#@#.advert_area
 ||ubocfovtgoibu.website^
 ||ubplqxnckyxsz.space^
 ||ubqnvqrjaxlso.space^
+||ubrolcvsidmy.com^
 ||ubssxfunnecbf.website^
 ||ubtjzypcluqvj.online^
 ||ubtttllhhcguetu.xyz^
