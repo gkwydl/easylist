@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604101256
+! Version: 202604101258
 ! Title: Fanboy's Annoyance List
-! Last modified: 10 Apr 2026 12:56 UTC
+! Last modified: 10 Apr 2026 12:58 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 73460e0ef8aff07d3f60b53cf4d30c659c941e28
+! Commit: d157193a0f15ae33b36c9795bbb78ee1efebb8cb
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -48524,8 +48524,8 @@ tmstor.es#@#.top_social
 swingliteracy.com#@#.tve_social_items
 nothiefsallowed.com#@#.twitter-timeline
 google.com#@#SHARE-BUTTON
-geki-cine.jp,heiwa-9inday.jp,hypnosismic-anime.com,idolmaster-official.jp,mamodan-plus.clony.co.jp,monsterhunternow.belugacpn.jp,ufret.jp#@#a[href^="https://twitter.com/intent/tweet?"]
-petsmart.com#@#a[href^="https://www.facebook.com/sharer/sharer.php"]
+geki-cine.jp,heiwa-9inday.jp,hypnosismic-anime.com,idolmaster-official.jp,mamodan-plus.clony.co.jp,monsterhunternow.belugacpn.jp,ranking.sanrio.co.jp,ufret.jp#@#a[href^="https://twitter.com/intent/tweet?"]
+petsmart.com,ranking.sanrio.co.jp#@#a[href^="https://www.facebook.com/sharer/sharer.php"]
 playswellwithbutter.com#@#a[href^="https://www.pinterest.com/pin/create/button/"]
 ! *** easylist:fanboy-addon/fanboy_newsletter_allowlist.txt ***
 ! fanboy_newsletter_allowlist.txt
