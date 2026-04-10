@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604101439
+! Version: 202604101441
 ! Title: EasyList
-! Last modified: 10 Apr 2026 14:39 UTC
+! Last modified: 10 Apr 2026 14:41 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 8a734c94ece398cc6cd8a121fdf6fbe33896e354
+! Commit: 923379e52726ca206b1ff57479be1812db256a60
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -17961,6 +17961,7 @@ browsershots.org#@#.advert_area
 ||amatolsfoldure.cfd^
 ||amazing-rule.pro^
 ||amazingblackened.com^
+||amazingmeaning.com^
 ||amazingsite.pro^
 ||amazon-adsystem.com^
 ||ambaab.com^
@@ -27004,6 +27005,7 @@ browsershots.org#@#.advert_area
 ||fanpxawzwfjyu.site^
 ||fantabro.com^
 ||fantasticclosing.com^
+||fantasticcommunity.com^
 ||fantasticexpression.pro^
 ||fanxmfllqbyoy.top^
 ||fanza.cc^
@@ -27723,6 +27725,7 @@ browsershots.org#@#.advert_area
 ||flungperformgirlfriend.com^
 ||flushpersist.com^
 ||flusoprano.com^
+||flusteredexam.com^
 ||fluterozum.cyou^
 ||flutterstumpbullet.com^
 ||fluxads.com^
@@ -27832,6 +27835,7 @@ browsershots.org#@#.advert_area
 ||fontinapulques.cyou^
 ||foodieblogroll.com^
 ||foojeshoops.xyz^
+||foolhardy-wall.com^
 ||foolhardystore.com^
 ||foolhardywear.pro^
 ||foolish-industry.pro^
@@ -47564,6 +47568,7 @@ browsershots.org#@#.advert_area
 ||poleychoirs.cyou^
 ||poleynsset.com^
 ||policeair.com^
+||polished-hook.com^
 ||polishleadennineteen.com^
 ||polishshone.com^
 ||polite1266.fun^
@@ -51897,6 +51902,7 @@ browsershots.org#@#.advert_area
 ||ripesneedsly.cfd^
 ||ripetoufic.cyou^
 ||ripewhining.com^
+||ripewing.com^
 ||rippierdrossy.cyou^
 ||riprapsskittle.help^
 ||riprlpruktwdz.space^
@@ -56957,6 +56963,7 @@ browsershots.org#@#.advert_area
 ||suspensionpersonwand.com^
 ||suspicionsepisode.com^
 ||suspicionshutnutshell.com^
+||suspicious-scheme.com^
 ||suspiciousfootprintschaise.com^
 ||suspiciousspiritual.pro^
 ||sustoordougn.net^
