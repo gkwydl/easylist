@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604100659
+! Version: 202604100707
 ! Title: EasyList
-! Last modified: 10 Apr 2026 06:59 UTC
+! Last modified: 10 Apr 2026 07:07 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 90279e6d9fac241de55d8996ca411f374441f3ef
+! Commit: 8659e3fc22c5c7a1a1f7d568ab3ecebdb30d0fe4
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -27353,6 +27353,7 @@ browsershots.org#@#.advert_area
 ||fiddedzakkeu.qpon^
 ||fiddlestructureparadise.com^
 ||fiddleyhigdon.com^
+||fidelessaltineasilid.cfd^
 ||fidelitygenerationsmistletoe.com^
 ||fidessamarine.com^
 ||fidgethid.com^
@@ -63611,6 +63612,7 @@ browsershots.org#@#.advert_area
 ||wbxkuluivdutn.site^
 ||wbxrjivadctya.space^
 ||wbygrybvjjksf.site^
+||wbyrnwpwpoml.com^
 ||wbysnyeqjdwhl.site^
 ||wbzkaueecchkb.site^
 ||wcakwrzikgshw.online^
