@@ -3,7 +3,7 @@
 ! Title: EasyPrivacy
 ! Last modified: 10 Apr 2026 01:04 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 388f089331e0a80123bb8237cc595d1615016748
+! Commit: 601257b5da2aa7ce6702de6a742ebeef062d4e20
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
