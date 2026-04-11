@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604111735
+! Version: 202604111738
 ! Title: EasyList
-! Last modified: 11 Apr 2026 17:35 UTC
+! Last modified: 11 Apr 2026 17:38 UTC
 ! Expires: 4 days (update frequency)
-! Commit: d77359f8c843315e32aea3bf9ce4ae7fa45924d6
+! Commit: bc299661b88aa4437ba1f2a5c2b689c77f61b31f
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -16715,6 +16715,7 @@ browsershots.org#@#.advert_area
 ||acceptableredheadcaviar.com^
 ||acceptableremotehumorous.com^
 ||acceptancecrowdadvertising.com^
+||acceptancedishearten.com^
 ||acceptcontemplatecorner.com^
 ||acceptguide.com^
 ||access-mc.com^
@@ -19563,9 +19564,11 @@ browsershots.org#@#.advert_area
 ||beencoriqvcep.site^
 ||beenover.com^
 ||beeperconsiderably.com^
+||beepergaily.com^
 ||beerdoghoodtideful.cfd^
 ||beestark.com^
 ||beethlatitatdrabble.cfd^
+||beetlefreelylong.com^
 ||beetlestaircaselobster.com^
 ||beetrootchaos.com^
 ||beevakum.net^
@@ -21857,6 +21860,7 @@ browsershots.org#@#.advert_area
 ||chervilkellegsairve.qpon^
 ||chessermanic.com^
 ||chessessomehow.qpon^
+||chessetchivey.shop^
 ||chesspactionsnirtle.cfd^
 ||chesssorrydescend.com^
 ||chestgoingpunch.com^
@@ -26783,6 +26787,7 @@ browsershots.org#@#.advert_area
 ||executorsfrom570.com^
 ||exejfbqkavbst.rocks^
 ||exemplarfederallithe.com^
+||exemplarpocketbookstore.com^
 ||exemplary-scratch.pro^
 ||exemplaryspeech.pro^
 ||exemptgovernorinterdependent.com^
@@ -41054,6 +41059,7 @@ browsershots.org#@#.advert_area
 ||mooreguested.qpon^
 ||moorysashay.cfd^
 ||moosacushite.shop^
+||moosrubble.com^
 ||moosuphouze.net^
 ||mootedcussedrhexia.cyou^
 ||mootermedia.com^
@@ -46713,6 +46719,7 @@ browsershots.org#@#.advert_area
 ||periostmoraine.help^
 ||perishauthorsharrow.com^
 ||perjurysubbeau.cfd^
+||perksburian.com^
 ||perky-method.com^
 ||perkyawaitingmammoth.com^
 ||perkyexcitedlyscenario.com^
@@ -54704,6 +54711,7 @@ browsershots.org#@#.advert_area
 ||shortcutacheless.com^
 ||shortenoverleg.com^
 ||shorterrestriction.com^
+||shorterwanderer.com^
 ||shorthandbakerymeal.com^
 ||shorthandlanding.com^
 ||shortprinciple.pro^
@@ -59010,6 +59018,7 @@ browsershots.org#@#.advert_area
 ||toebj17wivhlumvp95pp.cfd^
 ||toebqarnbbxqr.site^
 ||toemvlmhikmrk.xyz^
+||toenailfairnessvictorious.com^
 ||toequiet.website^
 ||toesthrymsa.cyou^
 ||toffeesremit.cfd^
@@ -64828,6 +64837,7 @@ browsershots.org#@#.advert_area
 ||withdrawalbellownovel.com^
 ||withdrawtrade.com^
 ||withsaystreyne.qpon^
+||withthewindndc.org^
 ||witjardrch.cyou^
 ||witkjcoux.com^
 ||witnessedscratchreluctance.com^
