@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604110503
+! Version: 202604110511
 ! Title: EasyList
-! Last modified: 11 Apr 2026 05:03 UTC
+! Last modified: 11 Apr 2026 05:11 UTC
 ! Expires: 4 days (update frequency)
-! Commit: c3ceb83c78208084c9ef252e436dc3094ab65046
+! Commit: 570a2e197db818d821adcea2046345a38ad78cf8
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -83329,6 +83329,7 @@ horriblevideos.com##.netloop-ad-banner-300-250
 chaseyoursport.com##.new-adv
 play.typeracer.com##.newNorthWidget
 pcgamesn.com##.new_affiliate_embed
+pcgamesn.com##.new_menu_item
 firstpost.com##.newadd
 farminguk.com##.news-advert-button-click
 hurriyetdailynews.com##.news-detail-adv
