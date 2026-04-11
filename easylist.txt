@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604111153
+! Version: 202604111158
 ! Title: EasyList
-! Last modified: 11 Apr 2026 11:53 UTC
+! Last modified: 11 Apr 2026 11:58 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 80695af7b11d7533529ff786a819f200becd99db
+! Commit: 8bcdb45dff1f4f62a8cc4167211a407e3ad27d79
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -35745,6 +35745,7 @@ browsershots.org#@#.advert_area
 ||kemoachoubsosti.xyz^
 ||kemrrbjymzwaa.space^
 ||kenafbengals.qpon^
+||kenafssubet.com^
 ||kendirmyopias.cfd^
 ||kendoanticly.qpon^
 ||kendosliny.com^
@@ -55317,6 +55318,7 @@ browsershots.org#@#.advert_area
 ||smallestexpectedspecialty.com^
 ||smallestpawsmention.com^
 ||smallfunnybears.com^
+||smalmausones.com^
 ||smaltertji.qpon^
 ||smarf.icu^
 ||smart-wp.com^
@@ -57445,6 +57447,7 @@ browsershots.org#@#.advert_area
 ||syndicatedsearch.goog^
 ||syndromehart.com^
 ||syndromekaleidoscope.com^
+||synedawtit.com^
 ||syneticoverfewaglossa.cfd^
 ||synodalcackled.cfd^
 ||synoecyjouks.cfd^
