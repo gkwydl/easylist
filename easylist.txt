@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604110853
+! Version: 202604110857
 ! Title: EasyList
-! Last modified: 11 Apr 2026 08:53 UTC
+! Last modified: 11 Apr 2026 08:57 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 9f9be17631fc03f98db469d7fc42b8678ffb8ae9
+! Commit: 047a87b5a4471ca18828beef2bdb4ddec5002700
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -69676,7 +69676,6 @@ browsershots.org#@#.advert_area
 ||adlooxtracking.com^$third-party
 ||adlpartner.com^$third-party
 ||adlux.com^$third-party
-||adlyticmarketing.com^$third-party
 ||adm.shinobi.jp^$third-party
 ||adman.gr^$third-party
 ||admana.net^$third-party
@@ -88937,7 +88936,6 @@ gamcore.com##li.d-md-block > a[rel]
 @@||adap.tv/redir/javascript/vpaid.js
 @@||addicted.es^*/ad728-$image,~third-party
 @@||adjust.com/adjust-latest.min.js$domain=anchor.fm
-@@||adlyticmarketing.com/s/portfoliofilter.$script,stylesheet,domain=lightningkeyboards.com
 @@||adm.fwmrm.net^*/TremorAdRenderer.$object,domain=go.com
 @@||adm.fwmrm.net^*/videoadrenderer.$object,domain=cnbc.com|go.com|nbc.com|nbcnews.com
 @@||adnxs.com/ast/ast.js$domain=zone.msn.com
