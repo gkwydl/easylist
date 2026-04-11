@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604111700
+! Version: 202604111707
 ! Title: EasyList
-! Last modified: 11 Apr 2026 17:00 UTC
+! Last modified: 11 Apr 2026 17:07 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 5175c7fdccd6541d782b4633133cd5290b93ba07
+! Commit: 20ac8a10c096a0996e02cbd8d3c13b14213067c3
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -24189,6 +24189,7 @@ browsershots.org#@#.advert_area
 ||depleteheadphoneshoe.com^
 ||depleterefutation.com^
 ||deployads.com^
+||deportdalai.qpon^
 ||depotfrigage.qpon^
 ||depottush.qpon^
 ||depreciatorybollocksupkitchen.com^
@@ -26840,6 +26841,7 @@ browsershots.org#@#.advert_area
 ||expert-series.pro^
 ||expertsdisplat.cyou^
 ||experttrafficcounter.com^
+||expiredcyprian.shop^
 ||expirevane.com^
 ||expirylutosetowan.cfd^
 ||explidadiapir.qpon^
@@ -41638,6 +41640,7 @@ browsershots.org#@#.advert_area
 ||mutantsvinew.qpon^
 ||mutaseamatory.qpon^
 ||mutcheng.net^
+||mutedopiates.shop^
 ||mutedpoetry.com^
 ||mutenessdollyheadlong.com^
 ||mutenessquiz.com^
@@ -41882,6 +41885,7 @@ browsershots.org#@#.advert_area
 ||mywatchtones.com^
 ||mywliixjtrvml.website^
 ||mywondertrip.com^
+||myxacivitas.cyou^
 ||myxstalk.lol^
 ||myyivaftgefsq.site^
 ||myyuexte7989mwq.cfd^
@@ -48720,6 +48724,7 @@ browsershots.org#@#.advert_area
 ||pseroaltum.net^
 ||psetchorda.net^
 ||psfpbjceyspfju.com^
+||psfubfmken.com^
 ||psgddusxwtmgj.online^
 ||psgkhiojxrfbi.online^
 ||psgtabmbcygivc.com^
@@ -58661,6 +58666,7 @@ browsershots.org#@#.advert_area
 ||tindglyster.help^
 ||tinealtalloel.shop^
 ||tineasdachas.cyou^
+||tineidmelascuarto.cfd^
 ||tineidsreseeds.com^
 ||tineinebirles.cfd^
 ||tinemanduring.cfd^
