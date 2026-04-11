@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604111739
+! Version: 202604111741
 ! Title: EasyList
-! Last modified: 11 Apr 2026 17:39 UTC
+! Last modified: 11 Apr 2026 17:41 UTC
 ! Expires: 4 days (update frequency)
-! Commit: e47f0bf1b13d5d44f1ce486bf296c30598b06f5c
+! Commit: f4afacf2790ba562135b4973d0c907035e78f4ca
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -20735,6 +20735,7 @@ browsershots.org#@#.advert_area
 ||broodbelongminiature.com^
 ||broodoppressiveuptodate.com^
 ||brookrivet.com^
+||brooshatchet.cfd^
 ||brosdefender.com^
 ||brothdiscoversupposed.com^
 ||brothdisguiseparrot.com^
@@ -49242,6 +49243,7 @@ browsershots.org#@#.advert_area
 ||puxyharmful.cfd^
 ||puysis.com^
 ||puzwsrdbdevrh.site^
+||puzzled-pay.pro^
 ||puzzlepursued.com^
 ||puzzlingcurrent.com^
 ||pv7e29ttex3j413iy2j.cfd^
