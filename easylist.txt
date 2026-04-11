@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604112153
+! Version: 202604112154
 ! Title: EasyList
-! Last modified: 11 Apr 2026 21:53 UTC
+! Last modified: 11 Apr 2026 21:54 UTC
 ! Expires: 4 days (update frequency)
-! Commit: b4e184c2988ef278476b24432c1d9615bcb58d72
+! Commit: 86300f1b27f9d4da25b72797c2017a9bc2bee668
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -85616,6 +85616,7 @@ news.bitcoin.com##[style="width: 100%; height: auto; max-width: 300px;"]
 news.bitcoin.com##[style="width: 100%; height: auto; max-width: 690px;"]
 waifu2x.net##[style="width: 90%;height:120px"]
 law360.com##[style="width:100%;display:flex;justify-content:center;background-color:rgb(247, 247, 247);flex-direction:column;"]
+skylinewebcams.com##[style="width:100%;text-align:center"]
 tennisworldusa.org##[style="width:300px;min-height:250px;"]
 newagebd.net##[style^="float:left; width:320px;"]
 hsreplay.net##[style^="min-height: 90px;"]
