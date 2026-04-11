@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604111356
+! Version: 202604111409
 ! Title: EasyList
-! Last modified: 11 Apr 2026 13:56 UTC
+! Last modified: 11 Apr 2026 14:09 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 087b9af5ee58e8349cd9116499afe6ce68bb34e5
+! Commit: be74f6eb6bb22f3bd71aa94cc469d0b088fed8ec
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -25351,6 +25351,7 @@ browsershots.org#@#.advert_area
 ||dxiilazmsqprw.online^
 ||dxkmeispvbfsx.website^
 ||dxlyladmlitox.store^
+||dxnuuonyur.com^
 ||dxohqmjdcdmm.com^
 ||dxoiomfjfvvub.space^
 ||dxorrbwxipedwb.com^
@@ -47467,6 +47468,7 @@ browsershots.org#@#.advert_area
 ||plinkercymes.shop^
 ||plinkerinfos.cfd^
 ||plinksplanet.com^
+||plinthsarbaciastator.cfd^
 ||pliskiepasty.cfd^
 ||pliskydanio.qpon^
 ||plitchkhalifs.cfd^
@@ -51038,6 +51040,7 @@ browsershots.org#@#.advert_area
 ||reamsofcryingfor.org^
 ||reannoypucker.help^
 ||reapsrevince.help^
+||reaqkzrca.com^
 ||rearguekindredundate.qpon^
 ||reariiferrule.cfd^
 ||reariimime.com^
@@ -55240,6 +55243,7 @@ browsershots.org#@#.advert_area
 ||slippersphoto.com^
 ||slippery-arrival.pro^
 ||slippery-lead.pro^
+||slipperydesire.pro^
 ||slipperymirror.pro^
 ||slise.xyz^
 ||slitterarustleakala.cyou^
