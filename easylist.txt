@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604111311
+! Version: 202604111318
 ! Title: EasyList
-! Last modified: 11 Apr 2026 13:11 UTC
+! Last modified: 11 Apr 2026 13:18 UTC
 ! Expires: 4 days (update frequency)
-! Commit: e64506d7fe25cbaf3b689fcfb440f75b0afab152
+! Commit: cc1def2c4c4f66c3e8f067e11201cc60e4d578a4
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -86648,6 +86648,7 @@ rakuten.com##div[data-productid]:has(div.productList_sponsoredAds_RUS)
 mail.aol.com##div[data-test-id="virtual-list"] > ul[role="list"][aria-label] > li[style]:has(a[href^="https://api.taboola.com/"][href*="/yahoo-aol-mail/"])
 producthunt.com##div[data-test] > section:has(a[href^="/r/ad/"])
 producthunt.com##div[data-test] > section:has(img[src="/i/299a62819c7092e196f7fc2c331cc11ef4f93a0f32c3b3069c4fd974cda0cb4c"])
+producthunt.com##div[data-test]:not([data-test^="homepage-section-"]) > section[data-test^="post-item-"]
 priceline.com##div[data-testid="HTL_NEW_LISTING_CARD_RESP"]:has(a[aria-label*=" Promoted"])
 twitter.com,x.com##div[data-testid="UserCell"]:has(path[d$="10H8.996V8h7v7z"])
 twitter.com,x.com##div[data-testid="eventHero"]:has(path[d$="10H8.996V8h7v7z"])
