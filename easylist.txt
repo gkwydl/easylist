@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604122302
+! Version: 202604122304
 ! Title: EasyList
-! Last modified: 12 Apr 2026 23:02 UTC
+! Last modified: 12 Apr 2026 23:04 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 884917575180c73db1c823a3636680921a389131
+! Commit: 55932a25b3921761a545fe3ddc1ef6a1ca2151df
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -34093,6 +34093,7 @@ browsershots.org#@#.advert_area
 ||jadtyhkygmemd.online^
 ||jadwidal.com^
 ||jaegerspocobarms.qpon^
+||jaegervitallydele.cyou^
 ||jaenwyxlzrkos.online^
 ||jaforvsuneysw.website^
 ||jafsuasulxeoh.online^
