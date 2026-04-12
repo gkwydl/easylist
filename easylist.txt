@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604120302
+! Version: 202604120305
 ! Title: EasyList
-! Last modified: 12 Apr 2026 03:02 UTC
+! Last modified: 12 Apr 2026 03:05 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 4d4ec8caf5a1c83ee63b24ae670e670de2c03443
+! Commit: e7a36850b30bb4cb0f1c9bb8c71b6ba9da1fdac9
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -1030,7 +1030,6 @@ _prebid.js$script
 /anti-adblock/*$~stylesheet
 /blockblock/blockblock.jquery.js$script
 /jgcabd-detect-$script
-/js/adblockdetect.js$script
 /no-adblock/*$script,stylesheet
 ! *** easylist:easylist/easylist_general_block_dimensions.txt ***
 -120-600.
