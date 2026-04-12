@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604121341
+! Version: 202604121346
 ! Title: EasyList
-! Last modified: 12 Apr 2026 13:41 UTC
+! Last modified: 12 Apr 2026 13:46 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 635b29c34634cbed483c4155d8ed5b2bfe84268a
+! Commit: b1ea4f7a23c1839d98ae7f6146a83a2adebbbd12
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -44193,6 +44193,7 @@ browsershots.org#@#.advert_area
 ||octroizombis.cfd^
 ||octuortogaed.cyou^
 ||oculatesackman.shop^
+||oculilegate.shop^
 ||oculistaboil.qpon^
 ||ocvappsa.com^
 ||ocvrulo.digital^
