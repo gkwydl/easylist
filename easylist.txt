@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604121723
+! Version: 202604121740
 ! Title: EasyList
-! Last modified: 12 Apr 2026 17:23 UTC
+! Last modified: 12 Apr 2026 17:40 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 1f6e5a4d6e9ea6342a2aecadd64b656bafe01ad1
+! Commit: d1cf5965de1494747aaa9531aeb8af484a6a46b7
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -82536,6 +82536,7 @@ gfinityesports.com##.ecommerceUnit
 newagebd.net##.editorialMid
 editpad.org##.edsec
 theepochtimes.com##.eet-ad
+vecteezy.com##.eezy-sponsored-results
 cryptorank.io##.egJLJA
 clutchpoints.com##.ehgtMe.sc-ed3f1eaf-1
 filmibeat.com##.ele-ad
@@ -84117,6 +84118,7 @@ ipfighter.com##.promotion_promotion__08xl_
 bostonreview.net##.promotop
 insauga.com##.proper-content-dynamic
 highspeedinternet.com##.provider-ads
+vecteezy.com##.prtnr-sponsored-results
 cricket365.com,football365.com,golf365.com,loverugbyleague.com,planetf1.com,planetfootball.com,planetrugby.com,teamtalk.com,tennis365.com##.ps-block-a
 indiabusinessjournal.com##.pt--20
 kathmandupost.com##.pt-0
