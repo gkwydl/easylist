@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604122350
+! Version: 202604122356
 ! Title: EasyList
-! Last modified: 12 Apr 2026 23:50 UTC
+! Last modified: 12 Apr 2026 23:56 UTC
 ! Expires: 4 days (update frequency)
-! Commit: ffcdadf39b4214dd992e242167858c5c1c33706a
+! Commit: cc8f46e5ade2bbf88b7f6e438289b999d967a014
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -82899,7 +82899,7 @@ militaryleak.com##.gmr-floatbanner
 clinicaltrialsarena.com##.gms-b2b-marketing
 frzyc.github.io##.go-ad-wrapper
 coinmarketcap.com##.goXFFk
-dallasinnovates.com,thecoastnews.com,watchesbysjx.com##.gofollow
+dallasinnovates.com,fingerlakes1.com,thecoastnews.com,watchesbysjx.com##.gofollow
 golf.com##.golf-ad
 golinuxcloud.com##.golin-content
 golinuxcloud.com##.golin-video-content
