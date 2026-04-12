@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604122259
+! Version: 202604122302
 ! Title: EasyList
-! Last modified: 12 Apr 2026 22:59 UTC
+! Last modified: 12 Apr 2026 23:02 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 70231db5c7ebbd09eb8136fa92b9187e71d0866c
+! Commit: 884917575180c73db1c823a3636680921a389131
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -82281,8 +82281,8 @@ techwalla.com##.component-header-sticky-ad
 goal.com##.component-open-web-ad-with-lngtd-fallback
 binnews.com,iheart.com,jessekellyshow.com,steveharveyfm.com##.component-pushdown
 binnews.com,iheart.com,jessekellyshow.com,steveharveyfm.com##.component-recommendation
-kqed.org##.components-Ad-__Ad__ad
 kqed.org##.components-AdLive-__AdLive__ad
+kqed.org##.components-Ads-AdUnit-__AdUnit__adContent
 theverge.com##.connatix-feature-desktop
 dailymail.co.uk,thisismoney.co.uk##.connatix-wrapper
 realsport101.com##.connatixPS
