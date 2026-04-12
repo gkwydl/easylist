@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604120117
+! Version: 202604120124
 ! Title: EasyList
-! Last modified: 12 Apr 2026 01:17 UTC
+! Last modified: 12 Apr 2026 01:24 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 62a8c2b694f16d1b73076ce510218a5df68250e1
+! Commit: fad9b1bd183a122cf23e8e08c3968516ff9e624a
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -39647,6 +39647,7 @@ browsershots.org#@#.advert_area
 ||marinerpassionate.com^
 ||marinessoland.cfd^
 ||marioupremix.shop^
+||marissasharecareer.com^
 ||maritalparliamentary.com^
 ||maritaltrousersidle.com^
 ||maritaluntidynegotiate.com^
@@ -39871,6 +39872,7 @@ browsershots.org#@#.advert_area
 ||mbvsm.com^
 ||mbzakfkiymvra.website^
 ||mbzavqzuxplxf.site^
+||mbzfsfrgdydpb.website^
 ||mc7clurd09pla4nrtat7ion.com^
 ||mcadqddmvvndcfm.xyz^
 ||mcahjytj.com^
