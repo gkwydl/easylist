@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202604131139
+! Version: 202604131140
 ! Title: EasyPrivacy
-! Last modified: 13 Apr 2026 11:39 UTC
+! Last modified: 13 Apr 2026 11:40 UTC
 ! Expires: 4 days (update frequency)
-! Commit: ed55e9eab8cf75860308cb1bbbce30c0cbee1ec8
+! Commit: e8e59cd0487b5646496bfae449bad9a737df0829
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -701,6 +701,7 @@
 /contentiq.js
 /conversion_async.js
 /convertro.js
+/convivaAppTracker.js
 /cookie.gif?
 /cookie_ga.js
 /cookieAnalytics.js
@@ -10533,7 +10534,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cdn.one.store/xdomain_cookie.html
 ||cdn.polarbyte.com^
 ||cdn.ravm.tv^
-||cdn.scrippscloud.com/web/js/convivaAppTracker.js
 ||cdn.skypack.dev/uuid
 ||cdn.sourcesync.io/open-pixel/source-pixel.js
 ||cdn.sphlabs.com/suid/
