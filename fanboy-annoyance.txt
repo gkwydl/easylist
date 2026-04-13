@@ -3,7 +3,7 @@
 ! Title: Fanboy's Annoyance List
 ! Last modified: 13 Apr 2026 11:36 UTC
 ! Expires: 4 days (update frequency)
-! Commit: fca79a4376321bbc04bc0717615c36c8821597ac
+! Commit: 3a9794a92b230bfac02b7bcd371d4427967dcd9b
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -30211,7 +30211,7 @@ dashboard.razorpay.com#@##credential_picker_container
 ||consent.prointernet.com^
 ||consent.standardadmin.org^
 ||consent.trustarc.com/get?name=$subdocument,domain=avantiwestcoast.co.uk|oracle.com
-||consent.trustarc.com^$domain=authy.com|nejm.org|pedialyte.com|sap.com|twilio.com
+||consent.trustarc.com^$domain=authy.com|makerworld.com|nejm.org|pedialyte.com|sap.com|twilio.com
 ||consent.truste.com^$third-party
 ||consentag.eu^$third-party
 ||consentframework.com^$third-party
