@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604131026
+! Version: 202604131027
 ! Title: EasyList
-! Last modified: 13 Apr 2026 10:26 UTC
+! Last modified: 13 Apr 2026 10:27 UTC
 ! Expires: 4 days (update frequency)
-! Commit: fe16ac228675faa34e4f523ccf9bf1bb457ff2e0
+! Commit: 3a08740dab08ae96bb508991b2e8badce41742fd
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -83691,6 +83691,7 @@ ctinsider.com##.md\:block.y100
 op.gg##.md\:max-w-\[1080px\]
 bmj.com##.md\:min-h-\[250px\]
 medibang.com##.mdbnAdBlock
+global.morningstar.com##.mdc-top-ad__container__mdc
 online-translator.com##.mddlAdvBlock
 livejournal.com##.mdspost-aside__item--banner
 thestar.com.my##.med-rec
