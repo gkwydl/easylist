@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604131849
+! Version: 202604131850
 ! Title: EasyList
-! Last modified: 13 Apr 2026 18:49 UTC
+! Last modified: 13 Apr 2026 18:50 UTC
 ! Expires: 4 days (update frequency)
-! Commit: c1e6664502ced3aa03678ba89877f68a80bb3c8c
+! Commit: 71ef9936d07c70d379e7ce529ac7d6620fcceb9e
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -88133,6 +88133,7 @@ stocktwits.com#?#.leading-\[16px\]:has-text(Advertisement)
 gsmarena.com#?##subHeader3:has-text(daily deals)
 target.com#?#.ProductRecsLink-sc-4mw94v-0:has(p:has-text(sponsored))
 target.com#?#.styles_ndsCarouselItem__dnUkr:has(p.h-text-sm:has-text(Sponsored))
+target.com#?#[class*="styledCarouselItem"]:has-text(Sponsored)
 target.com#?#[data-test="ProductCardVariantRecommendation"]:has-text(Sponsored)
 target.com#?#[data-test="productCardVariantRecommendation"]:has-text(Sponsored)
 target.com#?#div[class^="styles_productCardVariantMiniWrapper_"]:has(div.h-text-sm:has-text(Sponsored))
