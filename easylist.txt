@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604131847
+! Version: 202604131849
 ! Title: EasyList
-! Last modified: 13 Apr 2026 18:47 UTC
+! Last modified: 13 Apr 2026 18:49 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 204fd206908f0bfde313d56a8b3b59bfbc490099
+! Commit: 8af99b6ed1313bf60488f24f3b44119f8fa449d6
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -87299,6 +87299,7 @@ thehansindia.com##section:has(> .to-be-async-loaded-ad)
 thehansindia.com##section:has(> [class*="level_ad"])
 tripadvisor.*##section[data-automation$="_AdPlaceholder"]:has(.txxUo)
 homedepot.com##section[id^="browse-search-pods-"] > div.browse-search__pod:has(div.product-sponsored)
+target.com#?#[class*="styledCarouselItem"]:has-text(Sponsored)
 mirrored.to##tbody > tr:has(> td[data-label="Host"] > img[src="https://www.mirrored.to/templates/mirrored/images/hosts/FilesDL.png"])
 titantv.com##tr:has(> td[align="center"][valign="middle"][colspan="2"][class="gC"])
 opensubtitles.org##tr[style]:has([src*="php"])
@@ -88007,7 +88008,6 @@ dexscreener.com#?#.chakra-link:has-text(Advertise)
 dictionary.com,thesaurus.com#?#[class] > p:has-text(Advertisement)
 digg.com#?#article.relative:has(div:has-text(SPONSORED))
 deccanherald.com##div:has(> div > .ad-background)
-downornot.net#?#.border-blue-500\/20:has-text(Special offer)
 qz.com##div[class^="sc-"]:has(> div[class="ad-unit"])
 qz.com##div[class^="sc-"]:has(> div[is="bulbs-dfp"])
 deccanherald.com##div[style^="min-height"]:has(> div > div[id*="-ad-separator"])
@@ -88015,6 +88015,7 @@ docs.openwebui.com#?#.markdown > .w-full:has-text(Sponsored)
 docs.openwebui.com#?#.pb-4 > .mb-2:has-text(Sponsored)
 dotesports.com#?#.wp-block-gamurs-article-tile:has-text(Sponsored)
 downforeveryoneorjustme.com#?#.relative.bg-white:has-text(PolyBuzz)
+downornot.net#?#.border-blue-500\/20:has-text(Special offer)
 dropstab.com#?#.bg-slate-100:has-text(Ad)
 dropstab.com#?#.bottom-0.gap-2:has-text(/Stake Now|Invest Now/)
 engadget.com#?#.justify-center:has-text(Advertisement)
@@ -88095,6 +88096,7 @@ property24.com#?#.p24_tileContainer:has-text(Sponsored)
 provigo.ca#?#.css-1nhzth8:has-text(/sponsorisé|sponsored/)
 psprices.com#?#.creative:has-text(remove advertising)
 pushsquare.com#?#span:has-text(or Subscribe)
+winaero.com#?##qcihrbv5 > p:has-text(Tip)
 qvc.com#?#.qModule:has-text(Sponsored)
 rclone.org#?#.card:has(.card-header:has-text(Sponsor))
 regex101.com#?#div > header + div > div + div:has-text(Sponsors)
@@ -88156,7 +88158,6 @@ twitter.com,x.com#?#h2[role="heading"]:has-text(/Promoted|Gesponsert|Promocionad
 ulta.com#?#li.ProductListingResults__productCard:has(.ProductCard__badge:has-text(Sponsored))
 vpforums.org#?#.ipsSideBlock.clearfix:has-text(Affiliates)
 weather.com#?#.bg-gray-100:has-text(Advertisement)
-winaero.com#?##qcihrbv5 > p:has-text(Tip)
 wings.io#?#.form-group center:has-text(Advertisement)
 wltreport.com#?#.code-block:has-text(ADVERTISEMENT)
 wolt.com#?#button:has(> div > div > div > span:has-text(Sponsored))
