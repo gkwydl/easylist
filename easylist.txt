@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604131418
+! Version: 202604131419
 ! Title: EasyList
-! Last modified: 13 Apr 2026 14:18 UTC
+! Last modified: 13 Apr 2026 14:19 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 103f3049769696617472155166842bd041671388
+! Commit: d836200d2c4ee2fe6de72161203ec0cfcf9b3b3b
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -87895,7 +87895,6 @@ checkfelix.com,kayak.*,swoodoo.com##div[class*="-adInner"]
 checkfelix.com,kayak.*,swoodoo.com##div[data-resultid]:has(a.IZSg-adlink)
 checkfelix.com,kayak.*,swoodoo.com##div[id^="inline-"]
 ! *** easylist:easylist/easylist_specific_hide_abp.txt ***
-thesaurus.com#@#.SZjJlj7dd7R6mDTODwIT
 dev.to##.crayons-card:has(.sponsorship-dropdown)
 2fa.live#?#p:has-text(Advertising)
 404media.co#?#.post__content > p:has-text(This segment is a paid ad)
