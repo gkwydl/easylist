@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604131030
+! Version: 202604131032
 ! Title: EasyList
-! Last modified: 13 Apr 2026 10:30 UTC
+! Last modified: 13 Apr 2026 10:32 UTC
 ! Expires: 4 days (update frequency)
-! Commit: db64a55d2d60b34e524cfddf40b77cc229c797b0
+! Commit: 4a4ad0aca82071be3ba0b310d97ccf25f57314ad
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -89420,6 +89420,7 @@ kimochi.info##.gridlove-posts > .layout-simple:has(.gridlove-archive-ad)
 av01.*##.group:has(> .relative.overflow-hidden.rounded-lg.bg-gray-900.cursor-pointer)
 jable.tv##.gutter-20 > .col-sm-4:has(> .video-img-box a[target="_blank"])
 hdporncomics.com##.hover\:shadow-xl:has(> .adsbyexoclick)
+loverslab.com##.ipsDataList_large.ipsDataList > .ipsClearfix:has(span.redirect_ad)
 tokyomotion.com##.is-gapless > .has-text-centered:has(> div > .adv)
 rule34video.com##.item.thumb:has(> [title="Advertisement"])
 4kporn.xxx,crazyporn.xxx,hoes.tube,love4porn.com##.item:has(> [class*="ads"])
