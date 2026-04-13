@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604132232
+! Version: 202604132238
 ! Title: EasyList
-! Last modified: 13 Apr 2026 22:32 UTC
+! Last modified: 13 Apr 2026 22:38 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 0f3a0a943dbac30d799ccd59f716c474d4d263ab
+! Commit: 6234085b82bf0e61b02666cce860b7f7127060eb
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -82333,6 +82333,7 @@ vaughn.live##.browsePageAbvs300x600
 femalefirst.co.uk##.browsi_home
 techpp.com##.brxe-shortcode
 christianpost.com##.bs-article-cell
+noozhawk.com##.bsa-ad-type-multiple-native-showcase
 sslshopper.com##.bsaStickyLeaderboard
 htmldog.com##.bsa_it_ad
 arydigital.tv,barakbulletin.com##.bsac
@@ -85709,6 +85710,7 @@ costco.com##[data-bi-placement="Criteo_Home_Espot"]
 costco.ca##[data-bi-placement="Criteo_Product_Display_Page_Espot"]
 privacywall.org##[data-bingads-suffix]
 chron.com,seattlepi.com,sfchronicle.com,timesunion.com##[data-block-type="ad"]
+noozhawk.com##[data-bs-hover-url]
 chewy.com##[data-carousel-id="plp_sponsored_brand"]
 theblaze.com##[data-category="SPONSORED"]
 autotrader.com##[data-cmp="alphaShowcase"]
