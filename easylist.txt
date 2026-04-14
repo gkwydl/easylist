@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604140900
+! Version: 202604140901
 ! Title: EasyList
-! Last modified: 14 Apr 2026 09:00 UTC
+! Last modified: 14 Apr 2026 09:01 UTC
 ! Expires: 4 days (update frequency)
-! Commit: dfad7b46a0d721fb917aa62123b7b3a0be4846c7
+! Commit: a494a0217edbb3166652cb7e2e764e0fc10d657a
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -15455,6 +15455,29 @@ browsershots.org#@#.advert_area
 ! *** easylist:easylist/easylist_adservers.txt ***
 ! Non-flagged (Generic blocks)
 ||000491b06a.com^
+||woefuldealer.pro^
+||modestriver.com^
+||decimal-impression.com^
+||flameordinaryhonours.com^
+||skinnycrawlinglax.com^
+||sombernewspaper.com^
+||caravanexhale.com^
+||kettledroopingcontinuation.com^
+||monumental-equipment.com^
+||effectivegatecpm.com^
+||quizzicalrun.com^
+||ruddy-pass.com^
+||lightindividual.com^
+||welcomingexpulsion.com^
+||valuesuffering.com^
+||queasytonight.com^
+||dependablemountain.com^
+||riperequest.com^
+||sagiestspiegel.qpon^
+||fqetpiuph7og41.cfd^
+||bmlkrquimbyck.website^
+||zephyrdumbing.cyou^
+||soleratantawyquiina.cfd^
 ||congestprowessburger.com^
 ||ashorenorris.com^
 ||snailscrambledcontrivance.com^
