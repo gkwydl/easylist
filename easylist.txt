@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604140852
+! Version: 202604140900
 ! Title: EasyList
-! Last modified: 14 Apr 2026 08:52 UTC
+! Last modified: 14 Apr 2026 09:00 UTC
 ! Expires: 4 days (update frequency)
-! Commit: bd312450e4838ac51dc01f060939753807f70111
+! Commit: dfad7b46a0d721fb917aa62123b7b3a0be4846c7
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -15455,6 +15455,87 @@ browsershots.org#@#.advert_area
 ! *** easylist:easylist/easylist_adservers.txt ***
 ! Non-flagged (Generic blocks)
 ||000491b06a.com^
+||congestprowessburger.com^
+||ashorenorris.com^
+||snailscrambledcontrivance.com^
+||saviourcrimpycrimpyhem.com^
+||assistantinsignificantthings.com^
+||sleepoverlimitprofound.com^
+||layingframingcomrade.com^
+||skinnycrawlinglax.com^
+||realizationnewestfangs.com^
+||sourshaped.com^
+||cowardlydefinite.com^
+||welcomingexpulsion.com^
+||valuesuffering.com^
+||consumeririssalary.com^
+||tasktrivialaggregated.com^
+||dimnessslatecosmetic.com^
+||intentlyuncover.com^
+||prefecturesuggestions.com^
+||noisesroot.com^
+||millionairepilgrim.com^
+||kettledroopingcontinuation.com^
+||smallbruisedfollowing.com^
+||apologyale.com^
+||targetpilothermichermic.com^
+||incompetencesorting.com^
+||crazylatchdisturbance.com^
+||votepercussivepoplar.com^
+||middaymishapnotice.com^
+||trucklowest.com^
+||pupilchangesjustified.com^
+||admiredjumper.com^
+||convertedarchitecturepsychopath.com^
+||derideskid.com^
+||politicsdryer.com^
+||plentyhelium.com^
+||nowfavourable.com^
+||regretfinancially.com^
+||freelygreatestscammer.com^
+||blubberlog.com^
+||supportiveinvoicevarnish.com^
+||engagedconfusionfeasible.com^
+||scornwhile.com^
+||nickeldefiancepriest.com^
+||superioroptionaleveryone.com^
+||excitinginformscarrot.com^
+||palelitistsnick.com^
+||cringezonearistocracy.com^
+||rutcomposureopt.com^
+||politytriumphal.com^
+||geneticnormalthou.com^
+||pubinstancesglorious.com^
+||buildsstate.com^
+||unluckyrecent.com^
+||youngstermansionphrase.com^
+||conjunctionblackmailspill.com^
+||revelationwilfridscience.com^
+||dutchrelay.com^
+||kzt2afc1rp52.com^
+||occupiedstuffgrub.com^
+||sovietsite.com^
+||pollenunmoved.com^
+||faultlying.com^
+||paraderascaldefinitely.com^
+||demolitionnutsgrease.com^
+||numeralsquickerreprove.com^
+||orientalknitotherwise.com^
+||slippersexamination.com^
+||rnqkdvlbmsggwln.com^
+||mgread.com^
+||preferencenail.com^
+||qtpalfofvpsw.com^
+||xadsmart.com^
+||gjihsyopchpdlp.com^
+||madurird.com^
+||visariomedia.com^
+||bmlkrquimbyck.website^
+||txwkjktfojloy.online^
+||xurywsqptqwdm.website^
+||asokapygmoid.com^
+||bruzzexacter.com^
+||ytjvnutks.pro^
 ||coolerpassagesshed.com^
 ||consumeririssalary.com^
 ||realizationnewestfangs.com^
