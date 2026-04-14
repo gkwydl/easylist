@@ -3,7 +3,7 @@
 ! Title: EasyList
 ! Last modified: 14 Apr 2026 08:52 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 5b3746a405cfb5ee6adb83c28a236382d70a08be
+! Commit: bd312450e4838ac51dc01f060939753807f70111
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -15455,6 +15455,18 @@ browsershots.org#@#.advert_area
 ! *** easylist:easylist/easylist_adservers.txt ***
 ! Non-flagged (Generic blocks)
 ||000491b06a.com^
+||coolerpassagesshed.com^
+||consumeririssalary.com^
+||realizationnewestfangs.com^
+||sourshaped.com^
+||rnqkdvlbmsggwln.com^
+||86pjokx7vklxqp5iug2o.cfd^
+||sagiestspiegel.qpon^
+||xadsmart.com^
+||qtpalfofvpsw.com^
+||preferencenail.com^
+||atrophychumpreentry.com^
+||janitorprecisiontrio.com^
 ||rnqkdvlbmsggwln.com^
 ||wufwhygz.in^
 ||epidermispushupvariable.com^
