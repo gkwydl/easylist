@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604142152
+! Version: 202604142158
 ! Title: EasyList
-! Last modified: 14 Apr 2026 21:52 UTC
+! Last modified: 14 Apr 2026 21:58 UTC
 ! Expires: 4 days (update frequency)
-! Commit: a81aae68950c53f1908bf808d24f30c4ea59be1c
+! Commit: 90dc7195606242ee6112edb941c7b312e0f46538
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -29292,6 +29292,7 @@ browsershots.org#@#.advert_area
 ||gimperhappen.cyou^
 ||gimpsgenips.com^
 ||ginchoirblessed.com^
+||gingerhydrula.cfd^
 ||ginningconant.com^
 ||ginningsteri.com^
 ||ginshavance.qpon^
@@ -55097,6 +55098,7 @@ browsershots.org#@#.advert_area
 ||sgziucofrczxh.website^
 ||sh0w-me-h0w.net^
 ||sh0w-me-how.com^
+||shabanboffos.com^
 ||shabandecide.qpon^
 ||shabbatpunceglimed.cfd^
 ||shabby-mood.pro^
