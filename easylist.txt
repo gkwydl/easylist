@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604141254
+! Version: 202604141307
 ! Title: EasyList
-! Last modified: 14 Apr 2026 12:54 UTC
+! Last modified: 14 Apr 2026 13:07 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 1e86f809bf42b9b0a37d0f7edd75f0daf783bfd5
+! Commit: df4ee8efb51fc1740193dc1a1bc0ee3d8929ec8d
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -29583,6 +29583,7 @@ browsershots.org#@#.advert_area
 ||goksmejewlqpk.space^
 ||golanconcludedrecognize.com^
 ||gold2762.com^
+||goldangrefect.qpon^
 ||golden-bad.pro^
 ||golden-gateway.com^
 ||golden-hide.pro^
@@ -54379,6 +54380,7 @@ browsershots.org#@#.advert_area
 ||scoundrelbreakdown.com^
 ||scourerwolfenbehint.cyou^
 ||scouselacunae.qpon^
+||scousesinapicidesia.cfd^
 ||scoutedsoxhletmarsha.cyou^
 ||scoutpatt.help^
 ||scowfabrile.qpon^
@@ -65814,6 +65816,7 @@ browsershots.org#@#.advert_area
 ||woodymotherhood.com^
 ||woodynotioncredibility.com^
 ||woodypata.qpon^
+||wooersbyously.cyou^
 ||woof-wo0f.net^
 ||woofbeginner.com^
 ||wooferdeia.com^
