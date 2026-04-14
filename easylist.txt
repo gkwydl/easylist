@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604140908
+! Version: 202604140915
 ! Title: EasyList
-! Last modified: 14 Apr 2026 09:08 UTC
+! Last modified: 14 Apr 2026 09:15 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 108c6c60a35e044e1f283b1d97c265e292091bf4
+! Commit: 2246368f0f080c9cb298da01106bbaecac5f23b5
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -20020,6 +20020,7 @@ browsershots.org#@#.advert_area
 ||bincatracs.com^
 ||bindirect.click^
 ||bineukdwithmef.org^
+||bineurus.cyou^
 ||bingiesourangsterk.cfd^
 ||binomlink.com^
 ||binomnet.com^
@@ -24078,6 +24079,7 @@ browsershots.org#@#.advert_area
 ||debtdispleaseboss.com^
 ||debtfulignitedtetany.qpon^
 ||debugtrullpotomac.cfd^
+||deburseglor.qpon^
 ||debusedoptive.cyou^
 ||debussypoz.cyou^
 ||debutknee.com^
@@ -27414,6 +27416,7 @@ browsershots.org#@#.advert_area
 ||fdc9cefe70.com^
 ||fdcfbvikm.com^
 ||fdcvnprkhtbzy.com^
+||fddhqgdshulwp.space^
 ||fdfuhymycyhuc.online^
 ||fdhxvayocbhwyq.com^
 ||fdnaylrjswdud.space^
@@ -43790,6 +43793,7 @@ browsershots.org#@#.advert_area
 ||nteqanqudxl.com^
 ||nteukwvyegggr.website^
 ||ntewpiodbt.in^
+||ntfhgbirvp.com^
 ||ntgdwjrbgmocn.website^
 ||nthkmosujmuo.net^
 ||nthvlfevepo.com^
@@ -50440,6 +50444,7 @@ browsershots.org#@#.advert_area
 ||qodfnqtwzdqzd.space^
 ||qoduruwkddheq.site^
 ||qoebdgzpnonpu.online^
+||qoewovfmkn4rw3u.rest^
 ||qofzpsdexjmbw.site^
 ||qogcteumntijn.site^
 ||qogtdnpdsapeg.site^
