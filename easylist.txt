@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604151307
+! Version: 202604151315
 ! Title: EasyList
-! Last modified: 15 Apr 2026 13:07 UTC
+! Last modified: 15 Apr 2026 13:15 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 22bc70e52f67a3f2878e5f7b106fa2bc7450ecbe
+! Commit: abf66facd4f19ca72955bf8d6f27d8f1b418db0d
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -29103,6 +29103,7 @@ browsershots.org#@#.advert_area
 ||geghlyrecomemu.com^
 ||gegori.xyz^
 ||gegqyfewpclyb.site^
+||geirathorpe.qpon^
 ||geisayesthumored.cyou^
 ||gekeebsirs.com^
 ||gekpjfmuzimlg.online^
@@ -40040,6 +40041,7 @@ browsershots.org#@#.advert_area
 ||manidaesyrtis.qpon^
 ||manifestbeardlozenge.com^
 ||manifestoctavianapostrophe.com^
+||manihothallahs.qpon^
 ||manilaberchtahuscarl.cfd^
 ||manilalunule.cyou^
 ||maniockisang.qpon^
