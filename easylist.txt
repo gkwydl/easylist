@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604150004
+! Version: 202604150006
 ! Title: EasyList
-! Last modified: 15 Apr 2026 00:04 UTC
+! Last modified: 15 Apr 2026 00:06 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 667fa65a9e5704042e4607735346685b234d455d
+! Commit: 271d3fcc34e099e95b94f0973e28635df8bbf2a1
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -16226,6 +16226,7 @@ browsershots.org#@#.advert_area
 ||6vio3b54hvbyolmfuwcbntxtngi.cfd^
 ||6viwzxe332lftwhi77l79h984.rest^
 ||6yzfub9hhkgq2v.rest^
+||6znvp3ntipfwknn4r.cfd^
 ||6zy9yqe1ew.com^
 ||7-7-7-partner.com^
 ||7003128946.com^
@@ -63627,6 +63628,7 @@ browsershots.org#@#.advert_area
 ||vinwtqpxijcfp.website^
 ||vinylaphodi.qpon^
 ||vinyonwede.qpon^
+||vinytalustzar.cfd^
 ||viogcxblzxhek.online^
 ||violaanguria.com^
 ||violaseaters.shop^
