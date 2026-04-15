@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604151034
+! Version: 202604151042
 ! Title: EasyList
-! Last modified: 15 Apr 2026 10:34 UTC
+! Last modified: 15 Apr 2026 10:42 UTC
 ! Expires: 4 days (update frequency)
-! Commit: e54499bcd69b98ca31dd0e5c23d8524257bac15f
+! Commit: abd90de2d27e1db2a4258264a061b84772d47996
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -56080,6 +56080,7 @@ browsershots.org#@#.advert_area
 ||sloto.live^
 ||slotsmiling.com^
 ||slovenscrankly.com^
+||slovvcaojwrhv.space^
 ||slow-attitude.com^
 ||slowbeetle.cfd^
 ||slowdn.net^
