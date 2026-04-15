@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604150437
+! Version: 202604150438
 ! Title: EasyList
-! Last modified: 15 Apr 2026 04:37 UTC
+! Last modified: 15 Apr 2026 04:38 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 3ae5830a20dc1005c9d155d8335b42a1db66773c
+! Commit: 1451caf330b11430017991db64519aaf21ce0615
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -85914,7 +85914,7 @@ wplift.com##.widget_bsa
 insidehpc.com##.widget_download_manager_widget
 domaingang.com##.widget_execphp
 bitcoinist.com##.widget_featured_companies
-bestlifeonline.com,bodynetwork.com,hellogiggles.com##.widget_gm_karmaadunit_widget
+bestlifeonline.com,bodynetwork.com,celebwell.com,hellogiggles.com##.widget_gm_karmaadunit_widget
 inlandvalleynews.com##.widget_goodlayers-1-1-banner-widget
 faroutmagazine.co.uk##.widget_grv_mpu_widget
 gizmodo.com,kotaku.com##.widget_keleops-ad
