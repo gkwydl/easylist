@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604150429
+! Version: 202604150434
 ! Title: EasyList
-! Last modified: 15 Apr 2026 04:29 UTC
+! Last modified: 15 Apr 2026 04:34 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 5996b564f4a8eca1fc533b34312ad8cec8d4229c
+! Commit: 000f1e291e4979c8eed10187e6c658ff8017fb91
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -87876,6 +87876,7 @@ grit.com###GMTK_Middle_300x250
 grit.com###GMTK_Top_728x90
 gunsandammo.com###VideoPlayerDivIframe
 usnews.com###ac-lre-player-ph
+brobible.com###anyclip-post-container
 ew.com###article__primary-video-jw_1-0
 barchart.com###bc-cnx-player
 stocktwits.com###bottom-nav-content
