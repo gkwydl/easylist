@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604151301
+! Version: 202604151307
 ! Title: EasyList
-! Last modified: 15 Apr 2026 13:01 UTC
+! Last modified: 15 Apr 2026 13:07 UTC
 ! Expires: 4 days (update frequency)
-! Commit: d4267dd803f22f516e4de1c561a2b05ddd33912e
+! Commit: 22bc70e52f67a3f2878e5f7b106fa2bc7450ecbe
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -29439,6 +29439,7 @@ browsershots.org#@#.advert_area
 ||glamorousconditionsattempt.com^
 ||glamoroustangiblematching.com^
 ||glamorsfilius.shop^
+||glamorsmelamdhaura.cyou^
 ||glancedgambone.shop^
 ||glancedsecretion.com^
 ||glandalongtruce.com^
@@ -46174,6 +46175,7 @@ browsershots.org#@#.advert_area
 ||ouyflgaswts.xyz^
 ||ouzoseposes.cfd^
 ||ov5hhyvi8b95hbrvfqfcml993.rest^
+||ovaljaloppy.qpon^
 ||ovalpool.pro^
 ||ovardu.com^
 ||ovariangonake.qpon^
@@ -48320,6 +48322,7 @@ browsershots.org#@#.advert_area
 ||pnuhondppw.com^
 ||pnvgvddcxpczr.space^
 ||pnvjktqmmwapn.online^
+||pnwvetxziuxja.space^
 ||pnxfexrscthlb.store^
 ||pnxjuppggesgo.com^
 ||pnxytfbvhknns.space^
@@ -50133,6 +50136,7 @@ browsershots.org#@#.advert_area
 ||qaflyqanumeji.online^
 ||qahbicohgac.in^
 ||qahjwrdlnitjr.space^
+||qahlummlylrkef.com^
 ||qahmipatkmaj.com^
 ||qahzdrhruieun.website^
 ||qainfcnvfensl.site^
@@ -58972,6 +58976,7 @@ browsershots.org#@#.advert_area
 ||tentersforesay.qpon^
 ||tentioniaukmlastit.com^
 ||tentorykolobia.cfd^
+||tenuisoromo.cfd^
 ||tenuousmooress.shop^
 ||teoaxzazksyuo.site^
 ||teoeqzeceibxd.space^
@@ -62183,6 +62188,7 @@ browsershots.org#@#.advert_area
 ||unskilfulunpredictable.com^
 ||unskilledaccompanimentcircumstances.com^
 ||unslackferlingbarkery.qpon^
+||unslackmahdian.cyou^
 ||unslaveslier.qpon^
 ||unslavesloshed.shop^
 ||unslylysmug.cfd^
