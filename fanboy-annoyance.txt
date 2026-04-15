@@ -3,7 +3,7 @@
 ! Title: Fanboy's Annoyance List
 ! Last modified: 15 Apr 2026 00:17 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 73545f73a49b19efcff224283eb3090fcb73ca11
+! Commit: d18cf83456af61f48fa4dc1ff692069bafd0c543
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -33812,6 +33812,7 @@ cnbc.com##.WildcardEmbed-wrapper
 latimes.com##.\@container\/newsletter-module
 timesnownews.com##._37K4.RUE6
 80.lv##._3Gr3h
+gulfnews.com##._4EXSh
 thelogic.co##.__form-wrapper
 friendlyatheist.com##._background_1mspu_85
 thefiscaltimes.com,thewalrus.ca##._form

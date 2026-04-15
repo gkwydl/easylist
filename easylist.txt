@@ -3,7 +3,7 @@
 ! Title: EasyList
 ! Last modified: 15 Apr 2026 00:17 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 73545f73a49b19efcff224283eb3090fcb73ca11
+! Commit: d18cf83456af61f48fa4dc1ff692069bafd0c543
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -80508,6 +80508,19 @@ lust-goddess.com###dialog-partner
 wsj.com###dianomi-module
 diep.io###diep-io_300x250
 tmo.report###directad
+gulfnews.com###display_article_footer
+gulfnews.com###display_in_article_1
+gulfnews.com###display_in_article_2
+gulfnews.com###display_in_article_3
+gulfnews.com###display_in_article_rest
+gulfnews.com###display_midpage_1
+gulfnews.com###display_midpage_2
+gulfnews.com###display_midpage_3
+gulfnews.com###display_midpage_rest
+gulfnews.com###display_sidebar_right_1
+gulfnews.com###display_sidebar_right_1_home
+gulfnews.com###display_sidebar_right_2
+gulfnews.com###display_sidebar_right_3
 realclearpolitics.com###distro_right_rail
 tribunnews.com###div-Inside-MediumRectangle
 ndtvgames.com###div-ad
@@ -82079,7 +82092,7 @@ cooking.nytimes.com##.adunit_ad-unit__IhpkS
 ip-address.org##.aduns
 ip-address.org##.aduns2
 ip-address.org##.aduns6
-4cc.com.au,baltic-course.com,domusweb.it,futbol24.com,gatewaynews.co.za,gsmarena.com,gulfnews.com,idealista.com,jetphotos.com,karger.com,maritimejobs.com,newagebd.net,prohaircut.com,railcolornews.com,titter.com,zbani.com##.adv
+4cc.com.au,baltic-course.com,domusweb.it,futbol24.com,gatewaynews.co.za,gsmarena.com,idealista.com,jetphotos.com,karger.com,maritimejobs.com,newagebd.net,prohaircut.com,railcolornews.com,titter.com,zbani.com##.adv
 mrw.co.uk##.adv-banner-top
 apkgk.com##.adv-block2
 blastingnews.com##.adv-box-content
