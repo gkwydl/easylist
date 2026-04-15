@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604150203
+! Version: 202604150204
 ! Title: EasyList
-! Last modified: 15 Apr 2026 02:03 UTC
+! Last modified: 15 Apr 2026 02:04 UTC
 ! Expires: 4 days (update frequency)
-! Commit: f0aff48233d76a009d6fc00740f9cbf5b4ee5288
+! Commit: 6bb292aa263ec0c99fe8cb57439c8036ed034a5f
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -24563,6 +24563,7 @@ browsershots.org#@#.advert_area
 ||diarrhoeaeaglesunday.com^
 ||diasyrmunionic.com^
 ||diazidehematid.com^
+||diazoicmohair.com^
 ||dibsemey.com^
 ||dicastisort.cyou^
 ||dicconbumtrap.com^
@@ -30239,6 +30240,7 @@ browsershots.org#@#.advert_area
 ||gxiacapeptyos.club^
 ||gxlyxvjvwmbff.store^
 ||gxmtwwxptikbv.site^
+||gxnisacndepkb.com^
 ||gxohwrfaijevy.site^
 ||gxordgtvjr.com^
 ||gxozdwttsqtqp.website^
@@ -40251,6 +40253,7 @@ browsershots.org#@#.advert_area
 ||mbcm2.com^
 ||mbddip.com^
 ||mbdippex.com^
+||mbdmildishzontian.cfd^
 ||mbdswyvxjqupq.online^
 ||mbduodoleetzq.website^
 ||mbenxfvimvcmf.site^
@@ -59584,6 +59587,7 @@ browsershots.org#@#.advert_area
 ||tktxnboxvrkfp.online^
 ||tktzgajycssox.site^
 ||tku35952xwyru2p289oripippvb34u.cfd^
+||tkwthyzczevmy.website^
 ||tkxwz38iyrq1fwixr.cfd^
 ||tkyclvgzjfjwq.space^
 ||tkyjmfwjnzyov.site^
