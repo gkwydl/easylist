@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604160733
+! Version: 202604160736
 ! Title: Fanboy's Anti-Newsletter List
-! Last modified: 16 Apr 2026 07:33 UTC
+! Last modified: 16 Apr 2026 07:36 UTC
 ! Expires: 4 days (update frequency)
-! Commit: c1a32a74d138528b52ae528d46d6fc65f2051d0e
+! Commit: 60766d7265cf4ebffd532fbb3bf6f2bf242820bb
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -2948,7 +2948,7 @@ misinforeview.hks.harvard.edu##.misinfo-banner
 motherjones.com##.mj-text-cta
 heartfm.co.za##.mk-subscribe-link
 ganjapreneur.com##.ml-form-embed
-chaser.com.au,findingtheuniverse.com,levittownnow.com,serenabakessimplyfromscratch.com,techpolicy.press,thegazette.com,watchers.news##.ml-form-embedContainer
+chaser.com.au,findingtheuniverse.com,levittownnow.com,serenabakessimplyfromscratch.com,techpolicy.press,thegazette.com,watchers.news,zmescience.com##.ml-form-embedContainer
 pymnts.com##.ml-subscribe-form-5774674
 thebestcakerecipes.com##.ml-vertical-align-center
 lizzomusic.com##.mlform

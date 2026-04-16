@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604160733
+! Version: 202604160736
 ! Title: Fanboy's Social Blocking List
-! Last modified: 16 Apr 2026 07:33 UTC
+! Last modified: 16 Apr 2026 07:36 UTC
 ! Expires: 4 days (update frequency)
-! Commit: c1a32a74d138528b52ae528d46d6fc65f2051d0e
+! Commit: 60766d7265cf4ebffd532fbb3bf6f2bf242820bb
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -11993,6 +11993,7 @@ firstpost.com##.yt-ch
 blog.youtube##.yt-social__list
 application-remuneratrice.com##.zd-social
 nypost.com##.zephrModal
+zmescience.com##.zme-google-follow-banners
 wdwmagic.com##.zocial
 securityweek.com##.zox-post-soc-list
 retbit.com##.zox-post-soc-scroll-out
