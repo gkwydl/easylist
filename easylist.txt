@@ -3,7 +3,7 @@
 ! Title: EasyList
 ! Last modified: 16 Apr 2026 12:08 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 43e06117afb893a818172e204ee7fcbfb453fea2
+! Commit: 196316777b41ad78db408a6e68f46670f47d621d
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -87475,7 +87475,7 @@ nordstrom.com##iframe[data-revjet-options]
 linkedin.com##iframe[height="250"][width="300"]
 pixiv.net##iframe[height="300"][name="responsive"]
 pixiv.net##iframe[height="520"][name="expandedFooter"]
-yourbittorrent.com##iframe[src]
+lolvvv.com,yourbittorrent.com##iframe[src]
 realgearonline.com##iframe[src^="http://www.adpeepshosted.com/"]
 linkedin.com##iframe[title="Advertisement"]
 linkedin.com##iframe[title="advertisement"]
