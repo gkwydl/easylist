@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604162135
+! Version: 202604162139
 ! Title: EasyList
-! Last modified: 16 Apr 2026 21:35 UTC
+! Last modified: 16 Apr 2026 21:39 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 532bc18d7b9f08f3ea0b07b1cec8441b336074a2
+! Commit: f0a2695d16203a115dedf09727eca1ac904e0029
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -88910,6 +88910,7 @@ euronews.com#?#.the-media-object--has-sponsored:has-text(/In partnership with|In
 eztv.tf,eztv.yt#?#tbody:has-text(WARNING! Use a)
 filehippo.com#?#article.card-article:has(span.card-article__author:has-text(Sponsored Content))
 fiverr.com#?#.gig-card-layout:has-text(Ad by)
+flipkart.com#?#.fWi7J_:has-text(Brands In Spotlight)
 flipkart.com#?#.grid-formation:has(div:has-text(AD))
 foobar2000.org#?#caption:has-text(advertisement)
 foodlion.com#?#.product-grid-cell:has-text(Sponsored)
