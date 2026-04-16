@@ -3,7 +3,7 @@
 ! Title: EasyList
 ! Last modified: 16 Apr 2026 21:39 UTC
 ! Expires: 4 days (update frequency)
-! Commit: f0a2695d16203a115dedf09727eca1ac904e0029
+! Commit: 66bf9633bae9d63a56b30010b0578aabd8df2779
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -88173,6 +88173,7 @@ yandex.com##li[class*="_card"]:has(a[href^="https://yandex.com/search/_crpd/"])
 yahoo.com##li[class="first"]:has([data-ylk*="affiliate_link"])
 autotrader.co.uk##li[class]:has(span[data-testid="FEATURED_LISTING"])
 autotrader.co.uk##li[class]:has(span[data-testid="PROMOTED_LISTING"])
+cars.com##li[data-phx-id]:has([phx-value-source="sponsored_trending_search_card"])
 canadiantire.ca##li[data-testid="product-grids"]:has(.nl-product-card__sponsored)
 aboutyou.de##li[data-testid^="productTileTracker-"]:has([data-testid="sponsored"])
 aboutyou.de##li[data-testid^="productTileTracker-"]:has(button[data-testid="spo"])
