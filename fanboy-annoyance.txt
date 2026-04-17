@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604171918
+! Version: 202604171920
 ! Title: Fanboy's Annoyance List
-! Last modified: 17 Apr 2026 19:18 UTC
+! Last modified: 17 Apr 2026 19:20 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 6eae7f3bca9621dedde3232c81a8d1dd886f8e89
+! Commit: 3dd6d219647149a5daded9fb41124b0c0ff19590
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -32988,6 +32988,7 @@ merckmanuals.com,msdmanuals.com##.marketing-block-wrapper
 act.hoyolab.com##.mhy-hoyolab-app-header
 inoreader.com##.mid_hero
 pixai.art##.min-h-screen > section.box-content.bg-background.border-b[style="height: 50px;"]
+google.com##.ml-assistive-chips [data-value="open_in_app"]
 google.*##.ml-promotion-container
 uinterview.com,usbair.com##.mobile-app
 kariyer.net##.mobile-app-download
