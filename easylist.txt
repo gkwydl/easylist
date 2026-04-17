@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604171607
+! Version: 202604171608
 ! Title: EasyList
-! Last modified: 17 Apr 2026 16:07 UTC
+! Last modified: 17 Apr 2026 16:08 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 022290ce9e069944a487d7ea621386e8c0076799
+! Commit: 161dfd3b9514229e86b40220088b458ce070d026
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -75565,6 +75565,7 @@ browsershots.org#@#.advert_area
 ||dailymirror.lk/youmaylike
 ||dailynews.lk/wp-content/uploads/2024/02/D-E
 ||data.angel.digital/images/b/$image
+||dealhunt.com/embed/$domain=androidauthority.com
 ||deltabravo.net/admax/
 ||depressionforums.org/wp-content/uploads/2023/05/balban.jpg.webp
 ||designtaxi.com/js/dt-seo.js
@@ -85341,6 +85342,8 @@ acmemarkets.com,albertsons.com,andronicos.com,carrsqc.com,haggen.com,jewelosco.c
 agoda.com#?#.PropertyCardItem:has(div:has-text(Promoted))
 alibaba.com#?#.J-offer-wrapper:has-text(Top sponsor listing)
 amusingplanet.com#?#.blockTitle:has-text(Advertisement)
+androidauthority.com#?#div[class="e_Qi"]:has-text(Trending Tech Deals)
+androidauthority.com#?#div[class="e_ic e_d"]:has-text(Affiliate links on Android Authority may earn us a commission)
 anfieldindex.com#?#aside[data-animation-event]:has-text(PARTNERS)
 animalfunfacts.net#?#center:has-text(ADVERT)
 app.daily.dev#?#article:has-text(Promoted)
