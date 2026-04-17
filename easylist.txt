@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604171633
+! Version: 202604171634
 ! Title: EasyList
-! Last modified: 17 Apr 2026 16:33 UTC
+! Last modified: 17 Apr 2026 16:34 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 08e4f15e3f73dc24d93322e12bf37e964bacafe0
+! Commit: 3e905e5100885dc0912f6816aa6c8285430092dd
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -86965,7 +86965,7 @@ reddxxx.com#?#[role="gridcell"]:has-text(/^AD$/)
 ! ABP CSS injection filters
 hitomi.la##.content > div[class]:not([class*="-"]) {min-height:40px !important;}
 hitomi.la##.top-content > div[class]:not([class*="-"]) {min-height:40px !important;}
-myhentaicomics.com##.featured-manga, .header-spot, .pagination-image { min-height: 0 !important; }
+myhentaicomics.com##.featured-manga, .header-spot, .pagination-image {min-height:0 !important;}
 otomi-games.com##.clean-grid-grid-post:has(> [id^="otomi-"] + .clean-grid-grid-post-details-full) {remove:true;}
 ! 69games.xxx/gamcore/porcore.com
 classic.gamcore.com###center > .flashes > .wide:has(> a[href][rel])
