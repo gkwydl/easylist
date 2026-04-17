@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604171654
+! Version: 202604171701
 ! Title: EasyList
-! Last modified: 17 Apr 2026 16:54 UTC
+! Last modified: 17 Apr 2026 17:01 UTC
 ! Expires: 4 days (update frequency)
-! Commit: a8c38053877edaca09357ace84c281a95e3585b1
+! Commit: 69cbabe416ee5302cbc58ed43b9ee4a5db538b7f
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -28957,6 +28957,7 @@ browsershots.org#@#.advert_area
 ||fwciiqsskqyih.site^
 ||fwhiygzlhmklt.website^
 ||fwioqgqlohdoc.online^
+||fwkjvuoqfqchj.online^
 ||fwlpazuvbhmkg.online^
 ||fwmknvveyfahw.site^
 ||fwmrm.net^
@@ -32048,6 +32049,7 @@ browsershots.org#@#.advert_area
 ||iccihomoulkrg.online^
 ||iccvjzhpfolzj.space^
 ||icdirect.com^
+||icebxgkpn.com^
 ||icecaptifter.com^
 ||icedfemdust.cfd^
 ||icelessbogles.com^
@@ -36299,6 +36301,7 @@ browsershots.org#@#.advert_area
 ||lordhelpuswithssl.com^
 ||lordtroublessounding.com^
 ||lorgtbzlfxixd.online^
+||lornstupexbelgae.cyou^
 ||lorryurban.com^
 ||losangskirled.qpon^
 ||loseimposeherself.com^
