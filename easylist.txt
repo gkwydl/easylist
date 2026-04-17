@@ -3,7 +3,7 @@
 ! Title: EasyList
 ! Last modified: 17 Apr 2026 21:44 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 0b4f1112a721b3aff02a117098c2ca977680a401
+! Commit: dda821dcbb1556b02e810b1fc12cf23a1628cb95
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -78416,6 +78416,7 @@ sammobile.com###venatus-hybrid-banner
 nutritioninsight.com###verticlblks
 mykhel.com,oneindia.com###verticleLinks
 ghgossip.com###vi-sticky-ad
+slashdot.org###vibe-code
 investing.com###video
 forums.tomsguide.com###video_ad
 gumtree.com.au###view-item-page__leaderboard-wrapper
