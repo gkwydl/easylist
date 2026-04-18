@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604181637
+! Version: 202604181646
 ! Title: EasyList
-! Last modified: 18 Apr 2026 16:37 UTC
+! Last modified: 18 Apr 2026 16:46 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 928c4ee182e58f0afaa9aa3e0810c7c981b3a930
+! Commit: c02b8467d9399524b6f63a30b38ed28df3d1a433
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -25689,6 +25689,7 @@ browsershots.org#@#.advert_area
 ||dundeescartiercabaa.cfd^
 ||dunderaffiliates.com^
 ||dunderchafes.qpon^
+||duneboggart.com^
 ||dunesworkyimbues.qpon^
 ||dunkashtraycolloquial.com^
 ||dunkernamers.shop^
@@ -30938,6 +30939,7 @@ browsershots.org#@#.advert_area
 ||hazingshattmoonier.cyou^
 ||hazqtoal.in^
 ||hazyexamples.com^
+||hazzanssudanic.com^
 ||hb-247.com^
 ||hb94dnbe.de^
 ||hbbvlycolsokk.site^
@@ -58865,6 +58867,7 @@ browsershots.org#@#.advert_area
 ||unbelievablyabsolutely.com^
 ||unbelievablycaption.com^
 ||unbesottemin.shop^
+||unbetpailow.com^
 ||unbiasbiog.cfd^
 ||unblimans.cfd^
 ||unblindmiliaspurl.qpon^
