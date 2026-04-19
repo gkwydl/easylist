@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604190519
+! Version: 202604190524
 ! Title: EasyList
-! Last modified: 19 Apr 2026 05:19 UTC
+! Last modified: 19 Apr 2026 05:24 UTC
 ! Expires: 4 days (update frequency)
-! Commit: b419c6e82f030d0a07b72104b1e66b4cfa8b7e3d
+! Commit: cf2c3e62a0d6864630546879220f0bdf5206aca2
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -36461,6 +36461,7 @@ browsershots.org#@#.advert_area
 ||logicdate.com^
 ||logicprecursor.com^
 ||logicschort.com^
+||loginbreton.com^
 ||logingenerosity.com^
 ||loginrubbishobey.com^
 ||logionsmincer.qpon^
@@ -37408,6 +37409,7 @@ browsershots.org#@#.advert_area
 ||mcmxgnbkvyypp.online^
 ||mcnlpmzrhpvcq.online^
 ||mcocayxlebnuv.space^
+||mcohogthdeiri.website^
 ||mcomwacfpafmugc.com^
 ||mcppsh.com^
 ||mcpuwpsh.com^
