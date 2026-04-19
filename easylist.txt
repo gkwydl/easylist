@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604191546
+! Version: 202604191548
 ! Title: EasyList
-! Last modified: 19 Apr 2026 15:46 UTC
+! Last modified: 19 Apr 2026 15:48 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 1d4d124e30c33f2429555a84a7268719a6d752bb
+! Commit: 0855ba9cbb2dcbb860131ca77127c0ac0f0a0019
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -15232,6 +15232,7 @@ muzines.co.uk#@#.ad_main
 jabank-tokushima.or.jp#@#.ad_middle
 huffingtonpost.co.uk#@#.ad_spot
 kpanews.co.kr#@#.ad_top
+5chmm.jp#@#.adarea
 genshinimpactcalculator.com#@#.adban
 weatherwx.com#@#.adbutton
 boots.com#@#.adcard
