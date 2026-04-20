@@ -3,7 +3,7 @@
 ! Title: EasyPrivacy
 ! Last modified: 20 Apr 2026 04:09 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 7ca50c987bef9531d53e217f947a7a95c59df00c
+! Commit: 97caabacaaa6fbabc8b00ed03b9d6ca655f7128e
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -53131,7 +53131,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||ens.nzz.ch^
 ||ens.tagblatt.ch^
 ||epimetheus.navigator.web.de^
-||epochtimes.de/mp/track/
+||epochtimes.de/epoch-mp/epoch_mp.min.js
 ||eum.instana.rewe-group.com^
 ||event-collector.prd.data.s.joyn.de^
 ||events.limango.com^
