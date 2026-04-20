@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604201100
+! Version: 202604201102
 ! Title: Fanboy's Social Blocking List
-! Last modified: 20 Apr 2026 11:00 UTC
+! Last modified: 20 Apr 2026 11:02 UTC
 ! Expires: 4 days (update frequency)
-! Commit: e13089388268881cdf72bfa5bad2d40b7f7f30af
+! Commit: d2d94afb649aea24eb7b7d105ae9a454e41498fd
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
