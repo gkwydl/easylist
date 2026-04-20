@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604200303
+! Version: 202604200309
 ! Title: EasyList
-! Last modified: 20 Apr 2026 03:03 UTC
+! Last modified: 20 Apr 2026 03:09 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 6b86565eec637f2bc339c2f51c6770e1a521123f
+! Commit: 8c74061917d2a20d68c0585429947a6173d04193
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -16289,6 +16289,7 @@ browsershots.org#@#.advert_area
 ||77faf458f4.com^
 ||77whjt76yzzplf76yewc.cfd^
 ||782c161d89.com^
+||7837n19n54j8p6iv.rest^
 ||784d1dcf4a.com^
 ||788eaddaac.com^
 ||78bk5iji.de^
@@ -16375,6 +16376,7 @@ browsershots.org#@#.advert_area
 ||86a988b20f.com^
 ||86fef27c8b.com^
 ||86gx67fyk372pl9.rest^
+||86hhiuu88n3rpqmhlolf2bzu.cfd^
 ||86hi9r4f.xyz^
 ||86pjokx7vklxqp5iug2o.cfd^
 ||876i7innill48m.rest^
@@ -60680,6 +60682,7 @@ browsershots.org#@#.advert_area
 ||wedgehastily.com^
 ||wedgeneutralitymiss.com^
 ||wedgierbirsit.com^
+||wedgiesbeersnoils.cyou^
 ||wedsetdonkey.cyou^
 ||wee-dare.pro^
 ||wee-stretch.pro^
