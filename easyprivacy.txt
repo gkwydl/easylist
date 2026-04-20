@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202604200414
+! Version: 202604200415
 ! Title: EasyPrivacy
-! Last modified: 20 Apr 2026 04:14 UTC
+! Last modified: 20 Apr 2026 04:15 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 2e9bd9a22975d204886ec6d253a9e6c988f9acc9
+! Commit: b6072ab50f5561be8fb65cbc2a354c7a40686497
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -387,6 +387,7 @@
 /api/v3/getPageVisits
 /api/v3/trackSegmentEvent
 /api/video/stats/*$xmlhttprequest
+/api/web/v1/tracker$ping
 /api_adlog.php?
 /api_ip_info.php
 /apilog?
@@ -3844,6 +3845,7 @@ omni.soundestlink.com$image
 ||siteperformancetest.net^
 ||sjpf.io^
 ||skcrtxr.com^
+||smartiwheel.com^
 ||smartmetrics.co.uk^
 ||smartytouch.co^
 ||snptrk.com^
