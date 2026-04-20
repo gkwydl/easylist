@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604200409
+! Version: 202604200410
 ! Title: EasyList
-! Last modified: 20 Apr 2026 04:09 UTC
+! Last modified: 20 Apr 2026 04:10 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 97caabacaaa6fbabc8b00ed03b9d6ca655f7128e
+! Commit: 5a24fde8cd1f2bee77c08c3c4fb905e93723de8e
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -73939,6 +73939,7 @@ browsershots.org#@#.advert_area
 ||georealcdn.com/exo/
 ||gettubetv.com^$third-party
 ||gfrevenge.com/vbanners/
+||girls-games.org/bnr/
 ||go.telorku.xyz/hls/iklan.js
 ||go2cdn.org/brand/$third-party
 ||gpt.milftube.mobi^
@@ -75205,6 +75206,7 @@ $popup,domain=07c225f3.online|content-loader.com|css-load.com|html-load.cc|html-
 ||cams.imgtaxi.com^
 ||camvideos.tv/tpd.png
 ||camvideos.tv^$subdocument
+||cdn.miohentai.com/partners/$rewrite=abp-resource:blank-mp4,domain=miohentai.com
 ||cdn.sinparty.com/site/banner.html
 ||cdn3x.com/xxxdan/js/xxxdan.vast.
 ||celeb.gate.cc/assets/bilder/bann
