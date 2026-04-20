@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604201355
+! Version: 202604201358
 ! Title: Fanboy's Annoyance List
-! Last modified: 20 Apr 2026 13:55 UTC
+! Last modified: 20 Apr 2026 13:58 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 8da4a791f610b2b8af1482a26ae4be5e0c08c1ee
+! Commit: 342e19dee529345286992a3161bb7e2712c78ef6
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -31367,7 +31367,7 @@ flaticon.com##.bn-space
 boingboing.net##.boing-premium-modal-placement
 gofugyourself.com##.books
 inthesetimes.com##.border-red
-kompas.id##.bottom-0
+kompas.id,letsdatascience.com##.bottom-0
 thesaturdaypaper.com.au##.bottom-piano-banner
 arxiv.org##.bps-banner
 mcsweeneys.net##.breaking-news-container
@@ -41721,7 +41721,7 @@ app.gnosispay.com,cinobo.com,jdslabs.com,lukso.network,lumoar.com,mymarket.ge,pl
 ! ! .bottom-8
 ai-coustics.com,betterstack.com,dr-anns.com,lightyear.one,parallel.life,platoboost.app,vecer.com##.bottom-8
 ! ! .bottom-4
-airlineratings.com,blog.smithsecurity.biz,boo.world,canyouhack.org,convex.dev,desenio.se,docs.earthly.dev,downornot.net,foodhubforbusiness.com,freetv.tv,getmerlin.in,gitverse.ru,herzindagi.com,justo.ca,media.halvacard.ru,moises.ai,my.openbb.co,progorod62.ru,promobit.com.br,pump.fun,remnote.com,shuttle.rs,sllm.cloud,snead.app,thinglink.com,urlcast.io##.bottom-4
+airlineratings.com,blog.smithsecurity.biz,boo.world,canyouhack.org,convex.dev,desenio.se,docs.earthly.dev,downornot.net,foodhubforbusiness.com,freetv.tv,getmerlin.in,gitverse.ru,herzindagi.com,justo.ca,letsdatascience.com,media.halvacard.ru,moises.ai,my.openbb.co,progorod62.ru,promobit.com.br,pump.fun,remnote.com,shuttle.rs,sllm.cloud,snead.app,thinglink.com,urlcast.io##.bottom-4
 ! ! .bottom-40
 netnoticias.mx##.bottom-40
 ! ! .bottom-3
