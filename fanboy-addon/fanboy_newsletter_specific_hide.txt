@@ -2898,3 +2898,4 @@ itechpost.com##.nw_cont
 news.artnet.com##.theme-newsletter-signup
 ! uBO-specific fixes
 !#include fanboy_newsletter_specific_uBO.txt
+adlyticmarketing.com##.yui3-overlaycentercard04-focused.sqs-slide-animation-ready.sqs-slide-ready.yui3-overlaycentercard04-content.yui3-overlaycentercard04.yui3-widget.sqs-slide
