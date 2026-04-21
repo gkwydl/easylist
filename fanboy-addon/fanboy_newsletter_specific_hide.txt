@@ -2898,3 +2898,4 @@ itechpost.com##.nw_cont
 news.artnet.com##.theme-newsletter-signup
 ! uBO-specific fixes
 !#include fanboy_newsletter_specific_uBO.txt
+garryslist.org##.lg\:py-5.pb-10.pt-4.relative
