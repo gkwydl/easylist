@@ -3,7 +3,7 @@
 ! Title: EasyList
 ! Last modified: 21 Apr 2026 06:08 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 35d8048b404cce019c7d8ead1e938eeb757fe27f
+! Commit: 74b9123cf4203592352d243b91f6ddb98fa44fe1
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -51222,6 +51222,7 @@ browsershots.org#@#.advert_area
 ||sillyscene.pro^
 ||silqhulnbqvya.website^
 ||siltacetla.cyou^
+||siltspommelosolums.cyou^
 ||silverangleshookup.com^
 ||silverforestpath.com^
 ||silverleafroad.com^
