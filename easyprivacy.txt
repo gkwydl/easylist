@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202604210317
+! Version: 202604210319
 ! Title: EasyPrivacy
-! Last modified: 21 Apr 2026 03:17 UTC
+! Last modified: 21 Apr 2026 03:19 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 7a1d734a85d0603dcc519271d2cf34ff2fb73844
+! Commit: bbdcfb6e4b38cbf8d1638a1d41195e79f5384a16
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -7603,7 +7603,7 @@ omni.soundestlink.com$image
 ||internalcondition.com^
 ||internalsink.com^
 ||intricateberry.com^
-||inventorycache.com^
+||inventorycache.com^$~xmlhttprequest
 ||inventtango.com^
 ||invoicetick.com^
 ||iotapool.com^
@@ -17100,6 +17100,7 @@ gbatemp.net##+js(set, admiral, noopFunc)
 usatoday.com##+js(set, gnt.x.adm, '')
 ! noopjson
 ||acustomizedgift.com^$redirect=noopjson,xmlhttprequest
+||inventorycache.com^$redirect=noopjson,xmlhttprequest
 ||kindhush.com^$redirect=noopjson,xmlhttprequest
 ||oceancloudhosts.com^$redirect=noopjson,xmlhttprequest
 ! anikore.jp
