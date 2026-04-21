@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604210218
+! Version: 202604210224
 ! Title: EasyList
-! Last modified: 21 Apr 2026 02:18 UTC
+! Last modified: 21 Apr 2026 02:24 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 2d42422aa9d8c6959531cb36b317dcfa572e1653
+! Commit: 802ed35ab06b6f0a8463e38b32ee57cc5df9a7d0
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -34186,6 +34186,7 @@ browsershots.org#@#.advert_area
 ||jkuhzigovljcc.space^
 ||jkvbegvzzmrsn.website^
 ||jkxihdymwxueh.space^
+||jkxlzrxhtqrdr.online^
 ||jkydijiclzyan.online^
 ||jkzakzazloavb.top^
 ||jkzakzazlojvz.top^
@@ -44229,6 +44230,7 @@ browsershots.org#@#.advert_area
 ||pramrowanslang.com^
 ||prancedcaratesbide.qpon^
 ||prancemiamia.cyou^
+||prandbenefic.com^
 ||prandsquirmsmurrain.cfd^
 ||prangsmiled.qpon^
 ||prankhistorian.com^
@@ -49881,6 +49883,7 @@ browsershots.org#@#.advert_area
 ||sausagefaithfemales.com^
 ||sautelogis.cfd^
 ||sautesuhuaro.shop^
+||sautslowup.com^
 ||sauwaistaugleet.net^
 ||sauwaulejali.net^
 ||savageavowmidland.com^
