@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604210623
+! Version: 202604210629
 ! Title: Fanboy's Social Blocking List
-! Last modified: 21 Apr 2026 06:23 UTC
+! Last modified: 21 Apr 2026 06:29 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 2fe54cba7cef83228b1c61ea1c5b0602adb3d69c
+! Commit: 36096590625f7afd7f10595b60932b13e1b4079f
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -11662,6 +11662,7 @@ videocardz.com##.social-item-mail
 videocardz.com##.social-item-media
 knewz.com,revolvermag.com##.social-items
 afro.com,berlin-live.de,elsol.com.ar,hongkongfp.com,investigatemidwest.org,lafocusnews.com,ourweekly.com,theatlantavoice.com,washingtoncitypaper.com,washingtonmonthly.com##.social-links-menu
+complex.com##.social-links-top
 bidfood.nl,businesspost.ie##.social-links-wrapper
 denofgeek.com##.social-links__anchor--sharing
 casino.org##.social-list
